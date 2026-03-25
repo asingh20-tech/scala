@@ -214,7 +214,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Users/adityarajsingh/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home",
+                "home": "/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/adityarajsingh/scala344/project"
                 ]
@@ -223,7 +223,7 @@
                 
             ],
             "runtimeConfig": {
-                "home": "/Users/adityarajsingh/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home",
+                "home": "/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/adityarajsingh/scala344/project"
                 ]

@@ -94,3 +94,301 @@ Mar 24, 2026 8:12:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 INFO: Unsupported notification method: $/setTrace
 Mar 24, 2026 8:12:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.03.25 07:40:42 INFO  compiling root (1 scala source)
+2026.03.25 07:40:42 INFO  time: compiled root in 0.39s
+2026.03.25 07:41:55 INFO  compiling root (1 scala source)
+2026.03.25 07:41:56 INFO  time: compiled root in 1.06s
+Mar 25, 2026 8:54:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 742
+2026.03.25 10:20:45 INFO  compiling root (1 scala source)
+2026.03.25 10:20:45 INFO  time: compiled root in 0.16s
+2026.03.25 10:20:49 INFO  compiling root (1 scala source)
+2026.03.25 10:20:50 INFO  time: compiled root in 1.03s
+2026.03.25 10:20:52 INFO  compiling root (1 scala source)
+2026.03.25 10:20:52 INFO  time: compiled root in 0.68s
+2026.03.25 10:20:55 INFO  compiling root (1 scala source)
+2026.03.25 10:20:55 INFO  time: compiled root in 0.65s
+2026.03.25 10:21:04 INFO  compiling root (1 scala source)
+2026.03.25 10:21:04 INFO  time: compiled root in 0.61s
+2026.03.25 10:21:12 INFO  compiling root (1 scala source)
+2026.03.25 10:21:12 INFO  time: compiled root in 0.62s
+2026.03.25 10:21:14 INFO  compiling root (1 scala source)
+2026.03.25 10:21:14 INFO  time: compiled root in 0.56s
+2026.03.25 10:21:42 INFO  compiling root (1 scala source)
+2026.03.25 10:21:42 INFO  time: compiled root in 0.14s
+Mar 25, 2026 10:22:00 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$Block,scala.reflect.internal.Trees$If, auto import position was Some(AutoImportPosition(51,0,false))
+Mar 25, 2026 10:22:00 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$AppliedTypeTree,scala.reflect.internal.Trees$DefDef,scala.reflect.internal.Trees$Template,scala.reflect.internal.Trees$ClassDef, auto import position was Some(AutoImportPosition(51,0,false))
+Mar 25, 2026 10:22:00 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$AppliedTypeTree,scala.reflect.internal.Trees$ValDef,scala.reflect.internal.Trees$Template,scala.reflect.internal.Trees$ClassDef, auto import position was Some(AutoImportPosition(51,0,false))
+2026.03.25 10:22:15 INFO  compiling root (1 scala source)
+2026.03.25 10:22:15 INFO  time: compiled root in 0.58s
+2026.03.25 10:22:18 INFO  compiling root (1 scala source)
+2026.03.25 10:22:18 INFO  time: compiled root in 56ms
+2026.03.25 10:22:22 INFO  compiling root (1 scala source)
+2026.03.25 10:22:22 INFO  time: compiled root in 0.59s
+2026.03.25 10:23:14 INFO  compiling root (1 scala source)
+2026.03.25 10:23:14 INFO  time: compiled root in 0.13s
+Mar 25, 2026 10:36:13 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$ValDef,scala.reflect.internal.Trees$Template,scala.reflect.internal.Trees$ClassDef,scala.reflect.internal.Trees$PackageDef, auto import position was Some(AutoImportPosition(51,0,false))
+Mar 25, 2026 10:36:13 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$ValDef,scala.reflect.internal.Trees$Template,scala.reflect.internal.Trees$ClassDef,scala.reflect.internal.Trees$PackageDef, auto import position was Some(AutoImportPosition(51,0,false))
+Mar 25, 2026 10:36:13 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$ValDef,scala.reflect.internal.Trees$Template,scala.reflect.internal.Trees$ClassDef,scala.reflect.internal.Trees$PackageDef, auto import position was Some(AutoImportPosition(51,0,false))
+2026.03.25 10:36:13 INFO  compiling root (1 scala source)
+2026.03.25 10:36:13 INFO  time: compiled root in 0.41s
+2026.03.25 10:43:22 INFO  compiling root (1 scala source)
+2026.03.25 10:43:22 INFO  time: compiled root in 0.39s
+2026.03.25 10:43:24 INFO  compiling root (1 scala source)
+2026.03.25 10:43:24 INFO  time: compiled root in 0.2s
+2026.03.25 10:43:28 INFO  compiling root (1 scala source)
+2026.03.25 10:43:28 INFO  time: compiled root in 0.17s
+2026.03.25 10:44:46 INFO  compiling root (1 scala source)
+2026.03.25 10:44:46 INFO  time: compiled root in 0.2s
+2026.03.25 10:44:49 INFO  compiling root (1 scala source)
+2026.03.25 10:44:49 INFO  time: compiled root in 0.12s
+2026.03.25 10:44:55 INFO  compiling root (1 scala source)
+2026.03.25 10:44:55 INFO  time: compiled root in 0.21s
+2026.03.25 10:45:34 INFO  compiling root (1 scala source)
+2026.03.25 10:45:34 INFO  time: compiled root in 0.14s
+2026.03.25 10:45:38 INFO  compiling root (1 scala source)
+2026.03.25 10:45:38 INFO  time: compiled root in 0.11s
+Mar 25, 2026 10:45:40 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example.RecursiveDescent, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$DefDef,scala.reflect.internal.Trees$Template, auto import position was Some(AutoImportPosition(51,0,false))
+2026.03.25 10:45:41 INFO  compiling root (1 scala source)
+2026.03.25 10:45:41 INFO  time: compiled root in 0.12s
+2026.03.25 10:45:45 INFO  compiling root (1 scala source)
+2026.03.25 10:45:45 INFO  time: compiled root in 58ms
+2026.03.25 10:45:51 INFO  compiling root (1 scala source)
+2026.03.25 10:45:51 INFO  time: compiled root in 0.12s
+2026.03.25 10:45:53 INFO  compiling root (1 scala source)
+2026.03.25 10:45:53 INFO  time: compiled root in 0.12s
+2026.03.25 10:45:54 INFO  compiling root (1 scala source)
+2026.03.25 10:45:54 INFO  time: compiled root in 0.11s
+2026.03.25 10:46:06 INFO  compiling root (1 scala source)
+2026.03.25 10:46:06 INFO  time: compiled root in 0.15s
+2026.03.25 10:46:09 INFO  compiling root (1 scala source)
+2026.03.25 10:46:09 INFO  time: compiled root in 0.11s
+2026.03.25 10:46:13 INFO  compiling root (1 scala source)
+2026.03.25 10:46:13 INFO  time: compiled root in 0.13s
+2026.03.25 10:46:36 INFO  compiling root (1 scala source)
+2026.03.25 10:46:36 INFO  time: compiled root in 0.13s
+2026.03.25 10:46:39 INFO  compiling root (1 scala source)
+2026.03.25 10:46:39 INFO  time: compiled root in 88ms
+Mar 25, 2026 10:46:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2084
+Mar 25, 2026 10:46:50 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for example.RecursiveDescent, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$DefDef,scala.reflect.internal.Trees$Template, auto import position was Some(AutoImportPosition(51,0,false))
+2026.03.25 10:46:51 INFO  compiling root (1 scala source)
+2026.03.25 10:46:51 INFO  time: compiled root in 0.12s
+2026.03.25 10:46:55 INFO  compiling root (1 scala source)
+2026.03.25 10:46:55 INFO  time: compiled root in 64ms
+2026.03.25 10:46:56 INFO  compiling root (1 scala source)
+2026.03.25 10:46:56 INFO  time: compiled root in 59ms
+Mar 25, 2026 10:47:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2161
+Mar 25, 2026 10:47:32 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2026.03.25 10:47:33 INFO  compiling root (1 scala source)
+2026.03.25 10:47:33 INFO  time: compiled root in 81ms
+2026.03.25 10:48:08 INFO  compiling root (1 scala source)
+2026.03.25 10:48:08 INFO  time: compiled root in 0.13s
+2026.03.25 10:48:11 INFO  compiling root (1 scala source)
+2026.03.25 10:48:11 INFO  time: compiled root in 58ms
+2026.03.25 10:48:13 INFO  compiling root (1 scala source)
+2026.03.25 10:48:13 INFO  time: compiled root in 0.13s
+2026.03.25 10:48:26 INFO  compiling root (1 scala source)
+2026.03.25 10:48:26 INFO  time: compiled root in 0.66s
+2026.03.25 10:48:31 INFO  compiling root (1 scala source)
+2026.03.25 10:48:31 INFO  time: compiled root in 0.1s
+2026.03.25 10:48:37 INFO  compiling root (1 scala source)
+2026.03.25 10:48:37 INFO  time: compiled root in 0.15s
+2026.03.25 10:48:39 INFO  compiling root (1 scala source)
+2026.03.25 10:48:39 INFO  time: compiled root in 0.1s
+2026.03.25 10:48:43 INFO  compiling root (1 scala source)
+2026.03.25 10:48:43 INFO  time: compiled root in 0.12s
+2026.03.25 10:49:23 INFO  compiling root (1 scala source)
+2026.03.25 10:49:23 INFO  time: compiled root in 0.12s
+2026.03.25 10:49:30 INFO  compiling root (1 scala source)
+2026.03.25 10:49:30 INFO  time: compiled root in 0.11s
+2026.03.25 10:49:35 INFO  compiling root (1 scala source)
+2026.03.25 10:49:35 INFO  time: compiled root in 96ms
+2026.03.25 10:49:37 INFO  compiling root (1 scala source)
+2026.03.25 10:49:37 INFO  time: compiled root in 0.82s
+2026.03.25 10:49:39 INFO  compiling root (1 scala source)
+2026.03.25 10:49:39 INFO  time: compiled root in 73ms
+2026.03.25 10:49:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.25 10:49:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.25 10:50:21 INFO  compiling root (1 scala source)
+2026.03.25 10:50:21 INFO  time: compiled root in 0.13s
+2026.03.25 10:50:27 INFO  compiling root (1 scala source)
+2026.03.25 10:50:27 INFO  time: compiled root in 0.69s
+2026.03.25 10:51:15 INFO  compiling root (1 scala source)
+2026.03.25 10:51:15 INFO  time: compiled root in 80ms
+2026.03.25 10:51:16 INFO  compiling root (1 scala source)
+2026.03.25 10:51:16 INFO  time: compiled root in 0.69s
+2026.03.25 10:51:51 INFO  compiling root (1 scala source)
+2026.03.25 10:51:51 INFO  time: compiled root in 80ms
+2026.03.25 10:51:54 INFO  compiling root (1 scala source)
+2026.03.25 10:51:54 INFO  time: compiled root in 0.69s
+2026.03.25 10:52:08 INFO  compiling root (1 scala source)
+2026.03.25 10:52:08 INFO  time: compiled root in 81ms
+2026.03.25 10:52:10 INFO  compiling root (1 scala source)
+2026.03.25 10:52:10 INFO  time: compiled root in 0.65s
+2026.03.25 10:52:32 INFO  compiling root (1 scala source)
+2026.03.25 10:52:32 INFO  time: compiled root in 95ms
+2026.03.25 10:52:34 INFO  compiling root (1 scala source)
+2026.03.25 10:52:34 INFO  time: compiled root in 0.62s
+2026.03.25 10:52:42 INFO  compiling root (1 scala source)
+2026.03.25 10:52:42 INFO  time: compiled root in 0.58s
+2026.03.25 10:53:17 INFO  compiling root (1 scala source)
+2026.03.25 10:53:17 INFO  time: compiled root in 0.18s
+2026.03.25 10:53:32 INFO  compiling root (1 scala source)
+2026.03.25 10:53:32 INFO  time: compiled root in 0.66s
+Mar 25, 2026 10:57:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3173
+2026.03.25 10:57:53 INFO  compiling root (1 scala source)
+2026.03.25 10:57:55 INFO  time: compiled root in 1.39s
+2026.03.25 11:47:05 INFO  compiling root (1 scala source)
+2026.03.25 11:47:07 INFO  time: compiled root in 1.21s
+2026.03.25 11:47:07 INFO  compiling root (1 scala source)
+2026.03.25 11:47:07 INFO  time: compiled root in 67ms
+2026.03.25 11:47:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.25 11:47:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.25 11:47:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.25 11:47:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.25 11:47:14 INFO  compiling root (1 scala source)
+2026.03.25 11:47:14 INFO  time: compiled root in 0.81s
+2026.03.25 11:47:23 INFO  compiling root (1 scala source)
+2026.03.25 11:47:23 INFO  time: compiled root in 0.14s
+2026.03.25 11:47:24 INFO  compiling root (1 scala source)
+2026.03.25 11:47:24 INFO  time: compiled root in 0.14s
+2026.03.25 11:47:42 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala]
+2026.03.25 11:47:42 INFO  expected identifier; obtained case (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-03-25/r_scala-toplevel-mtags_11-47-42-089.md")
+2026.03.25 11:47:42 INFO  compiling root (1 scala source)
+2026.03.25 11:47:42 INFO  time: compiled root in 69ms
+2026.03.25 11:47:43 INFO  compiling root (1 scala source)
+2026.03.25 11:47:43 INFO  time: compiled root in 49ms
+2026.03.25 11:47:45 INFO  compiling root (1 scala source)
+2026.03.25 11:47:45 INFO  time: compiled root in 0.12s
+2026.03.25 11:47:53 INFO  compiling root (1 scala source)
+2026.03.25 11:47:53 INFO  time: compiled root in 86ms
+2026.03.25 11:48:01 INFO  compiling root (1 scala source)
+2026.03.25 11:48:01 INFO  time: compiled root in 0.17s
+2026.03.25 11:48:06 INFO  compiling root (1 scala source)
+2026.03.25 11:48:06 INFO  time: compiled root in 58ms
+2026.03.25 11:48:11 INFO  compiling root (1 scala source)
+2026.03.25 11:48:11 INFO  time: compiled root in 0.59s
+2026.03.25 11:48:13 INFO  compiling root (1 scala source)
+2026.03.25 11:48:13 INFO  time: compiled root in 0.18s
+2026.03.25 11:48:17 INFO  compiling root (1 scala source)
+2026.03.25 11:48:17 INFO  time: compiled root in 0.63s
+2026.03.25 11:48:23 INFO  compiling root (1 scala source)
+2026.03.25 11:48:23 INFO  time: compiled root in 72ms
+2026.03.25 11:48:39 INFO  compiling root (1 scala source)
+2026.03.25 11:48:39 INFO  time: compiled root in 0.14s
+2026.03.25 11:48:42 INFO  compiling root (1 scala source)
+2026.03.25 11:48:42 INFO  time: compiled root in 0.15s
+2026.03.25 11:48:44 INFO  compiling root (1 scala source)
+2026.03.25 11:48:44 INFO  time: compiled root in 0.65s
+2026.03.25 11:49:53 INFO  compiling root (1 scala source)
+2026.03.25 11:49:53 INFO  time: compiled root in 82ms
+2026.03.25 11:49:55 INFO  compiling root (1 scala source)
+2026.03.25 11:49:55 INFO  time: compiled root in 0.6s
+2026.03.25 11:50:20 INFO  compiling root (1 scala source)
+2026.03.25 11:50:20 INFO  time: compiled root in 0.12s
+2026.03.25 11:51:36 INFO  compiling root (1 scala source)
+2026.03.25 11:51:36 INFO  time: compiled root in 0.14s
+2026.03.25 11:51:54 INFO  compiling root (1 scala source)
+2026.03.25 11:51:54 INFO  time: compiled root in 0.11s
+2026.03.25 11:51:57 INFO  compiling root (1 scala source)
+2026.03.25 11:51:57 INFO  time: compiled root in 95ms
+2026.03.25 11:57:59 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala]
+2026.03.25 11:57:59 INFO  expected identifier; obtained def (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-03-25/r_scala-toplevel-mtags_11-57-59-134.md")
+2026.03.25 11:57:59 INFO  compiling root (1 scala source)
+2026.03.25 11:57:59 INFO  time: compiled root in 86ms
+2026.03.25 11:58:01 INFO  compiling root (1 scala source)
+2026.03.25 11:58:01 INFO  time: compiled root in 0.14s
+2026.03.25 11:58:02 INFO  compiling root (1 scala source)
+2026.03.25 11:58:02 INFO  time: compiled root in 71ms
+2026.03.25 11:58:05 INFO  compiling root (1 scala source)
+2026.03.25 11:58:05 INFO  time: compiled root in 0.1s
+2026.03.25 11:58:07 INFO  compiling root (1 scala source)
+2026.03.25 11:58:07 INFO  time: compiled root in 54ms
+2026.03.25 11:58:09 INFO  compiling root (1 scala source)
+2026.03.25 11:58:09 INFO  time: compiled root in 0.1s
+2026.03.25 11:58:14 INFO  compiling root (1 scala source)
+2026.03.25 11:58:14 INFO  time: compiled root in 0.11s
+2026.03.25 11:58:49 INFO  compiling root (1 scala source)
+2026.03.25 11:58:49 INFO  time: compiled root in 0.1s
+2026.03.25 11:58:50 INFO  compiling root (1 scala source)
+2026.03.25 11:58:50 INFO  time: compiled root in 99ms
+2026.03.25 11:58:52 INFO  compiling root (1 scala source)
+2026.03.25 11:58:52 INFO  time: compiled root in 0.11s
+2026.03.25 11:58:58 INFO  compiling root (1 scala source)
+2026.03.25 11:58:58 INFO  time: compiled root in 0.12s
+2026.03.25 11:59:01 INFO  compiling root (1 scala source)
+2026.03.25 11:59:01 INFO  time: compiled root in 99ms
+2026.03.25 11:59:02 INFO  compiling root (1 scala source)
+2026.03.25 11:59:02 INFO  time: compiled root in 39ms
+2026.03.25 11:59:08 INFO  compiling root (1 scala source)
+2026.03.25 11:59:08 INFO  time: compiled root in 0.13s
+2026.03.25 11:59:10 INFO  compiling root (1 scala source)
+2026.03.25 11:59:10 INFO  time: compiled root in 86ms
+2026.03.25 11:59:12 INFO  compiling root (1 scala source)
+2026.03.25 11:59:12 INFO  time: compiled root in 97ms
+Mar 25, 2026 11:59:18 AM scala.meta.internal.pc.AutoImportsProvider$$anonfun$1 applyOrElse
+WARNING: Could not infer edits for RecursiveDescent, tree around the position were scala.reflect.internal.Trees$Ident,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$Apply,scala.reflect.internal.Trees$DefDef,scala.reflect.internal.Trees$Template, auto import position was Some(AutoImportPosition(33,0,false))
+2026.03.25 11:59:19 INFO  compiling root (1 scala source)
+2026.03.25 11:59:19 INFO  time: compiled root in 0.12s
+2026.03.25 11:59:21 INFO  compiling root (1 scala source)
+2026.03.25 11:59:21 INFO  time: compiled root in 83ms
+2026.03.25 11:59:27 INFO  compiling root (1 scala source)
+2026.03.25 11:59:27 INFO  time: compiled root in 0.13s
+2026.03.25 11:59:28 INFO  compiling root (1 scala source)
+2026.03.25 11:59:28 INFO  time: compiled root in 97ms
+2026.03.25 11:59:32 INFO  compiling root (1 scala source)
+2026.03.25 11:59:32 INFO  time: compiled root in 0.1s
+2026.03.25 11:59:37 INFO  compiling root (1 scala source)
+2026.03.25 11:59:37 INFO  time: compiled root in 0.61s
+2026.03.25 11:59:40 INFO  compiling root (1 scala source)
+2026.03.25 11:59:40 INFO  time: compiled root in 0.12s
+2026.03.25 11:59:48 INFO  compiling root (1 scala source)
+2026.03.25 11:59:48 INFO  time: compiled root in 0.11s
+2026.03.25 11:59:52 INFO  compiling root (1 scala source)
+2026.03.25 11:59:52 INFO  time: compiled root in 73ms
+2026.03.25 11:59:54 INFO  compiling root (1 scala source)
+2026.03.25 11:59:54 INFO  time: compiled root in 0.11s
+2026.03.25 11:59:57 INFO  compiling root (1 scala source)
+2026.03.25 11:59:57 INFO  time: compiled root in 0.12s
+2026.03.25 12:00:20 INFO  compiling root (1 scala source)
+2026.03.25 12:00:20 INFO  time: compiled root in 0.14s
+2026.03.25 12:00:23 INFO  compiling root (1 scala source)
+2026.03.25 12:00:23 INFO  time: compiled root in 0.8s
+2026.03.25 12:04:17 INFO  compiling root (1 scala source)
+2026.03.25 12:04:17 INFO  time: compiled root in 0.17s
+2026.03.25 12:04:19 INFO  compiling root (1 scala source)
+2026.03.25 12:04:19 INFO  time: compiled root in 68ms
+2026.03.25 12:04:27 INFO  compiling root (1 scala source)
+2026.03.25 12:04:29 INFO  time: compiled root in 1.14s
+2026.03.25 12:05:36 INFO  compiling root (1 scala source)
+2026.03.25 12:05:36 INFO  time: compiled root in 0.21s
+2026.03.25 12:05:37 INFO  compiling root (1 scala source)
+2026.03.25 12:05:37 INFO  time: compiled root in 0.71s
+2026.03.25 12:05:41 INFO  compiling root (1 scala source)
+2026.03.25 12:05:41 INFO  time: compiled root in 74ms
+2026.03.25 12:05:47 INFO  compiling root (1 scala source)
+2026.03.25 12:05:47 INFO  time: compiled root in 0.87s
+2026.03.25 12:07:29 INFO  compiling root (1 scala source)
+2026.03.25 12:07:29 INFO  time: compiled root in 0.17s
+Mar 25, 2026 12:07:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5672
+2026.03.25 12:07:31 INFO  compiling root (1 scala source)
+2026.03.25 12:07:31 INFO  time: compiled root in 0.68s
+2026.03.25 12:09:06 INFO  compiling root (1 scala source)
+2026.03.25 12:09:06 INFO  time: compiled root in 0.72s
+2026.03.25 12:09:07 INFO  compiling root (1 scala source)
+2026.03.25 12:09:07 INFO  time: compiled root in 0.32s
+2026.03.25 12:09:09 INFO  compiling root (1 scala source)
+2026.03.25 12:09:09 INFO  time: compiled root in 0.7s
