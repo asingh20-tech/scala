@@ -1,0 +1,96 @@
+2026.03.24 12:55:01 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.24 12:55:01 INFO  Memory monitor started
+2026.03.24 12:55:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.24 12:55:05 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2026.03.24 12:55:05 INFO  no build target found for /Users/adityarajsingh/scala344/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 12:55:05 WARN  no build target for: /Users/adityarajsingh/scala344/project/metals.sbt
+2026.03.24 12:55:05 WARN  no build target for: /Users/adityarajsingh/scala344/project/project/metals.sbt
+2026.03.24 12:55:09 ERROR [info] [launcher] getting org.scala-sbt sbt 1.12.6  (this may take some time)...
+2026.03.24 12:55:11 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 12:55:12 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 24, 2026 12:55:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.24 12:55:11 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 12:55:12 INFO  no build target found for /Users/adityarajsingh/scala344/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 12:55:13 INFO  [info] welcome to sbt 1.12.6 (Oracle Corporation Java 23.0.2)
+2026.03.24 12:55:13 INFO  [info] loading settings for project scala344-build-build from metals.sbt...
+2026.03.24 12:55:15 INFO  [info] loading project definition from /Users/adityarajsingh/scala344/project/project
+2026.03.24 12:55:16 INFO  [info] loading settings for project scala344-build from metals.sbt...
+2026.03.24 12:55:16 INFO  [info] loading project definition from /Users/adityarajsingh/scala344/project
+2026.03.24 12:55:16 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 12:55:18 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 12:55:19 INFO  [success] Generated .bloop/scala344-build.json
+2026.03.24 12:55:19 INFO  [info] compiling 1 Scala source to /Users/adityarajsingh/scala344/project/target/scala-2.12/sbt-1.0/classes ...
+2026.03.24 12:55:19 INFO  [info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.21. Compiling...
+2026.03.24 12:55:25 INFO  [info]   Compilation completed in 5.25s.
+2026.03.24 12:55:25 INFO  [info] done compiling
+2026.03.24 12:55:25 INFO  [success] Total time: 10 s, completed Mar 24, 2026, 12:55:26 PM
+2026.03.24 12:55:29 INFO  [info] loading settings for project root from build.sbt...
+2026.03.24 12:55:29 INFO  [info] set current project to scala344 (in build file:/Users/adityarajsingh/scala344/)
+2026.03.24 12:55:32 INFO  [success] Generated .bloop/root.json
+2026.03.24 12:55:32 INFO  [success] Generated .bloop/root-test.json
+2026.03.24 12:55:32 INFO  [success] Total time: 4 s, completed Mar 24, 2026, 12:55:32 PM
+2026.03.24 12:55:33 INFO  time: ran 'sbt bloopInstall' in 27s
+2026.03.24 12:55:33 INFO  Attempting to connect to the build server...
+2026.03.24 12:55:33 INFO  No running Bloop server found, starting one.
+2026.03.24 12:55:43 INFO  Starting compilation server
+2026.03.24 12:55:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.24 12:55:46 INFO  Attempting to connect to the build server...
+2026.03.24 12:55:46 INFO  Found a Bloop server running
+2026.03.24 12:55:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.24 12:55:48 INFO  time: Connected to build server in 15s
+2026.03.24 12:55:48 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.24 12:55:55 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.24 12:55:56 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/jar:file:/Users/adityarajsingh/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/lib/src.zip!/jdk.javadoc/jdk/javadoc/internal/doclets/formats/html/HtmlConfiguration.java]
+2026.03.24 12:55:56 INFO  Java indexer failed with and exception. (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-24/r_failed-idex-java_12-55-56-584.md")
+2026.03.24 12:56:04 INFO  time: indexed workspace in 16s
+2026.03.24 12:56:05 INFO  compiling root (1 scala source)
+2026.03.24 12:56:06 INFO  compiling root-test (1 scala source)
+2026.03.24 12:56:06 INFO  time: compiled root in 1.96s
+2026.03.24 12:56:06 INFO  time: compiled root-test in 0.37s
+2026.03.24 13:22:05 INFO  compiling root (1 scala source)
+2026.03.24 13:22:05 INFO  time: compiled root in 0.11s
+Mar 24, 2026 1:22:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+2026.03.24 19:59:58 INFO  compiling root (1 scala source)
+2026.03.24 19:59:58 INFO  time: compiled root in 78ms
+2026.03.24 20:11:40 INFO  compiling root (1 scala source)
+2026.03.24 20:11:40 INFO  time: compiled root in 96ms
+2026.03.24 20:11:46 INFO  compiling root (1 scala source)
+2026.03.24 20:11:46 INFO  time: compiled root in 0.3s
+2026.03.24 20:11:48 INFO  compiling root (1 scala source)
+2026.03.24 20:11:48 INFO  time: compiled root in 0.22s
+2026.03.24 20:11:59 INFO  compiling root (1 scala source)
+2026.03.24 20:11:59 INFO  time: compiled root in 0.29s
+2026.03.24 20:12:01 INFO  compiling root (1 scala source)
+2026.03.24 20:12:01 INFO  time: compiled root in 0.26s
+2026.03.24 20:12:03 INFO  compiling root (1 scala source)
+2026.03.24 20:12:03 INFO  time: compiled root in 0.25s
+2026.03.24 20:12:04 INFO  compiling root (1 scala source)
+2026.03.24 20:12:04 INFO  time: compiled root in 0.24s
+2026.03.24 20:12:06 INFO  compiling root (1 scala source)
+2026.03.24 20:12:06 INFO  time: compiled root in 0.25s
+2026.03.24 20:12:10 INFO  compiling root (1 scala source)
+2026.03.24 20:12:10 INFO  time: compiled root in 63ms
+2026.03.24 20:12:14 INFO  compiling root (1 scala source)
+2026.03.24 20:12:14 INFO  time: compiled root in 56ms
+2026.03.24 20:12:19 INFO  compiling root (1 scala source)
+2026.03.24 20:12:19 INFO  time: compiled root in 76ms
+2026.03.24 20:12:22 INFO  compiling root (1 scala source)
+2026.03.24 20:12:22 INFO  time: compiled root in 0.31s
+2026.03.24 20:12:28 INFO  compiling root (1 scala source)
+2026.03.24 20:12:28 INFO  time: compiled root in 0.35s
+2026.03.24 20:12:29 INFO  compiling root (1 scala source)
+2026.03.24 20:12:29 INFO  time: compiled root in 57ms
+Mar 24, 2026 8:12:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 469
+2026.03.24 20:12:32 INFO  compiling root (1 scala source)
+2026.03.24 20:12:32 INFO  time: compiled root in 53ms
+2026.03.24 20:12:33 INFO  compiling root (1 scala source)
+2026.03.24 20:12:33 INFO  time: compiled root in 46ms
+2026.03.24 20:12:37 INFO  compiling root (1 scala source)
+2026.03.24 20:12:37 INFO  time: compiled root in 0.32s
+Mar 24, 2026 8:12:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 24, 2026 8:12:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
