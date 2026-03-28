@@ -392,3 +392,80 @@ WARNING: Unmatched cancel notification for request id 5672
 2026.03.25 12:09:07 INFO  time: compiled root in 0.32s
 2026.03.25 12:09:09 INFO  compiling root (1 scala source)
 2026.03.25 12:09:09 INFO  time: compiled root in 0.7s
+2026.03.25 18:09:51 INFO  Shutting down server
+2026.03.25 18:09:51 INFO  Memory monitor stopped
+2026.03.25 18:09:51 INFO  shutting down Metals
+2026.03.25 18:09:51 INFO  Exiting server
+2026.03.25 18:09:51 INFO  Shut down connection with build server.
+2026.03.25 18:09:51 INFO  Shut down connection with build server.
+2026.03.25 21:28:49 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.25 21:28:49 INFO  Memory monitor started
+2026.03.25 21:28:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.25 21:28:49 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 21:28:49 INFO  Attempting to connect to the build server...
+2026.03.25 21:28:49 INFO  Found a Bloop server running
+2026.03.25 21:28:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.25 21:28:50 INFO  Attempting to connect to the build server...
+2026.03.25 21:28:50 INFO  Found a Bloop server running
+2026.03.25 21:28:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.25 21:28:49 INFO  time: Connected to build server in 0.45s
+2026.03.25 21:28:50 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.25 21:28:50 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 21:28:49 INFO  time: Imported build in 0.11s
+2026.03.25 21:28:53 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.25 21:28:53 INFO  time: indexed workspace in 4.01s
+2026.03.25 21:28:54 INFO  compiling root-test (1 scala source)
+2026.03.25 21:28:54 INFO  time: compiled root-test in 0.53s
+2026.03.26 10:35:36 INFO  Shutting down server
+2026.03.26 10:35:36 INFO  Memory monitor stopped
+2026.03.26 10:35:36 INFO  shutting down Metals
+2026.03.26 10:35:37 INFO  Shut down connection with build server.
+2026.03.26 10:35:37 INFO  Shut down connection with build server.
+2026.03.26 10:35:36 INFO  Exiting server
+2026.03.27 21:19:58 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.27 21:19:58 INFO  Memory monitor started
+2026.03.27 21:19:58 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.27 21:19:58 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.27 21:19:59 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.27 21:20:00 INFO  Attempting to connect to the build server...
+2026.03.27 21:20:00 INFO  Found a Bloop server running
+2026.03.27 21:20:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.27 21:20:01 INFO  Attempting to connect to the build server...
+2026.03.27 21:20:01 INFO  Found a Bloop server running
+2026.03.27 21:20:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.27 21:20:01 INFO  time: Connected to build server in 1.42s
+2026.03.27 21:20:01 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.27 21:20:01 INFO  time: Imported build in 0.13s
+2026.03.27 21:20:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.27 21:20:03 INFO  time: indexed workspace in 2.53s
+2026.03.27 21:20:04 INFO  compiling root-test (1 scala source)
+2026.03.27 21:20:04 INFO  time: compiled root-test in 0.55s
+2026.03.27 22:22:21 INFO  Shutting down server
+2026.03.27 22:22:21 INFO  Memory monitor stopped
+2026.03.27 22:22:21 INFO  shutting down Metals
+2026.03.27 22:22:21 INFO  Shut down connection with build server.
+2026.03.27 22:22:21 INFO  Shut down connection with build server.
+2026.03.27 22:22:21 INFO  Exiting server
+2026.03.28 13:54:56 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.28 13:54:56 INFO  Memory monitor started
+2026.03.28 13:54:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.28 13:54:56 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.28 13:54:57 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.28 13:54:57 INFO  Attempting to connect to the build server...
+2026.03.28 13:54:57 INFO  Found a Bloop server running
+2026.03.28 13:54:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.28 13:54:57 INFO  Attempting to connect to the build server...
+2026.03.28 13:54:57 INFO  Found a Bloop server running
+2026.03.28 13:54:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.28 13:54:57 INFO  time: Connected to build server in 0.32s
+2026.03.28 13:54:57 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.28 13:55:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.28 13:55:00 INFO  time: indexed workspace in 3.71s
+2026.03.28 13:55:01 INFO  compiling root-test (1 scala source)
+2026.03.28 13:55:01 INFO  time: compiled root-test in 0.44s
+2026.03.28 13:55:37 INFO  compiling root (1 scala source)
+2026.03.28 13:55:37 INFO  time: compiled root in 0.55s
+2026.03.28 13:55:37 INFO  compiling root (1 scala source)
+2026.03.28 13:55:38 INFO  time: compiled root in 0.16s
+Mar 28, 2026 1:55:42 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
