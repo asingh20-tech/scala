@@ -41,6 +41,8 @@ case class T(l: Terminal, right: Option[T2]) extends S {
 case class T2(l : T) extends S{
   def eval(env: Main.Environment): Int = l.eval(env)
 }
+
+
 case class E2(l: E) extends S {
   def eval(env: Main.Environment): Int = l.eval(env)
 }
