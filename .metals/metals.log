@@ -1482,3 +1482,2235 @@ WARNING: Unmatched cancel notification for request id 14303
 2026.03.29 00:31:49 INFO  time: compiled root in 79ms
 2026.03.29 00:31:53 INFO  compiling root (1 scala source)
 2026.03.29 00:31:53 INFO  time: compiled root in 87ms
+2026.03.29 00:32:48 INFO  compiling root (1 scala source)
+2026.03.29 00:32:48 INFO  time: compiled root in 82ms
+2026.03.29 00:32:50 INFO  compiling root (1 scala source)
+2026.03.29 00:32:50 INFO  time: compiled root in 47ms
+2026.03.29 00:32:58 INFO  compiling root (1 scala source)
+2026.03.29 00:32:58 INFO  time: compiled root in 95ms
+2026.03.29 00:33:25 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 00:33:27 INFO  compiling root (1 scala source)
+2026.03.29 00:33:27 INFO  time: compiled root in 67ms
+2026.03.29 00:33:29 INFO  compiling root (1 scala source)
+2026.03.29 00:33:29 INFO  time: compiled root in 57ms
+2026.03.29 00:33:35 INFO  compiling root (1 scala source)
+2026.03.29 00:33:35 INFO  time: compiled root in 64ms
+2026.03.29 00:34:10 INFO  compiling root (1 scala source)
+2026.03.29 00:34:10 INFO  time: compiled root in 85ms
+2026.03.29 00:34:13 INFO  compiling root (1 scala source)
+2026.03.29 00:34:13 INFO  time: compiled root in 47ms
+2026.03.29 00:34:25 INFO  compiling root (1 scala source)
+2026.03.29 00:34:25 INFO  time: compiled root in 82ms
+2026.03.29 00:35:13 INFO  compiling root (1 scala source)
+2026.03.29 00:35:13 INFO  time: compiled root in 75ms
+2026.03.29 00:35:14 INFO  compiling root (1 scala source)
+2026.03.29 00:35:14 INFO  time: compiled root in 53ms
+2026.03.29 00:35:20 INFO  compiling root (1 scala source)
+2026.03.29 00:35:20 INFO  time: compiled root in 49ms
+2026.03.29 00:35:23 INFO  compiling root (1 scala source)
+2026.03.29 00:35:23 INFO  time: compiled root in 56ms
+2026.03.29 00:35:31 INFO  compiling root (1 scala source)
+2026.03.29 00:35:31 INFO  time: compiled root in 62ms
+2026.03.29 00:35:32 INFO  compiling root (1 scala source)
+2026.03.29 00:35:32 INFO  time: compiled root in 43ms
+2026.03.29 00:35:42 INFO  compiling root (1 scala source)
+2026.03.29 00:35:42 INFO  time: compiled root in 81ms
+Mar 29, 2026 12:35:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14872
+2026.03.29 00:35:58 INFO  compiling root (1 scala source)
+2026.03.29 00:35:58 INFO  time: compiled root in 90ms
+2026.03.29 00:36:01 INFO  compiling root (1 scala source)
+2026.03.29 00:36:01 INFO  time: compiled root in 59ms
+2026.03.29 00:36:04 WARN  Could not find 'Generator' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2026.03.29 00:36:04 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 00:36:05 WARN  Could not find 'Generator' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2026.03.29 00:36:05 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 00:36:59 INFO  compiling root (1 scala source)
+2026.03.29 00:36:59 INFO  time: compiled root in 73ms
+2026.03.29 00:37:00 INFO  compiling root (1 scala source)
+2026.03.29 00:37:00 INFO  time: compiled root in 39ms
+Mar 29, 2026 12:37:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15041
+2026.03.29 00:37:06 INFO  compiling root (1 scala source)
+2026.03.29 00:37:06 INFO  time: compiled root in 96ms
+2026.03.29 00:38:36 INFO  compiling root (1 scala source)
+2026.03.29 00:38:36 INFO  time: compiled root in 0.12s
+2026.03.29 00:38:38 INFO  compiling root (1 scala source)
+2026.03.29 00:38:38 INFO  time: compiled root in 0.1s
+2026.03.29 00:38:42 INFO  compiling root (1 scala source)
+2026.03.29 00:38:42 INFO  time: compiled root in 95ms
+2026.03.29 00:38:43 INFO  compiling root (1 scala source)
+2026.03.29 00:38:43 INFO  time: compiled root in 80ms
+2026.03.29 00:38:48 INFO  compiling root (1 scala source)
+2026.03.29 00:38:48 INFO  time: compiled root in 0.13s
+2026.03.29 00:39:28 INFO  compiling root (1 scala source)
+2026.03.29 00:39:28 INFO  time: compiled root in 94ms
+2026.03.29 00:39:30 INFO  compiling root (1 scala source)
+2026.03.29 00:39:30 INFO  time: compiled root in 59ms
+2026.03.29 00:39:56 INFO  compiling root (1 scala source)
+2026.03.29 00:39:56 INFO  time: compiled root in 89ms
+2026.03.29 00:40:01 INFO  compiling root (1 scala source)
+2026.03.29 00:40:01 INFO  time: compiled root in 91ms
+2026.03.29 00:40:04 INFO  compiling root (1 scala source)
+2026.03.29 00:40:04 INFO  time: compiled root in 56ms
+2026.03.29 00:40:06 INFO  compiling root (1 scala source)
+2026.03.29 00:40:06 INFO  time: compiled root in 54ms
+2026.03.29 00:40:18 INFO  compiling root (1 scala source)
+2026.03.29 00:40:18 INFO  time: compiled root in 90ms
+2026.03.29 00:40:24 INFO  compiling root (1 scala source)
+2026.03.29 00:40:24 INFO  time: compiled root in 89ms
+2026.03.29 00:40:44 INFO  compiling root (1 scala source)
+2026.03.29 00:40:44 INFO  time: compiled root in 82ms
+2026.03.29 00:40:46 INFO  compiling root (1 scala source)
+2026.03.29 00:40:46 INFO  time: compiled root in 54ms
+2026.03.29 00:41:11 INFO  compiling root (1 scala source)
+2026.03.29 00:41:11 INFO  time: compiled root in 93ms
+2026.03.29 00:41:12 INFO  compiling root (1 scala source)
+2026.03.29 00:41:12 INFO  time: compiled root in 54ms
+2026.03.29 00:41:14 INFO  compiling root (1 scala source)
+2026.03.29 00:41:14 INFO  time: compiled root in 79ms
+2026.03.29 00:41:16 INFO  compiling root (1 scala source)
+2026.03.29 00:41:16 INFO  time: compiled root in 41ms
+2026.03.29 00:41:17 INFO  compiling root (1 scala source)
+2026.03.29 00:41:17 INFO  time: compiled root in 98ms
+2026.03.29 00:41:20 INFO  compiling root (1 scala source)
+2026.03.29 00:41:20 INFO  time: compiled root in 54ms
+2026.03.29 00:41:21 INFO  compiling root (1 scala source)
+2026.03.29 00:41:21 INFO  time: compiled root in 59ms
+2026.03.29 00:41:22 INFO  compiling root (1 scala source)
+2026.03.29 00:41:22 INFO  time: compiled root in 68ms
+2026.03.29 00:44:04 INFO  compiling root (1 scala source)
+2026.03.29 00:44:04 INFO  time: compiled root in 73ms
+2026.03.29 00:44:21 INFO  compiling root (1 scala source)
+2026.03.29 00:44:21 INFO  time: compiled root in 58ms
+2026.03.29 00:44:29 INFO  compiling root (1 scala source)
+2026.03.29 00:44:29 INFO  time: compiled root in 72ms
+2026.03.29 00:46:23 INFO  compiling root (1 scala source)
+2026.03.29 00:46:23 INFO  time: compiled root in 84ms
+2026.03.29 00:48:33 INFO  compiling root (1 scala source)
+2026.03.29 00:48:33 INFO  time: compiled root in 78ms
+2026.03.29 00:48:52 INFO  compiling root (1 scala source)
+2026.03.29 00:48:52 INFO  time: compiled root in 0.13s
+2026.03.29 00:51:33 INFO  compiling root (1 scala source)
+2026.03.29 00:51:33 INFO  time: compiled root in 66ms
+2026.03.29 00:51:36 INFO  compiling root (1 scala source)
+2026.03.29 00:51:36 INFO  time: compiled root in 52ms
+2026.03.29 00:51:38 INFO  compiling root (1 scala source)
+2026.03.29 00:51:38 INFO  time: compiled root in 54ms
+2026.03.29 00:51:42 INFO  compiling root (1 scala source)
+2026.03.29 00:51:42 INFO  time: compiled root in 77ms
+2026.03.29 00:51:43 INFO  compiling root (1 scala source)
+2026.03.29 00:51:43 INFO  time: compiled root in 52ms
+Mar 29, 2026 12:51:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15973
+2026.03.29 00:51:49 INFO  compiling root (1 scala source)
+2026.03.29 00:51:49 INFO  time: compiled root in 75ms
+2026.03.29 00:51:50 INFO  compiling root (1 scala source)
+2026.03.29 00:51:50 INFO  time: compiled root in 58ms
+2026.03.29 00:51:54 INFO  compiling root (1 scala source)
+2026.03.29 00:51:54 INFO  time: compiled root in 71ms
+2026.03.29 00:51:55 INFO  compiling root (1 scala source)
+2026.03.29 00:51:55 INFO  time: compiled root in 47ms
+2026.03.29 00:51:58 INFO  compiling root (1 scala source)
+2026.03.29 00:51:58 INFO  time: compiled root in 57ms
+2026.03.29 00:52:00 INFO  compiling root (1 scala source)
+2026.03.29 00:52:00 INFO  time: compiled root in 81ms
+2026.03.29 00:52:02 INFO  compiling root (1 scala source)
+2026.03.29 00:52:02 INFO  time: compiled root in 51ms
+2026.03.29 00:52:05 INFO  compiling root (1 scala source)
+2026.03.29 00:52:05 INFO  time: compiled root in 74ms
+2026.03.29 00:52:39 INFO  compiling root (1 scala source)
+2026.03.29 00:52:39 INFO  time: compiled root in 92ms
+2026.03.29 00:52:49 INFO  compiling root (1 scala source)
+2026.03.29 00:52:49 INFO  time: compiled root in 55ms
+2026.03.29 00:52:53 INFO  compiling root (1 scala source)
+2026.03.29 00:52:53 INFO  time: compiled root in 91ms
+2026.03.29 00:52:55 INFO  compiling root (1 scala source)
+2026.03.29 00:52:55 INFO  time: compiled root in 51ms
+2026.03.29 00:52:56 INFO  compiling root (1 scala source)
+2026.03.29 00:52:56 INFO  time: compiled root in 45ms
+2026.03.29 00:53:52 INFO  compiling root (1 scala source)
+2026.03.29 00:53:52 INFO  time: compiled root in 74ms
+2026.03.29 00:54:27 INFO  compiling root (1 scala source)
+2026.03.29 00:54:27 INFO  time: compiled root in 74ms
+2026.03.29 00:56:38 INFO  compiling root (1 scala source)
+2026.03.29 00:56:38 INFO  time: compiled root in 78ms
+2026.03.29 00:56:43 INFO  compiling root (1 scala source)
+2026.03.29 00:56:43 INFO  time: compiled root in 56ms
+2026.03.29 00:56:45 INFO  compiling root (1 scala source)
+2026.03.29 00:56:45 INFO  time: compiled root in 63ms
+2026.03.29 00:57:01 INFO  compiling root (1 scala source)
+2026.03.29 00:57:01 INFO  time: compiled root in 69ms
+2026.03.29 00:57:10 INFO  compiling root (1 scala source)
+2026.03.29 00:57:10 INFO  time: compiled root in 98ms
+2026.03.29 00:57:11 INFO  compiling root (1 scala source)
+2026.03.29 00:57:11 INFO  time: compiled root in 50ms
+Mar 29, 2026 12:57:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16613
+2026.03.29 00:57:14 INFO  compiling root (1 scala source)
+2026.03.29 00:57:14 INFO  time: compiled root in 95ms
+2026.03.29 00:57:15 INFO  compiling root (1 scala source)
+2026.03.29 00:57:15 INFO  time: compiled root in 62ms
+2026.03.29 00:57:31 INFO  compiling root (1 scala source)
+2026.03.29 00:57:31 INFO  time: compiled root in 68ms
+2026.03.29 00:58:22 INFO  compiling root (1 scala source)
+2026.03.29 00:58:22 INFO  time: compiled root in 0.12s
+2026.03.29 00:58:32 INFO  compiling root (1 scala source)
+2026.03.29 00:58:32 INFO  time: compiled root in 58ms
+2026.03.29 00:58:34 INFO  compiling root (1 scala source)
+2026.03.29 00:58:34 INFO  time: compiled root in 66ms
+2026.03.29 00:58:39 INFO  compiling root (1 scala source)
+2026.03.29 00:58:39 INFO  time: compiled root in 66ms
+2026.03.29 00:58:42 INFO  compiling root (1 scala source)
+2026.03.29 00:58:42 INFO  time: compiled root in 50ms
+2026.03.29 00:58:44 INFO  compiling root (1 scala source)
+2026.03.29 00:58:44 INFO  time: compiled root in 55ms
+2026.03.29 00:58:47 INFO  compiling root (1 scala source)
+2026.03.29 00:58:47 INFO  time: compiled root in 56ms
+2026.03.29 00:58:55 INFO  compiling root (1 scala source)
+2026.03.29 00:58:55 INFO  time: compiled root in 65ms
+2026.03.29 00:58:56 INFO  compiling root (1 scala source)
+2026.03.29 00:58:56 INFO  time: compiled root in 87ms
+2026.03.29 00:58:57 INFO  compiling root (1 scala source)
+2026.03.29 00:58:57 INFO  time: compiled root in 34ms
+2026.03.29 00:58:59 INFO  compiling root (1 scala source)
+2026.03.29 00:58:59 INFO  time: compiled root in 55ms
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.10.7/scalafmt-core_2.13-3.10.7.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.10.7/scalafmt-core_2.13-3.10.7.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-macros_2.13/3.10.7/scalafmt-macros_2.13-3.10.7.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.10.7/scalafmt-config_2.13-3.10.7.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.8.2/mdoc-parser_2.13-2.8.2.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-macros_2.13/3.10.7/scalafmt-macros_2.13-3.10.7.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.8.2/mdoc-parser_2.13-2.8.2.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.10.7/scalafmt-config_2.13-3.10.7.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_2.13/0.18.2/metaconfig-typesafe-config_2.13-0.18.2.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.15.0/scalameta_2.13-4.15.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_2.13/0.18.2/metaconfig-typesafe-config_2.13-0.18.2.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.15.0/scalameta_2.13-4.15.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.15.0/parsers_2.13-4.15.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.15.0/parsers_2.13-4.15.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.15.0/trees_2.13-4.15.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.15.0/trees_2.13-4.15.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.0/sourcecode_2.13-0.4.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/io_2.13/4.15.0/io_2.13-4.15.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.15.0/common_2.13-4.15.0.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.0/sourcecode_2.13-0.4.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/io_2.13/4.15.0/io_2.13-4.15.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.15.0/common_2.13-4.15.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.15.0/trees_2.13-4.15.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.10.7/scalafmt-core_2.13-3.10.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.10.7/scalafmt-config_2.13-3.10.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.15.0/common_2.13-4.15.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.15.0/parsers_2.13-4.15.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_2.13/0.18.2/metaconfig-typesafe-config_2.13-0.18.2.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_2.13/0.18.2/metaconfig-typesafe-config_2.13-0.18.2.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.15.0/scalameta_2.13-4.15.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.10.7/scalafmt-config_2.13-3.10.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/io_2.13/4.15.0/io_2.13-4.15.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.15.0/scalameta_2.13-4.15.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-macros_2.13/3.10.7/scalafmt-macros_2.13-3.10.7.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.15.0/parsers_2.13-4.15.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.8.2/mdoc-parser_2.13-2.8.2.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/io_2.13/4.15.0/io_2.13-4.15.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-macros_2.13/3.10.7/scalafmt-macros_2.13-3.10.7.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.8.2/mdoc-parser_2.13-2.8.2.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.15.0/common_2.13-4.15.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.10.7/scalafmt-core_2.13-3.10.7.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.15.0/trees_2.13-4.15.0.jar
+2026.03.29 00:59:12 ERROR scalafmt: [3.10.7] /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala:32: error: [dialect scala213] `identifier` expected but `case` found
+  case Eq, NEq, Lt, Gt
+  ^
+2026.03.29 00:59:23 ERROR scalafmt: [3.10.7] /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala:32: error: [dialect scala213] `identifier` expected but `case` found
+  case Eq, NEq, Lt, Gt
+  ^
+2026.03.29 00:59:29 INFO  compiling root (1 scala source)
+2026.03.29 00:59:29 INFO  time: compiled root in 75ms
+2026.03.29 00:59:41 INFO  compiling root (1 scala source)
+2026.03.29 00:59:41 INFO  time: compiled root in 63ms
+2026.03.29 00:59:47 INFO  compiling root (1 scala source)
+2026.03.29 00:59:47 INFO  time: compiled root in 56ms
+2026.03.29 01:01:24 INFO  compiling root (1 scala source)
+2026.03.29 01:01:24 INFO  time: compiled root in 84ms
+2026.03.29 01:01:48 INFO  compiling root (1 scala source)
+2026.03.29 01:01:48 INFO  time: compiled root in 72ms
+2026.03.29 01:02:28 INFO  compiling root (1 scala source)
+2026.03.29 01:02:28 INFO  time: compiled root in 0.11s
+Mar 29, 2026 1:02:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17232
+2026.03.29 01:02:34 INFO  compiling root (1 scala source)
+2026.03.29 01:02:34 INFO  time: compiled root in 70ms
+2026.03.29 01:02:37 INFO  compiling root (1 scala source)
+2026.03.29 01:02:37 INFO  time: compiled root in 74ms
+2026.03.29 01:02:58 INFO  compiling root (1 scala source)
+2026.03.29 01:02:58 INFO  time: compiled root in 0.14s
+2026.03.29 01:03:13 INFO  compiling root (1 scala source)
+2026.03.29 01:03:13 INFO  time: compiled root in 74ms
+2026.03.29 01:03:22 INFO  compiling root (1 scala source)
+2026.03.29 01:03:22 INFO  time: compiled root in 51ms
+2026.03.29 01:04:11 INFO  compiling root (1 scala source)
+2026.03.29 01:04:11 INFO  time: compiled root in 66ms
+2026.03.29 01:08:15 INFO  compiling root (1 scala source)
+2026.03.29 01:08:15 INFO  time: compiled root in 70ms
+2026.03.29 01:08:20 INFO  compiling root (1 scala source)
+2026.03.29 01:08:20 INFO  time: compiled root in 71ms
+2026.03.29 01:08:22 INFO  compiling root (1 scala source)
+2026.03.29 01:08:22 INFO  time: compiled root in 56ms
+2026.03.29 01:08:24 INFO  compiling root (1 scala source)
+2026.03.29 01:08:24 INFO  time: compiled root in 70ms
+Mar 29, 2026 1:08:24 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2026.03.29 01:08:25 INFO  compiling root (1 scala source)
+2026.03.29 01:08:25 INFO  time: compiled root in 53ms
+2026.03.29 01:08:33 INFO  compiling root (1 scala source)
+2026.03.29 01:08:33 INFO  time: compiled root in 73ms
+2026.03.29 01:08:35 INFO  compiling root (1 scala source)
+2026.03.29 01:08:35 INFO  time: compiled root in 55ms
+2026.03.29 01:08:39 INFO  compiling root (1 scala source)
+2026.03.29 01:08:39 INFO  time: compiled root in 0.12s
+2026.03.29 01:08:42 INFO  compiling root (1 scala source)
+2026.03.29 01:08:42 INFO  time: compiled root in 85ms
+Mar 29, 2026 1:08:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17803
+2026.03.29 01:08:46 INFO  compiling root (1 scala source)
+2026.03.29 01:08:46 INFO  time: compiled root in 88ms
+2026.03.29 01:12:08 INFO  compiling root (1 scala source)
+2026.03.29 01:12:08 INFO  time: compiled root in 77ms
+2026.03.29 01:12:17 INFO  compiling root (1 scala source)
+2026.03.29 01:12:17 INFO  time: compiled root in 99ms
+2026.03.29 01:12:59 INFO  compiling root (1 scala source)
+2026.03.29 01:12:59 INFO  time: compiled root in 77ms
+2026.03.29 01:13:01 INFO  compiling root (1 scala source)
+2026.03.29 01:13:01 INFO  time: compiled root in 48ms
+2026.03.29 01:13:03 INFO  compiling root (1 scala source)
+2026.03.29 01:13:03 INFO  time: compiled root in 46ms
+2026.03.29 01:13:07 INFO  compiling root (1 scala source)
+2026.03.29 01:13:07 INFO  time: compiled root in 58ms
+2026.03.29 01:13:32 INFO  compiling root (1 scala source)
+2026.03.29 01:13:32 INFO  time: compiled root in 68ms
+2026.03.29 01:16:16 INFO  compiling root (1 scala source)
+2026.03.29 01:16:16 INFO  time: compiled root in 87ms
+2026.03.29 01:16:18 INFO  compiling root (1 scala source)
+2026.03.29 01:16:18 INFO  time: compiled root in 62ms
+2026.03.29 01:16:19 INFO  compiling root (1 scala source)
+2026.03.29 01:16:19 INFO  time: compiled root in 42ms
+2026.03.29 01:16:23 INFO  compiling root (1 scala source)
+2026.03.29 01:16:23 INFO  time: compiled root in 77ms
+2026.03.29 01:16:42 INFO  compiling root (1 scala source)
+2026.03.29 01:16:42 INFO  time: compiled root in 0.11s
+2026.03.29 01:16:46 INFO  compiling root (1 scala source)
+2026.03.29 01:16:46 INFO  time: compiled root in 96ms
+2026.03.29 01:17:24 INFO  compiling root (1 scala source)
+2026.03.29 01:17:24 INFO  time: compiled root in 81ms
+2026.03.29 01:17:32 INFO  compiling root (1 scala source)
+2026.03.29 01:17:32 INFO  time: compiled root in 61ms
+2026.03.29 01:17:34 INFO  compiling root (1 scala source)
+2026.03.29 01:17:34 INFO  time: compiled root in 63ms
+2026.03.29 01:17:39 INFO  compiling root (1 scala source)
+2026.03.29 01:17:39 INFO  time: compiled root in 94ms
+2026.03.29 01:17:51 INFO  compiling root (1 scala source)
+2026.03.29 01:17:51 INFO  time: compiled root in 0.13s
+2026.03.29 01:17:55 INFO  compiling root (1 scala source)
+2026.03.29 01:17:55 INFO  time: compiled root in 98ms
+2026.03.29 01:18:43 INFO  compiling root (1 scala source)
+2026.03.29 01:18:43 INFO  time: compiled root in 82ms
+2026.03.29 01:19:10 INFO  compiling root (1 scala source)
+2026.03.29 01:19:10 INFO  time: compiled root in 76ms
+2026.03.29 01:19:15 INFO  compiling root (1 scala source)
+2026.03.29 01:19:15 INFO  time: compiled root in 49ms
+Mar 29, 2026 1:19:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18635
+2026.03.29 01:19:29 INFO  compiling root (1 scala source)
+2026.03.29 01:19:29 INFO  time: compiled root in 70ms
+2026.03.29 01:19:33 INFO  compiling root (1 scala source)
+2026.03.29 01:19:33 INFO  time: compiled root in 56ms
+2026.03.29 01:19:36 INFO  compiling root (1 scala source)
+2026.03.29 01:19:36 INFO  time: compiled root in 67ms
+2026.03.29 01:19:42 INFO  compiling root (1 scala source)
+2026.03.29 01:19:42 INFO  time: compiled root in 84ms
+2026.03.29 01:20:27 INFO  compiling root (1 scala source)
+2026.03.29 01:20:27 INFO  time: compiled root in 80ms
+2026.03.29 01:20:29 INFO  compiling root (1 scala source)
+2026.03.29 01:20:29 INFO  time: compiled root in 44ms
+2026.03.29 01:20:33 INFO  compiling root (1 scala source)
+2026.03.29 01:20:33 INFO  time: compiled root in 63ms
+2026.03.29 01:20:34 INFO  compiling root (1 scala source)
+2026.03.29 01:20:34 INFO  time: compiled root in 50ms
+2026.03.29 01:20:38 INFO  compiling root (1 scala source)
+2026.03.29 01:20:38 INFO  time: compiled root in 58ms
+2026.03.29 01:20:52 INFO  compiling root (1 scala source)
+2026.03.29 01:20:52 INFO  time: compiled root in 58ms
+2026.03.29 01:20:57 INFO  compiling root (1 scala source)
+2026.03.29 01:20:57 INFO  time: compiled root in 65ms
+2026.03.29 01:21:05 INFO  compiling root (1 scala source)
+2026.03.29 01:21:05 INFO  time: compiled root in 92ms
+2026.03.29 01:21:09 INFO  compiling root (1 scala source)
+2026.03.29 01:21:09 INFO  time: compiled root in 55ms
+2026.03.29 01:21:31 INFO  compiling root (1 scala source)
+2026.03.29 01:21:31 INFO  time: compiled root in 89ms
+2026.03.29 01:22:12 INFO  compiling root (1 scala source)
+2026.03.29 01:22:12 INFO  time: compiled root in 84ms
+2026.03.29 01:23:34 INFO  compiling root (1 scala source)
+2026.03.29 01:23:34 INFO  time: compiled root in 67ms
+2026.03.29 01:23:51 INFO  compiling root (1 scala source)
+2026.03.29 01:23:51 INFO  time: compiled root in 50ms
+2026.03.29 01:23:57 INFO  compiling root (1 scala source)
+2026.03.29 01:23:57 INFO  time: compiled root in 47ms
+2026.03.29 01:24:50 INFO  compiling root (1 scala source)
+2026.03.29 01:24:50 INFO  time: compiled root in 78ms
+2026.03.29 01:27:14 INFO  compiling root (1 scala source)
+2026.03.29 01:27:14 INFO  time: compiled root in 72ms
+2026.03.29 01:27:28 INFO  compiling root (1 scala source)
+2026.03.29 01:27:28 INFO  time: compiled root in 61ms
+2026.03.29 01:28:19 INFO  compiling root (1 scala source)
+2026.03.29 01:28:19 INFO  time: compiled root in 68ms
+Mar 29, 2026 1:28:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19247
+2026.03.29 01:29:03 INFO  compiling root (1 scala source)
+2026.03.29 01:29:03 INFO  time: compiled root in 65ms
+2026.03.29 01:31:09 INFO  compiling root (1 scala source)
+2026.03.29 01:31:09 INFO  time: compiled root in 75ms
+2026.03.29 01:31:14 INFO  compiling root (1 scala source)
+2026.03.29 01:31:14 INFO  time: compiled root in 77ms
+2026.03.29 01:31:20 INFO  compiling root (1 scala source)
+2026.03.29 01:31:20 INFO  time: compiled root in 86ms
+2026.03.29 01:31:58 INFO  compiling root (1 scala source)
+2026.03.29 01:31:58 INFO  time: compiled root in 64ms
+2026.03.29 01:32:01 INFO  compiling root (1 scala source)
+2026.03.29 01:32:01 INFO  time: compiled root in 56ms
+2026.03.29 01:32:47 INFO  compiling root (1 scala source)
+2026.03.29 01:32:47 INFO  time: compiled root in 63ms
+2026.03.29 01:32:51 INFO  compiling root (1 scala source)
+2026.03.29 01:32:51 INFO  time: compiled root in 51ms
+2026.03.29 01:32:55 INFO  compiling root (1 scala source)
+2026.03.29 01:32:55 INFO  time: compiled root in 55ms
+2026.03.29 01:32:56 INFO  compiling root (1 scala source)
+2026.03.29 01:32:56 INFO  time: compiled root in 44ms
+Mar 29, 2026 1:33:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19676
+2026.03.29 01:36:29 INFO  compiling root (1 scala source)
+2026.03.29 01:36:29 INFO  time: compiled root in 67ms
+2026.03.29 01:36:40 INFO  compiling root (1 scala source)
+2026.03.29 01:36:40 INFO  time: compiled root in 55ms
+2026.03.29 01:36:42 INFO  compiling root (1 scala source)
+2026.03.29 01:36:42 INFO  time: compiled root in 53ms
+2026.03.29 01:36:44 INFO  compiling root (1 scala source)
+2026.03.29 01:36:44 INFO  time: compiled root in 56ms
+2026.03.29 01:36:45 INFO  compiling root (1 scala source)
+2026.03.29 01:36:45 INFO  time: compiled root in 47ms
+2026.03.29 01:37:59 INFO  compiling root (1 scala source)
+2026.03.29 01:37:59 INFO  time: compiled root in 77ms
+2026.03.29 01:41:54 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 01:41:55 INFO  compiling root (1 scala source)
+2026.03.29 01:41:55 INFO  time: compiled root in 0.11s
+2026.03.29 01:42:11 INFO  compiling root (1 scala source)
+2026.03.29 01:42:11 INFO  time: compiled root in 57ms
+2026.03.29 01:42:17 INFO  compiling root (1 scala source)
+2026.03.29 01:42:17 INFO  time: compiled root in 50ms
+2026.03.29 01:42:23 INFO  compiling root (1 scala source)
+2026.03.29 01:42:23 INFO  time: compiled root in 65ms
+2026.03.29 01:42:26 INFO  compiling root (1 scala source)
+2026.03.29 01:42:26 INFO  time: compiled root in 55ms
+2026.03.29 01:42:34 INFO  compiling root (1 scala source)
+2026.03.29 01:42:34 INFO  time: compiled root in 73ms
+2026.03.29 01:42:37 INFO  compiling root (1 scala source)
+2026.03.29 01:42:37 INFO  time: compiled root in 56ms
+2026.03.29 01:42:48 INFO  compiling root (1 scala source)
+2026.03.29 01:42:48 INFO  time: compiled root in 70ms
+2026.03.29 01:42:54 INFO  compiling root (1 scala source)
+2026.03.29 01:42:54 INFO  time: compiled root in 72ms
+2026.03.29 01:45:16 INFO  compiling root (1 scala source)
+2026.03.29 01:45:16 INFO  time: compiled root in 72ms
+2026.03.29 01:45:24 INFO  compiling root (1 scala source)
+2026.03.29 01:45:24 INFO  time: compiled root in 56ms
+2026.03.29 01:46:17 INFO  compiling root (1 scala source)
+2026.03.29 01:46:17 INFO  time: compiled root in 78ms
+2026.03.29 01:46:19 INFO  compiling root (1 scala source)
+2026.03.29 01:46:19 INFO  time: compiled root in 48ms
+2026.03.29 01:46:47 INFO  compiling root (1 scala source)
+2026.03.29 01:46:47 INFO  time: compiled root in 85ms
+2026.03.29 01:47:45 INFO  compiling root (1 scala source)
+2026.03.29 01:47:45 INFO  time: compiled root in 71ms
+2026.03.29 01:47:52 INFO  compiling root (1 scala source)
+2026.03.29 01:47:52 INFO  time: compiled root in 48ms
+2026.03.29 01:47:54 INFO  compiling root (1 scala source)
+2026.03.29 01:47:54 INFO  time: compiled root in 51ms
+2026.03.29 01:47:59 INFO  compiling root (1 scala source)
+2026.03.29 01:47:59 INFO  time: compiled root in 55ms
+2026.03.29 01:49:06 INFO  compiling root (1 scala source)
+2026.03.29 01:49:06 INFO  time: compiled root in 75ms
+2026.03.29 01:49:18 INFO  compiling root (1 scala source)
+2026.03.29 01:49:18 INFO  time: compiled root in 73ms
+2026.03.29 01:59:23 INFO  compiling root (1 scala source)
+2026.03.29 01:59:23 INFO  time: compiled root in 90ms
+2026.03.29 01:59:25 INFO  compiling root (1 scala source)
+2026.03.29 01:59:25 INFO  time: compiled root in 29ms
+2026.03.29 01:59:29 INFO  compiling root (1 scala source)
+2026.03.29 01:59:29 INFO  time: compiled root in 69ms
+2026.03.29 01:59:32 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.03.29 01:59:32 INFO  expected identifier; obtained abstract (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-03-29/r_scala-toplevel-mtags_01-59-32-101.md")
+2026.03.29 01:59:32 INFO  compiling root (1 scala source)
+2026.03.29 01:59:32 INFO  time: compiled root in 54ms
+2026.03.29 01:59:35 INFO  compiling root (1 scala source)
+2026.03.29 01:59:35 INFO  time: compiled root in 75ms
+2026.03.29 01:59:35 INFO  compiling root (1 scala source)
+2026.03.29 01:59:36 INFO  time: compiled root in 61ms
+2026.03.29 01:59:40 INFO  compiling root (1 scala source)
+2026.03.29 01:59:40 INFO  time: compiled root in 97ms
+2026.03.29 01:59:45 INFO  compiling root (1 scala source)
+2026.03.29 01:59:45 INFO  time: compiled root in 85ms
+2026.03.29 01:59:46 INFO  compiling root (1 scala source)
+2026.03.29 01:59:46 INFO  time: compiled root in 48ms
+2026.03.29 01:59:49 INFO  compiling root (1 scala source)
+2026.03.29 01:59:49 INFO  time: compiled root in 76ms
+2026.03.29 01:59:51 INFO  compiling root (1 scala source)
+2026.03.29 01:59:51 INFO  time: compiled root in 48ms
+2026.03.29 01:59:59 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.03.29 01:59:59 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-29/r_empty-definition_(root)_01-59-59-138.md")
+2026.03.29 02:00:00 INFO  compiling root (1 scala source)
+2026.03.29 02:00:00 INFO  time: compiled root in 97ms
+2026.03.29 02:00:05 INFO  compiling root (1 scala source)
+2026.03.29 02:00:05 INFO  time: compiled root in 0.11s
+2026.03.29 02:00:16 INFO  compiling root (1 scala source)
+2026.03.29 02:00:16 INFO  time: compiled root in 85ms
+2026.03.29 02:00:17 INFO  compiling root (1 scala source)
+2026.03.29 02:00:17 INFO  time: compiled root in 49ms
+2026.03.29 02:00:20 INFO  compiling root (1 scala source)
+2026.03.29 02:00:20 INFO  time: compiled root in 55ms
+2026.03.29 02:00:44 INFO  compiling root (1 scala source)
+2026.03.29 02:00:44 INFO  time: compiled root in 70ms
+2026.03.29 02:00:46 INFO  compiling root (1 scala source)
+2026.03.29 02:00:46 INFO  time: compiled root in 58ms
+2026.03.29 02:00:53 INFO  compiling root (1 scala source)
+2026.03.29 02:00:53 INFO  time: compiled root in 57ms
+2026.03.29 02:00:56 INFO  compiling root (1 scala source)
+2026.03.29 02:00:56 INFO  time: compiled root in 54ms
+2026.03.29 02:01:04 INFO  compiling root (1 scala source)
+2026.03.29 02:01:04 INFO  time: compiled root in 61ms
+2026.03.29 02:01:08 INFO  compiling root (1 scala source)
+2026.03.29 02:01:08 INFO  time: compiled root in 72ms
+2026.03.29 02:01:11 INFO  compiling root (1 scala source)
+2026.03.29 02:01:11 INFO  time: compiled root in 76ms
+2026.03.29 02:01:35 INFO  compiling root (1 scala source)
+2026.03.29 02:01:35 INFO  time: compiled root in 0.13s
+2026.03.29 02:01:40 INFO  compiling root (1 scala source)
+2026.03.29 02:01:40 INFO  time: compiled root in 68ms
+2026.03.29 02:01:43 INFO  compiling root (1 scala source)
+2026.03.29 02:01:43 INFO  time: compiled root in 75ms
+2026.03.29 02:01:45 INFO  compiling root (1 scala source)
+2026.03.29 02:01:45 INFO  time: compiled root in 57ms
+2026.03.29 02:01:49 INFO  compiling root (1 scala source)
+2026.03.29 02:01:49 INFO  time: compiled root in 77ms
+2026.03.29 02:01:53 INFO  compiling root (1 scala source)
+2026.03.29 02:01:53 INFO  time: compiled root in 0.12s
+2026.03.29 02:01:56 INFO  compiling root (1 scala source)
+2026.03.29 02:01:56 INFO  time: compiled root in 97ms
+2026.03.29 02:02:03 INFO  compiling root (1 scala source)
+2026.03.29 02:02:03 INFO  time: compiled root in 85ms
+2026.03.29 02:02:05 INFO  compiling root (1 scala source)
+2026.03.29 02:02:05 INFO  time: compiled root in 71ms
+2026.03.29 02:02:07 INFO  compiling root (1 scala source)
+2026.03.29 02:02:07 INFO  time: compiled root in 94ms
+2026.03.29 02:02:12 INFO  compiling root (1 scala source)
+2026.03.29 02:02:12 INFO  time: compiled root in 89ms
+2026.03.29 02:02:18 INFO  compiling root (1 scala source)
+2026.03.29 02:02:18 INFO  time: compiled root in 85ms
+2026.03.29 02:02:20 INFO  compiling root (1 scala source)
+2026.03.29 02:02:20 INFO  time: compiled root in 93ms
+2026.03.29 02:02:25 INFO  compiling root (1 scala source)
+2026.03.29 02:02:25 INFO  time: compiled root in 0.1s
+2026.03.29 02:02:27 INFO  compiling root (1 scala source)
+2026.03.29 02:02:27 INFO  time: compiled root in 98ms
+2026.03.29 02:02:29 INFO  compiling root (1 scala source)
+2026.03.29 02:02:29 INFO  time: compiled root in 80ms
+2026.03.29 02:02:32 INFO  compiling root (1 scala source)
+2026.03.29 02:02:32 INFO  time: compiled root in 80ms
+2026.03.29 02:02:33 INFO  compiling root (1 scala source)
+2026.03.29 02:02:33 INFO  time: compiled root in 91ms
+2026.03.29 02:02:36 INFO  compiling root (1 scala source)
+2026.03.29 02:02:36 INFO  time: compiled root in 43ms
+2026.03.29 02:02:38 INFO  compiling root (1 scala source)
+2026.03.29 02:02:38 INFO  time: compiled root in 59ms
+2026.03.29 02:02:43 INFO  compiling root (1 scala source)
+2026.03.29 02:02:43 INFO  time: compiled root in 67ms
+2026.03.29 02:02:48 INFO  compiling root (1 scala source)
+2026.03.29 02:02:48 INFO  time: compiled root in 87ms
+2026.03.29 02:02:50 INFO  compiling root (1 scala source)
+2026.03.29 02:02:50 INFO  time: compiled root in 71ms
+2026.03.29 02:02:57 INFO  compiling root (1 scala source)
+2026.03.29 02:02:57 INFO  time: compiled root in 91ms
+2026.03.29 02:03:01 INFO  compiling root (1 scala source)
+2026.03.29 02:03:01 INFO  time: compiled root in 0.13s
+2026.03.29 02:03:03 INFO  compiling root (1 scala source)
+2026.03.29 02:03:03 INFO  time: compiled root in 55ms
+2026.03.29 02:03:05 INFO  compiling root (1 scala source)
+2026.03.29 02:03:05 INFO  time: compiled root in 58ms
+2026.03.29 02:03:09 INFO  compiling root (1 scala source)
+2026.03.29 02:03:09 INFO  time: compiled root in 86ms
+2026.03.29 02:03:11 INFO  compiling root (1 scala source)
+2026.03.29 02:03:11 INFO  time: compiled root in 90ms
+2026.03.29 02:03:13 INFO  compiling root (1 scala source)
+2026.03.29 02:03:13 INFO  time: compiled root in 48ms
+2026.03.29 02:03:15 INFO  compiling root (1 scala source)
+2026.03.29 02:03:15 INFO  time: compiled root in 0.12s
+2026.03.29 02:03:19 INFO  compiling root (1 scala source)
+2026.03.29 02:03:19 INFO  time: compiled root in 0.14s
+2026.03.29 02:03:22 INFO  compiling root (1 scala source)
+2026.03.29 02:03:22 INFO  time: compiled root in 67ms
+2026.03.29 02:03:24 INFO  compiling root (1 scala source)
+2026.03.29 02:03:24 INFO  time: compiled root in 0.17s
+2026.03.29 02:03:31 INFO  compiling root (1 scala source)
+2026.03.29 02:03:31 INFO  time: compiled root in 0.1s
+2026.03.29 02:03:39 INFO  compiling root (1 scala source)
+2026.03.29 02:03:39 INFO  time: compiled root in 91ms
+2026.03.29 02:03:41 INFO  compiling root (1 scala source)
+2026.03.29 02:03:41 INFO  time: compiled root in 47ms
+2026.03.29 02:03:43 INFO  compiling root (1 scala source)
+2026.03.29 02:03:43 INFO  time: compiled root in 57ms
+2026.03.29 02:03:47 INFO  compiling root (1 scala source)
+2026.03.29 02:03:47 INFO  time: compiled root in 83ms
+2026.03.29 02:03:53 INFO  compiling root (1 scala source)
+2026.03.29 02:03:53 INFO  time: compiled root in 0.11s
+2026.03.29 02:03:56 INFO  compiling root (1 scala source)
+2026.03.29 02:03:56 INFO  time: compiled root in 96ms
+2026.03.29 02:04:00 INFO  compiling root (1 scala source)
+2026.03.29 02:04:00 INFO  time: compiled root in 0.1s
+2026.03.29 02:04:02 INFO  compiling root (1 scala source)
+2026.03.29 02:04:02 INFO  time: compiled root in 51ms
+2026.03.29 02:05:05 INFO  compiling root (1 scala source)
+2026.03.29 02:05:05 INFO  time: compiled root in 97ms
+Mar 29, 2026 2:05:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22305
+2026.03.29 02:05:12 INFO  compiling root (1 scala source)
+2026.03.29 02:05:12 INFO  time: compiled root in 0.1s
+2026.03.29 02:05:15 INFO  compiling root (1 scala source)
+2026.03.29 02:05:15 INFO  time: compiled root in 91ms
+2026.03.29 02:09:02 INFO  compiling root (1 scala source)
+2026.03.29 02:09:02 INFO  time: compiled root in 93ms
+2026.03.29 02:09:09 INFO  compiling root (1 scala source)
+2026.03.29 02:09:09 INFO  time: compiled root in 56ms
+2026.03.29 02:09:24 INFO  compiling root (1 scala source)
+2026.03.29 02:09:24 INFO  time: compiled root in 61ms
+2026.03.29 02:09:27 INFO  compiling root (1 scala source)
+2026.03.29 02:09:27 INFO  time: compiled root in 61ms
+2026.03.29 02:09:31 INFO  compiling root (1 scala source)
+2026.03.29 02:09:31 INFO  time: compiled root in 87ms
+2026.03.29 02:10:01 INFO  compiling root (1 scala source)
+2026.03.29 02:10:01 INFO  time: compiled root in 78ms
+2026.03.29 02:10:06 INFO  compiling root (1 scala source)
+2026.03.29 02:10:06 INFO  time: compiled root in 54ms
+2026.03.29 02:10:18 INFO  compiling root (1 scala source)
+2026.03.29 02:10:18 INFO  time: compiled root in 87ms
+2026.03.29 02:10:19 INFO  compiling root (1 scala source)
+2026.03.29 02:10:19 INFO  time: compiled root in 66ms
+2026.03.29 02:10:22 INFO  compiling root (1 scala source)
+2026.03.29 02:10:22 INFO  time: compiled root in 53ms
+2026.03.29 02:10:25 INFO  compiling root (1 scala source)
+2026.03.29 02:10:25 INFO  time: compiled root in 0.1s
+2026.03.29 02:10:34 INFO  compiling root (1 scala source)
+2026.03.29 02:10:34 INFO  time: compiled root in 80ms
+2026.03.29 02:10:35 INFO  compiling root (1 scala source)
+2026.03.29 02:10:35 INFO  time: compiled root in 86ms
+2026.03.29 02:10:38 INFO  compiling root (1 scala source)
+2026.03.29 02:10:38 INFO  time: compiled root in 89ms
+2026.03.29 02:10:42 INFO  compiling root (1 scala source)
+2026.03.29 02:10:42 INFO  time: compiled root in 84ms
+2026.03.29 02:10:44 INFO  compiling root (1 scala source)
+2026.03.29 02:10:44 INFO  time: compiled root in 87ms
+2026.03.29 02:11:19 INFO  compiling root (1 scala source)
+2026.03.29 02:11:19 INFO  time: compiled root in 66ms
+2026.03.29 02:18:18 INFO  compiling root (1 scala source)
+2026.03.29 02:18:18 INFO  time: compiled root in 89ms
+2026.03.29 02:20:07 INFO  compiling root (1 scala source)
+2026.03.29 02:20:07 INFO  time: compiled root in 0.11s
+2026.03.29 02:20:11 INFO  compiling root (1 scala source)
+2026.03.29 02:20:11 INFO  time: compiled root in 75ms
+2026.03.29 02:20:11 INFO  compiling root (1 scala source)
+2026.03.29 02:20:11 INFO  time: compiled root in 33ms
+2026.03.29 02:20:16 INFO  compiling root (1 scala source)
+2026.03.29 02:20:16 INFO  time: compiled root in 63ms
+2026.03.29 02:20:19 INFO  compiling root (1 scala source)
+2026.03.29 02:20:19 INFO  time: compiled root in 80ms
+2026.03.29 02:20:22 INFO  compiling root (1 scala source)
+2026.03.29 02:20:22 INFO  time: compiled root in 74ms
+2026.03.29 02:20:23 INFO  compiling root (1 scala source)
+2026.03.29 02:20:23 INFO  time: compiled root in 53ms
+2026.03.29 02:20:27 INFO  compiling root (1 scala source)
+2026.03.29 02:20:27 INFO  time: compiled root in 66ms
+2026.03.29 02:26:58 INFO  compiling root (1 scala source)
+2026.03.29 02:26:58 INFO  time: compiled root in 85ms
+2026.03.29 02:27:10 INFO  compiling root (1 scala source)
+2026.03.29 02:27:10 INFO  time: compiled root in 77ms
+2026.03.29 02:27:14 INFO  compiling root (1 scala source)
+2026.03.29 02:27:14 INFO  time: compiled root in 57ms
+2026.03.29 02:27:16 INFO  compiling root (1 scala source)
+2026.03.29 02:27:16 INFO  time: compiled root in 62ms
+2026.03.29 02:27:18 INFO  compiling root (1 scala source)
+2026.03.29 02:27:18 INFO  time: compiled root in 53ms
+2026.03.29 02:29:41 INFO  compiling root (1 scala source)
+2026.03.29 02:29:41 INFO  time: compiled root in 74ms
+2026.03.29 02:29:42 INFO  compiling root (1 scala source)
+2026.03.29 02:29:42 INFO  time: compiled root in 62ms
+2026.03.29 02:30:13 INFO  compiling root (1 scala source)
+2026.03.29 02:30:13 INFO  time: compiled root in 98ms
+2026.03.29 02:30:16 INFO  compiling root (1 scala source)
+2026.03.29 02:30:16 INFO  time: compiled root in 83ms
+2026.03.29 02:30:19 INFO  compiling root (1 scala source)
+2026.03.29 02:30:19 INFO  time: compiled root in 86ms
+2026.03.29 02:30:21 INFO  compiling root (1 scala source)
+2026.03.29 02:30:21 INFO  time: compiled root in 72ms
+2026.03.29 02:30:27 INFO  compiling root (1 scala source)
+2026.03.29 02:30:27 INFO  time: compiled root in 87ms
+2026.03.29 02:30:53 INFO  compiling root (1 scala source)
+2026.03.29 02:30:53 INFO  time: compiled root in 86ms
+2026.03.29 02:31:00 INFO  compiling root (1 scala source)
+2026.03.29 02:31:00 INFO  time: compiled root in 58ms
+2026.03.29 02:31:03 INFO  compiling root (1 scala source)
+2026.03.29 02:31:03 INFO  time: compiled root in 58ms
+2026.03.29 02:31:06 INFO  compiling root (1 scala source)
+2026.03.29 02:31:06 INFO  time: compiled root in 57ms
+2026.03.29 02:31:08 INFO  compiling root (1 scala source)
+2026.03.29 02:31:08 INFO  time: compiled root in 71ms
+2026.03.29 02:31:10 INFO  compiling root (1 scala source)
+2026.03.29 02:31:10 INFO  time: compiled root in 99ms
+2026.03.29 02:31:12 INFO  compiling root (1 scala source)
+2026.03.29 02:31:12 INFO  time: compiled root in 81ms
+2026.03.29 02:31:13 INFO  compiling root (1 scala source)
+2026.03.29 02:31:13 INFO  time: compiled root in 68ms
+2026.03.29 02:31:14 INFO  compiling root (1 scala source)
+2026.03.29 02:31:14 INFO  time: compiled root in 52ms
+2026.03.29 02:31:28 INFO  compiling root (1 scala source)
+2026.03.29 02:31:28 INFO  time: compiled root in 64ms
+Mar 29, 2026 2:35:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23664
+2026.03.29 02:35:12 INFO  compiling root (1 scala source)
+2026.03.29 02:35:12 INFO  time: compiled root in 93ms
+2026.03.29 02:35:14 INFO  compiling root (1 scala source)
+2026.03.29 02:35:14 INFO  time: compiled root in 67ms
+2026.03.29 02:35:15 INFO  compiling root (1 scala source)
+2026.03.29 02:35:15 INFO  time: compiled root in 47ms
+2026.03.29 02:35:23 INFO  compiling root (1 scala source)
+2026.03.29 02:35:23 INFO  time: compiled root in 91ms
+2026.03.29 02:35:28 INFO  compiling root (1 scala source)
+2026.03.29 02:35:28 INFO  time: compiled root in 66ms
+2026.03.29 02:35:44 INFO  compiling root (1 scala source)
+2026.03.29 02:35:44 INFO  time: compiled root in 58ms
+2026.03.29 02:35:50 INFO  compiling root (1 scala source)
+2026.03.29 02:35:50 INFO  time: compiled root in 85ms
+2026.03.29 02:35:52 INFO  compiling root (1 scala source)
+2026.03.29 02:35:52 INFO  time: compiled root in 44ms
+2026.03.29 02:35:54 INFO  compiling root (1 scala source)
+2026.03.29 02:35:54 INFO  time: compiled root in 73ms
+2026.03.29 02:35:55 INFO  compiling root (1 scala source)
+2026.03.29 02:35:55 INFO  time: compiled root in 0.14s
+2026.03.29 02:36:00 INFO  compiling root (1 scala source)
+2026.03.29 02:36:00 INFO  time: compiled root in 74ms
+2026.03.29 02:36:01 INFO  compiling root (1 scala source)
+2026.03.29 02:36:01 INFO  time: compiled root in 40ms
+2026.03.29 02:36:05 INFO  compiling root (1 scala source)
+2026.03.29 02:36:05 INFO  time: compiled root in 77ms
+2026.03.29 02:36:07 INFO  compiling root (1 scala source)
+2026.03.29 02:36:07 INFO  time: compiled root in 50ms
+Mar 29, 2026 2:36:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24048
+2026.03.29 02:36:22 INFO  compiling root (1 scala source)
+2026.03.29 02:36:22 INFO  time: compiled root in 63ms
+2026.03.29 02:36:29 INFO  compiling root (1 scala source)
+2026.03.29 02:36:29 INFO  time: compiled root in 96ms
+2026.03.29 02:36:48 INFO  compiling root (1 scala source)
+2026.03.29 02:36:48 INFO  time: compiled root in 72ms
+2026.03.29 02:36:52 INFO  compiling root (1 scala source)
+2026.03.29 02:36:52 INFO  time: compiled root in 77ms
+2026.03.29 02:38:27 INFO  compiling root (1 scala source)
+2026.03.29 02:38:27 INFO  time: compiled root in 84ms
+2026.03.29 02:38:36 INFO  compiling root (1 scala source)
+2026.03.29 02:38:36 INFO  time: compiled root in 59ms
+2026.03.29 02:38:42 INFO  compiling root (1 scala source)
+2026.03.29 02:38:42 INFO  time: compiled root in 61ms
+2026.03.29 02:38:50 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:38:50 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:38:51 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:38:53 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+Exception in thread "pool-6-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2026.03.29 02:38:53 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:40:49 INFO  compiling root (2 scala sources)
+2026.03.29 02:40:49 INFO  time: compiled root in 89ms
+2026.03.29 02:41:01 INFO  compiling root (1 scala source)
+2026.03.29 02:41:01 INFO  time: compiled root in 69ms
+2026.03.29 02:41:07 INFO  compiling root (2 scala sources)
+2026.03.29 02:41:07 INFO  time: compiled root in 67ms
+2026.03.29 02:41:08 INFO  compiling root (2 scala sources)
+2026.03.29 02:41:08 INFO  time: compiled root in 43ms
+Mar 29, 2026 2:41:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24471
+2026.03.29 02:41:11 INFO  compiling root (1 scala source)
+2026.03.29 02:41:11 INFO  time: compiled root in 52ms
+2026.03.29 02:41:27 INFO  compiling root (1 scala source)
+2026.03.29 02:41:27 INFO  time: compiled root in 59ms
+2026.03.29 02:41:39 INFO  compiling root (1 scala source)
+2026.03.29 02:41:39 INFO  time: compiled root in 76ms
+2026.03.29 02:42:15 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:15 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:16 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:17 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:18 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:21 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:21 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:42:21 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 02:44:21 INFO  Disconnecting from Bloop session...
+2026.03.29 02:44:22 INFO  Shut down connection with build server.
+2026.03.29 02:44:21 INFO  Shut down connection with build server.
+2026.03.29 02:44:21 INFO  Attempting to connect to the build server...
+2026.03.29 02:44:21 INFO  No running Bloop server found, starting one.
+2026.03.29 02:44:23 INFO  Starting compilation server
+2026.03.29 02:44:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 02:44:24 INFO  Attempting to connect to the build server...
+2026.03.29 02:44:24 INFO  Found a Bloop server running
+2026.03.29 02:44:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 02:44:24 INFO  time: Connected to build server in 1.75s
+2026.03.29 02:44:24 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.29 02:44:25 INFO  time: indexed workspace in 1.43s
+2026.03.29 02:44:26 INFO  compiling root (2 scala sources)
+2026.03.29 02:44:26 INFO  time: compiled root in 0.7s
+2026.03.29 02:44:46 INFO  compiling root (2 scala sources)
+2026.03.29 02:44:46 INFO  time: compiled root in 94ms
+2026.03.29 02:44:56 INFO  Shutting down server
+2026.03.29 02:44:56 INFO  Memory monitor stopped
+2026.03.29 02:44:56 INFO  shutting down Metals
+2026.03.29 02:44:56 INFO  Shut down connection with build server.
+2026.03.29 02:44:56 INFO  Shut down connection with build server.
+2026.03.29 02:44:56 INFO  Exiting server
+2026.03.29 02:45:06 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.29 02:45:06 INFO  Memory monitor started
+2026.03.29 02:45:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.29 02:45:06 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 02:45:08 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 02:45:08 INFO  Attempting to connect to the build server...
+2026.03.29 02:45:08 INFO  Found a Bloop server running
+2026.03.29 02:45:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 02:45:09 INFO  Attempting to connect to the build server...
+2026.03.29 02:45:09 INFO  Found a Bloop server running
+2026.03.29 02:45:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 02:45:09 INFO  time: Connected to build server in 0.31s
+2026.03.29 02:45:09 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.29 02:45:09 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 02:45:12 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.29 02:45:12 INFO  time: indexed workspace in 3.47s
+2026.03.29 02:45:12 INFO  compiling root (2 scala sources)
+2026.03.29 02:45:12 INFO  time: compiled root in 0.15s
+2026.03.29 02:45:24 INFO  compiling root (2 scala sources)
+2026.03.29 02:45:24 INFO  time: compiled root in 87ms
+2026.03.29 02:47:28 INFO  Shutting down server
+2026.03.29 02:47:28 INFO  Memory monitor stopped
+2026.03.29 02:47:28 INFO  shutting down Metals
+2026.03.29 02:47:28 INFO  Shut down connection with build server.
+2026.03.29 02:47:28 INFO  Shut down connection with build server.
+2026.03.29 02:47:28 INFO  Exiting server
+2026.03.29 02:47:37 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.29 02:47:37 INFO  Memory monitor started
+2026.03.29 02:47:37 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.29 02:47:37 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 02:47:38 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 02:47:38 INFO  Attempting to connect to the build server...
+2026.03.29 02:47:38 INFO  Found a Bloop server running
+2026.03.29 02:47:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 02:47:39 INFO  Attempting to connect to the build server...
+2026.03.29 02:47:39 INFO  Found a Bloop server running
+2026.03.29 02:47:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 02:47:39 INFO  time: Connected to build server in 0.34s
+2026.03.29 02:47:39 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.29 02:47:41 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.29 02:47:41 INFO  time: indexed workspace in 3.12s
+2026.03.29 02:47:42 INFO  compiling root (2 scala sources)
+2026.03.29 02:47:42 INFO  time: compiled root in 0.13s
+2026.03.29 02:49:09 INFO  compiling root (2 scala sources)
+2026.03.29 02:49:09 INFO  time: compiled root in 84ms
+2026.03.29 02:58:47 INFO  compiling root (2 scala sources)
+2026.03.29 02:58:47 INFO  time: compiled root in 81ms
+2026.03.29 02:58:57 INFO  compiling root (2 scala sources)
+2026.03.29 02:58:57 INFO  time: compiled root in 74ms
+Mar 29, 2026 2:59:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 404
+2026.03.29 02:59:53 INFO  compiling root (2 scala sources)
+2026.03.29 02:59:53 INFO  time: compiled root in 90ms
+2026.03.29 02:59:58 INFO  compiling root (2 scala sources)
+2026.03.29 02:59:58 INFO  time: compiled root in 58ms
+Mar 29, 2026 2:59:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+2026.03.29 03:00:04 INFO  compiling root (2 scala sources)
+2026.03.29 03:00:04 INFO  time: compiled root in 0.1s
+2026.03.29 03:00:11 INFO  compiling root (2 scala sources)
+2026.03.29 03:00:11 INFO  time: compiled root in 93ms
+2026.03.29 03:01:40 WARN  Bloop is running with 23.0.2 but your code requires 25.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+Mar 29, 2026 3:01:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 572
+2026.03.29 03:01:41 INFO  time: code lens generation in 1.16s
+2026.03.29 03:01:52 WARN  Bloop is running with 23.0.2 but your code requires 25.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2026.03.29 03:01:56 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2026.03.29 03:01:57 INFO  [info] welcome to sbt 1.12.6 (Oracle Corporation Java 23.0.2)
+2026.03.29 03:01:57 INFO  [info] loading settings for project scala344-build-build from metals.sbt...
+2026.03.29 03:01:57 INFO  [info] loading project definition from /Users/adityarajsingh/scala344/project/project
+2026.03.29 03:01:58 INFO  [info] loading settings for project scala344-build from metals.sbt...
+2026.03.29 03:01:58 INFO  [info] loading project definition from /Users/adityarajsingh/scala344/project
+2026.03.29 03:01:58 INFO  [success] Generated .bloop/scala344-build.json
+2026.03.29 03:01:59 INFO  [info] compiling 1 Scala source to /Users/adityarajsingh/scala344/project/target/scala-2.12/sbt-1.0/classes ...
+2026.03.29 03:02:00 INFO  [info] done compiling
+2026.03.29 03:02:00 INFO  [success] Total time: 2 s, completed Mar 29, 2026, 3:02:00 AM
+2026.03.29 03:02:02 INFO  [info] loading settings for project root from build.sbt...
+2026.03.29 03:02:02 INFO  [info] set current project to scala344 (in build file:/Users/adityarajsingh/scala344/)
+2026.03.29 03:02:06 INFO  [success] Generated .bloop/root-test.json
+2026.03.29 03:02:06 INFO  [success] Generated .bloop/root.json
+2026.03.29 03:02:06 INFO  [success] Total time: 5 s, completed Mar 29, 2026, 3:02:06 AM
+2026.03.29 03:02:06 INFO  time: ran 'sbt bloopInstall' in 10s
+2026.03.29 03:02:06 INFO  Disconnecting from Bloop session...
+2026.03.29 03:02:06 INFO  Shut down connection with build server.
+2026.03.29 03:02:06 INFO  Shut down connection with build server.
+2026.03.29 03:02:06 INFO  Attempting to connect to the build server...
+2026.03.29 03:02:06 INFO  Found a Bloop server running
+2026.03.29 03:02:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 03:02:06 INFO  Attempting to connect to the build server...
+2026.03.29 03:02:06 INFO  Found a Bloop server running
+2026.03.29 03:02:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 03:02:07 INFO  time: Connected to build server in 0.26s
+2026.03.29 03:02:06 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.29 03:02:07 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2026.03.29 03:02:07 INFO  compiling root (2 scala sources)
+2026.03.29 03:02:09 INFO  time: compiled root in 1.54s
+2026.03.29 03:02:11 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+- src/test/scala
+2026.03.29 03:02:13 INFO  time: indexed workspace in 6.58s
+2026.03.29 03:02:13 INFO  compiling root (2 scala sources)
+2026.03.29 03:02:13 INFO  time: compiled root in 0.39s
+2026.03.29 03:02:39 INFO  skipping build import with status 'Installed'
+2026.03.29 03:05:44 INFO  compiling root (2 scala sources)
+2026.03.29 03:05:44 INFO  time: compiled root in 0.45s
+2026.03.29 03:05:53 INFO  compiling root (2 scala sources)
+2026.03.29 03:05:53 INFO  time: compiled root in 0.79s
+2026.03.29 03:09:44 INFO  compiling root (2 scala sources)
+2026.03.29 03:09:44 INFO  time: compiled root in 0.27s
+2026.03.29 03:10:31 INFO  compiling root (2 scala sources)
+2026.03.29 03:10:31 INFO  time: compiled root in 0.42s
+2026.03.29 03:10:31 INFO  compiling root (2 scala sources)
+2026.03.29 03:10:33 INFO  time: compiled root in 0.42s
+2026.03.29 03:10:50 INFO  compiling root (2 scala sources)
+2026.03.29 03:10:50 INFO  time: compiled root in 0.24s
+2026.03.29 03:11:05 INFO  compiling root (2 scala sources)
+2026.03.29 03:11:05 INFO  time: compiled root in 0.62s
+2026.03.29 03:11:09 INFO  compiling root (2 scala sources)
+2026.03.29 03:11:09 INFO  time: compiled root in 0.26s
+2026.03.29 03:12:28 INFO  compiling root (2 scala sources)
+2026.03.29 03:12:29 INFO  time: compiled root in 1.14s
+2026.03.29 03:12:29 INFO  compiling root (2 scala sources)
+2026.03.29 03:12:29 INFO  time: compiled root in 0.86s
+2026.03.29 03:12:34 INFO  compiling root (2 scala sources)
+2026.03.29 03:12:34 INFO  time: compiled root in 0.24s
+2026.03.29 03:12:40 INFO  compiling root (2 scala sources)
+2026.03.29 03:12:40 INFO  time: compiled root in 0.61s
+2026.03.29 03:12:47 INFO  compiling root (2 scala sources)
+2026.03.29 03:12:47 INFO  time: compiled root in 0.78s
+2026.03.29 03:12:47 INFO  compiling root (2 scala sources)
+2026.03.29 03:12:49 INFO  time: compiled root in 0.17s
+2026.03.29 03:14:06 INFO  compiling root (2 scala sources)
+2026.03.29 03:14:06 INFO  time: compiled root in 0.19s
+2026.03.29 03:14:10 INFO  compiling root (2 scala sources)
+2026.03.29 03:14:10 INFO  time: compiled root in 0.17s
+2026.03.29 03:14:12 INFO  compiling root (2 scala sources)
+2026.03.29 03:14:12 INFO  time: compiled root in 0.15s
+2026.03.29 03:14:18 INFO  compiling root (2 scala sources)
+2026.03.29 03:14:18 INFO  time: compiled root in 0.19s
+2026.03.29 03:14:19 INFO  compiling root (2 scala sources)
+2026.03.29 03:14:19 INFO  time: compiled root in 0.14s
+2026.03.29 03:18:00 INFO  compiling root (2 scala sources)
+2026.03.29 03:18:00 INFO  time: compiled root in 0.75s
+2026.03.29 03:25:45 WARN  Could not find 'Const' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2026.03.29 03:25:45 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 03:26:09 WARN  Could not find 'Const' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2026.03.29 03:26:09 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-28/r_empty-definition_(root)_20-55-13-849.md")
+2026.03.29 03:31:57 INFO  compiling root (2 scala sources)
+2026.03.29 03:31:57 INFO  time: compiled root in 0.81s
+2026.03.29 03:31:59 INFO  compiling root (2 scala sources)
+2026.03.29 03:31:59 INFO  time: compiled root in 0.32s
+2026.03.29 03:34:03 INFO  compiling root (2 scala sources)
+2026.03.29 03:34:03 INFO  time: compiled root in 0.28s
+2026.03.29 03:34:05 INFO  compiling root (2 scala sources)
+2026.03.29 03:34:05 INFO  time: compiled root in 0.15s
+2026.03.29 03:34:08 INFO  compiling root (2 scala sources)
+2026.03.29 03:34:08 INFO  time: compiled root in 0.14s
+2026.03.29 03:34:30 INFO  compiling root (2 scala sources)
+2026.03.29 03:34:30 INFO  time: compiled root in 0.27s
+2026.03.29 03:34:35 INFO  compiling root (2 scala sources)
+2026.03.29 03:34:35 INFO  time: compiled root in 0.15s
+2026.03.29 03:36:46 INFO  compiling root (2 scala sources)
+2026.03.29 03:36:46 INFO  time: compiled root in 0.18s
+2026.03.29 03:36:53 INFO  compiling root (2 scala sources)
+2026.03.29 03:36:53 INFO  time: compiled root in 0.2s
+2026.03.29 03:36:57 INFO  compiling root (2 scala sources)
+2026.03.29 03:36:57 INFO  time: compiled root in 0.15s
+2026.03.29 03:37:03 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:03 INFO  time: compiled root in 0.16s
+2026.03.29 03:37:05 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:05 INFO  time: compiled root in 0.14s
+2026.03.29 03:37:11 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:11 INFO  time: compiled root in 0.17s
+2026.03.29 03:37:12 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:12 INFO  time: compiled root in 0.12s
+2026.03.29 03:37:14 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:14 INFO  time: compiled root in 0.14s
+2026.03.29 03:37:25 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:25 INFO  time: compiled root in 0.34s
+2026.03.29 03:37:28 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:28 INFO  time: compiled root in 0.18s
+Mar 29, 2026 3:37:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1943
+2026.03.29 03:37:34 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:34 INFO  time: compiled root in 0.44s
+2026.03.29 03:37:36 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:36 INFO  time: compiled root in 0.29s
+2026.03.29 03:37:46 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:46 INFO  time: compiled root in 0.18s
+2026.03.29 03:37:48 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:48 INFO  time: compiled root in 0.14s
+2026.03.29 03:37:52 INFO  compiling root (2 scala sources)
+2026.03.29 03:37:52 INFO  time: compiled root in 0.14s
+2026.03.29 03:38:03 INFO  compiling root (2 scala sources)
+2026.03.29 03:38:03 INFO  time: compiled root in 0.13s
+2026.03.29 03:38:24 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.29 03:38:25 INFO  compiling root (2 scala sources)
+2026.03.29 03:38:25 INFO  time: compiled root in 0.13s
+2026.03.29 03:38:25 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.29 03:38:32 INFO  compiling root (2 scala sources)
+2026.03.29 03:38:32 INFO  time: compiled root in 0.19s
+2026.03.29 03:40:37 INFO  compiling root (2 scala sources)
+2026.03.29 03:40:37 INFO  time: compiled root in 0.16s
+2026.03.29 03:41:56 INFO  compiling root (2 scala sources)
+2026.03.29 03:41:56 INFO  time: compiled root in 0.14s
+2026.03.29 03:44:50 INFO  compiling root (2 scala sources)
+2026.03.29 03:44:50 INFO  time: compiled root in 0.4s
+2026.03.29 03:45:20 ERROR scalafmt: [3.10.7] /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala:32: error: [dialect scala213] `identifier` expected but `case` found
+  case Eq, NEq, Lt, Gt
+  ^
+2026.03.29 03:45:41 INFO  compiling root (2 scala sources)
+2026.03.29 03:45:41 INFO  time: compiled root in 0.14s
+2026.03.29 03:45:44 INFO  compiling root (2 scala sources)
+2026.03.29 03:45:44 INFO  time: compiled root in 0.3s
+2026.03.29 03:45:47 INFO  compiling root (2 scala sources)
+2026.03.29 03:45:47 INFO  time: compiled root in 0.18s
+2026.03.29 03:45:50 INFO  compiling root (2 scala sources)
+2026.03.29 03:45:50 INFO  time: compiled root in 0.38s
+2026.03.29 03:45:58 INFO  compiling root (2 scala sources)
+2026.03.29 03:45:58 INFO  time: compiled root in 0.3s
+2026.03.29 03:46:08 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:08 INFO  time: compiled root in 0.33s
+2026.03.29 03:46:11 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:11 INFO  time: compiled root in 0.25s
+2026.03.29 03:46:17 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:17 INFO  time: compiled root in 0.29s
+2026.03.29 03:46:22 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:22 INFO  time: compiled root in 0.24s
+2026.03.29 03:46:28 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:28 INFO  time: compiled root in 0.23s
+2026.03.29 03:46:46 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:46 INFO  time: compiled root in 0.25s
+2026.03.29 03:46:52 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:52 INFO  time: compiled root in 0.2s
+2026.03.29 03:46:59 INFO  compiling root (2 scala sources)
+2026.03.29 03:46:59 INFO  time: compiled root in 0.22s
+2026.03.29 03:48:00 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:00 INFO  time: compiled root in 0.13s
+2026.03.29 03:48:03 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:03 INFO  time: compiled root in 0.27s
+2026.03.29 03:48:06 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:06 INFO  time: compiled root in 0.27s
+2026.03.29 03:48:14 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:14 INFO  time: compiled root in 0.32s
+2026.03.29 03:48:19 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:19 INFO  time: compiled root in 0.31s
+2026.03.29 03:48:20 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:20 INFO  time: compiled root in 0.21s
+2026.03.29 03:48:24 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:24 INFO  time: compiled root in 0.26s
+2026.03.29 03:48:28 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:28 INFO  time: compiled root in 0.28s
+2026.03.29 03:48:47 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:47 INFO  time: compiled root in 0.21s
+2026.03.29 03:48:50 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:50 INFO  time: compiled root in 0.19s
+2026.03.29 03:48:51 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:51 INFO  time: compiled root in 0.12s
+2026.03.29 03:48:53 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:53 INFO  time: compiled root in 0.13s
+2026.03.29 03:48:55 INFO  compiling root (2 scala sources)
+2026.03.29 03:48:55 INFO  time: compiled root in 0.16s
+2026.03.29 03:49:02 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:02 INFO  time: compiled root in 0.14s
+2026.03.29 03:49:04 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:04 INFO  time: compiled root in 0.1s
+2026.03.29 03:49:07 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:07 INFO  time: compiled root in 0.14s
+2026.03.29 03:49:09 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:09 INFO  time: compiled root in 0.23s
+2026.03.29 03:49:16 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:16 INFO  time: compiled root in 0.14s
+2026.03.29 03:49:19 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:19 INFO  time: compiled root in 0.1s
+2026.03.29 03:49:24 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:24 INFO  time: compiled root in 0.13s
+2026.03.29 03:49:33 INFO  compiling root (2 scala sources)
+2026.03.29 03:49:33 INFO  time: compiled root in 0.15s
+2026.03.29 03:50:03 INFO  compiling root (2 scala sources)
+2026.03.29 03:50:03 INFO  time: compiled root in 0.14s
+2026.03.29 03:50:14 INFO  compiling root (2 scala sources)
+2026.03.29 03:50:14 INFO  time: compiled root in 0.25s
+2026.03.29 03:50:44 INFO  compiling root (2 scala sources)
+2026.03.29 03:50:44 INFO  time: compiled root in 0.24s
+2026.03.29 03:50:46 INFO  compiling root (2 scala sources)
+2026.03.29 03:50:46 INFO  time: compiled root in 0.17s
+2026.03.29 03:51:11 INFO  compiling root (2 scala sources)
+2026.03.29 03:51:11 INFO  time: compiled root in 0.16s
+2026.03.29 03:51:14 INFO  compiling root (2 scala sources)
+2026.03.29 03:51:14 INFO  time: compiled root in 0.14s
+2026.03.29 03:51:17 INFO  compiling root (2 scala sources)
+2026.03.29 03:51:17 INFO  time: compiled root in 0.13s
+2026.03.29 03:51:23 INFO  compiling root (2 scala sources)
+2026.03.29 03:51:23 INFO  time: compiled root in 0.14s
+2026.03.29 03:51:25 INFO  compiling root (2 scala sources)
+2026.03.29 03:51:25 INFO  time: compiled root in 0.67s
+2026.03.29 03:51:32 INFO  compiling root (1 scala source)
+2026.03.29 03:51:32 INFO  time: compiled root in 0.25s
+2026.03.29 03:51:34 INFO  compiling root (1 scala source)
+2026.03.29 03:51:34 INFO  time: compiled root in 0.15s
+2026.03.29 03:51:37 INFO  compiling root (1 scala source)
+2026.03.29 03:51:37 INFO  time: compiled root in 0.38s
+2026.03.29 03:51:41 INFO  compiling root (1 scala source)
+2026.03.29 03:51:41 INFO  time: compiled root in 0.14s
+2026.03.29 03:51:43 INFO  compiling root (1 scala source)
+2026.03.29 03:51:43 INFO  time: compiled root in 0.32s
+2026.03.29 03:52:35 INFO  compiling root (1 scala source)
+2026.03.29 03:52:35 INFO  time: compiled root in 0.34s
+2026.03.29 03:52:43 INFO  compiling root (1 scala source)
+2026.03.29 03:52:43 INFO  time: compiled root in 0.24s
+Mar 29, 2026 3:53:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3940
+2026.03.29 03:58:34 INFO  compiling root (1 scala source)
+2026.03.29 03:58:34 INFO  time: compiled root in 0.11s
+2026.03.29 03:58:37 INFO  compiling root (1 scala source)
+2026.03.29 03:58:37 INFO  time: compiled root in 82ms
+2026.03.29 03:58:41 INFO  compiling root (1 scala source)
+2026.03.29 03:58:41 INFO  time: compiled root in 0.12s
+2026.03.29 03:58:44 INFO  compiling root (1 scala source)
+2026.03.29 03:58:44 INFO  time: compiled root in 0.17s
+2026.03.29 03:59:39 INFO  compiling root (1 scala source)
+2026.03.29 03:59:39 INFO  time: compiled root in 0.17s
+2026.03.29 03:59:41 INFO  compiling root (1 scala source)
+2026.03.29 03:59:41 INFO  time: compiled root in 0.12s
+2026.03.29 04:00:14 INFO  compiling root (1 scala source)
+2026.03.29 04:00:14 INFO  time: compiled root in 0.3s
+2026.03.29 13:29:18 INFO  compiling root (1 scala source)
+2026.03.29 13:29:18 INFO  time: compiled root in 0.36s
+2026.03.29 13:29:58 INFO  compiling root (1 scala source)
+2026.03.29 13:29:58 INFO  time: compiled root in 0.57s
+2026.03.29 13:30:19 INFO  compiling root (1 scala source)
+2026.03.29 13:30:19 INFO  time: compiled root in 0.38s
+2026.03.29 13:30:35 INFO  compiling root (1 scala source)
+2026.03.29 13:30:35 INFO  time: compiled root in 0.32s
+2026.03.29 13:30:48 INFO  compiling root (1 scala source)
+2026.03.29 13:30:48 INFO  time: compiled root in 0.29s
+2026.03.29 13:30:58 INFO  compiling root (1 scala source)
+2026.03.29 13:30:58 INFO  time: compiled root in 0.32s
+2026.03.29 13:32:46 INFO  compiling root (1 scala source)
+2026.03.29 13:32:46 INFO  time: compiled root in 0.34s
+2026.03.29 13:32:48 INFO  compiling root (1 scala source)
+2026.03.29 13:32:48 INFO  time: compiled root in 0.26s
+2026.03.29 13:32:52 INFO  compiling root (1 scala source)
+2026.03.29 13:32:52 INFO  time: compiled root in 0.35s
+Mar 29, 2026 1:32:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5180
+2026.03.29 13:49:23 INFO  compiling root (1 scala source)
+2026.03.29 13:49:23 INFO  time: compiled root in 0.45s
+2026.03.29 13:49:28 INFO  compiling root (1 scala source)
+2026.03.29 13:49:28 INFO  time: compiled root in 0.24s
+2026.03.29 13:49:29 INFO  compiling root (1 scala source)
+2026.03.29 13:49:29 INFO  time: compiled root in 0.22s
+2026.03.29 13:49:44 INFO  compiling root (1 scala source)
+2026.03.29 13:49:44 INFO  time: compiled root in 0.19s
+2026.03.29 13:49:53 INFO  compiling root (1 scala source)
+2026.03.29 13:49:53 INFO  time: compiled root in 0.22s
+Mar 29, 2026 1:49:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5383
+2026.03.29 13:49:59 INFO  compiling root (1 scala source)
+2026.03.29 13:49:59 INFO  time: compiled root in 0.28s
+2026.03.29 13:50:00 INFO  compiling root (1 scala source)
+2026.03.29 13:50:00 INFO  time: compiled root in 0.23s
+2026.03.29 13:50:01 INFO  compiling root (1 scala source)
+2026.03.29 13:50:01 INFO  time: compiled root in 0.22s
+2026.03.29 13:50:24 INFO  compiling root (1 scala source)
+2026.03.29 13:50:24 INFO  time: compiled root in 0.24s
+2026.03.29 13:50:26 INFO  compiling root (1 scala source)
+2026.03.29 13:50:26 INFO  time: compiled root in 0.19s
+2026.03.29 13:50:53 INFO  compiling root (1 scala source)
+2026.03.29 13:50:53 INFO  time: compiled root in 0.24s
+2026.03.29 13:53:00 INFO  compiling root (1 scala source)
+2026.03.29 13:53:00 INFO  time: compiled root in 0.2s
+2026.03.29 13:53:46 INFO  compiling root (1 scala source)
+2026.03.29 13:53:46 INFO  time: compiled root in 0.11s
+2026.03.29 13:53:48 INFO  compiling root (1 scala source)
+2026.03.29 13:53:48 INFO  time: compiled root in 0.28s
+2026.03.29 13:53:56 INFO  compiling root (1 scala source)
+2026.03.29 13:53:56 INFO  time: compiled root in 0.3s
+2026.03.29 13:54:01 INFO  compiling root (1 scala source)
+2026.03.29 13:54:01 INFO  time: compiled root in 0.26s
+Mar 29, 2026 1:55:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5773
+2026.03.29 13:55:23 INFO  compiling root (1 scala source)
+2026.03.29 13:55:23 INFO  time: compiled root in 0.28s
+2026.03.29 13:58:22 INFO  compiling root (1 scala source)
+2026.03.29 13:58:22 INFO  time: compiled root in 0.15s
+2026.03.29 13:58:26 INFO  compiling root (1 scala source)
+2026.03.29 13:58:26 INFO  time: compiled root in 0.12s
+2026.03.29 13:58:30 INFO  compiling root (1 scala source)
+2026.03.29 13:58:30 INFO  time: compiled root in 0.1s
+2026.03.29 13:58:33 INFO  compiling root (1 scala source)
+2026.03.29 13:58:33 INFO  time: compiled root in 0.14s
+2026.03.29 13:58:36 INFO  compiling root (1 scala source)
+2026.03.29 13:58:36 INFO  time: compiled root in 0.33s
+2026.03.29 13:58:40 INFO  compiling root (1 scala source)
+2026.03.29 13:58:40 INFO  time: compiled root in 0.12s
+2026.03.29 13:58:43 INFO  compiling root (1 scala source)
+2026.03.29 13:58:43 INFO  time: compiled root in 0.16s
+2026.03.29 13:58:48 INFO  compiling root (1 scala source)
+2026.03.29 13:58:48 INFO  time: compiled root in 0.13s
+2026.03.29 13:58:51 INFO  compiling root (1 scala source)
+2026.03.29 13:58:51 INFO  time: compiled root in 0.11s
+2026.03.29 13:58:54 INFO  compiling root (1 scala source)
+2026.03.29 13:58:54 INFO  time: compiled root in 0.29s
+2026.03.29 13:59:10 INFO  compiling root (1 scala source)
+2026.03.29 13:59:10 INFO  time: compiled root in 0.28s
+2026.03.29 13:59:17 INFO  compiling root (1 scala source)
+2026.03.29 13:59:17 INFO  time: compiled root in 0.29s
+Mar 29, 2026 2:03:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6347
+2026.03.29 14:03:37 INFO  compiling root (1 scala source)
+2026.03.29 14:03:37 INFO  time: compiled root in 0.3s
+2026.03.29 14:11:41 INFO  compiling root (1 scala source)
+2026.03.29 14:11:41 INFO  time: compiled root in 0.13s
+Mar 29, 2026 2:11:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6584
+2026.03.29 14:11:47 INFO  compiling root (1 scala source)
+2026.03.29 14:11:47 INFO  time: compiled root in 0.35s
+2026.03.29 14:11:56 INFO  compiling root (1 scala source)
+2026.03.29 14:11:56 INFO  time: compiled root in 0.26s
+2026.03.29 14:11:58 INFO  compiling root (1 scala source)
+2026.03.29 14:11:58 INFO  time: compiled root in 0.2s
+Mar 29, 2026 2:14:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6716
+Mar 29, 2026 2:30:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6928
+Mar 29, 2026 2:37:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7274
+Mar 29, 2026 2:40:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7464
+2026.03.29 16:23:54 INFO  compiling root (1 scala source)
+2026.03.29 16:23:54 INFO  time: compiled root in 0.32s
+2026.03.29 16:27:44 INFO  compiling root (1 scala source)
+2026.03.29 16:27:44 INFO  time: compiled root in 0.14s
+2026.03.29 16:27:46 INFO  compiling root (1 scala source)
+2026.03.29 16:27:46 INFO  time: compiled root in 0.12s
+2026.03.29 16:27:49 INFO  compiling root (1 scala source)
+2026.03.29 16:27:49 INFO  time: compiled root in 97ms
+2026.03.29 16:27:54 INFO  compiling root (1 scala source)
+2026.03.29 16:27:54 INFO  time: compiled root in 0.31s
+2026.03.29 16:27:56 INFO  compiling root (1 scala source)
+2026.03.29 16:27:56 INFO  time: compiled root in 0.25s
+Mar 29, 2026 4:28:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7785
+2026.03.29 16:28:40 INFO  compiling root (1 scala source)
+2026.03.29 16:28:40 INFO  time: compiled root in 0.12s
+2026.03.29 16:28:49 INFO  compiling root (1 scala source)
+2026.03.29 16:28:49 INFO  time: compiled root in 0.26s
+2026.03.29 16:28:52 INFO  compiling root (1 scala source)
+2026.03.29 16:28:52 INFO  time: compiled root in 0.12s
+2026.03.29 16:28:52 INFO  compiling root (1 scala source)
+2026.03.29 16:28:54 INFO  time: compiled root in 0.22s
+2026.03.29 16:29:02 INFO  compiling root (1 scala source)
+2026.03.29 16:29:02 INFO  time: compiled root in 0.24s
+2026.03.29 16:29:06 INFO  compiling root (1 scala source)
+2026.03.29 16:29:06 INFO  time: compiled root in 0.23s
+2026.03.29 16:29:10 INFO  compiling root (1 scala source)
+2026.03.29 16:29:10 INFO  time: compiled root in 0.14s
+2026.03.29 16:29:12 INFO  compiling root (1 scala source)
+2026.03.29 16:29:12 INFO  time: compiled root in 0.23s
+2026.03.29 16:29:26 INFO  compiling root (1 scala source)
+2026.03.29 16:29:26 INFO  time: compiled root in 0.24s
+2026.03.29 16:29:31 INFO  compiling root (1 scala source)
+2026.03.29 16:29:31 INFO  time: compiled root in 0.11s
+2026.03.29 16:29:34 INFO  compiling root (1 scala source)
+2026.03.29 16:29:34 INFO  time: compiled root in 0.15s
+2026.03.29 16:29:39 INFO  compiling root (1 scala source)
+2026.03.29 16:29:39 INFO  time: compiled root in 0.23s
+2026.03.29 16:29:40 INFO  compiling root (1 scala source)
+2026.03.29 16:29:40 INFO  time: compiled root in 0.1s
+2026.03.29 16:29:45 INFO  compiling root (1 scala source)
+2026.03.29 16:29:45 INFO  time: compiled root in 0.22s
+2026.03.29 16:29:57 INFO  compiling root (1 scala source)
+2026.03.29 16:29:57 INFO  time: compiled root in 0.19s
+2026.03.29 16:30:03 INFO  compiling root (1 scala source)
+2026.03.29 16:30:03 INFO  time: compiled root in 0.21s
+2026.03.29 16:30:13 INFO  compiling root (1 scala source)
+2026.03.29 16:30:13 INFO  time: compiled root in 0.2s
+2026.03.29 16:33:10 INFO  compiling root (1 scala source)
+2026.03.29 16:33:10 INFO  time: compiled root in 0.23s
+2026.03.29 16:33:19 INFO  compiling root (1 scala source)
+2026.03.29 16:33:19 INFO  time: compiled root in 0.17s
+2026.03.29 16:33:49 INFO  compiling root (1 scala source)
+2026.03.29 16:33:49 INFO  time: compiled root in 0.28s
+2026.03.29 16:33:54 INFO  compiling root (1 scala source)
+2026.03.29 16:33:54 INFO  time: compiled root in 0.28s
+2026.03.29 16:34:10 INFO  compiling root (1 scala source)
+2026.03.29 16:34:10 INFO  time: compiled root in 0.25s
+2026.03.29 16:34:23 INFO  compiling root (1 scala source)
+2026.03.29 16:34:23 INFO  time: compiled root in 0.29s
+2026.03.29 16:35:45 INFO  compiling root (1 scala source)
+2026.03.29 16:35:45 INFO  Created report: Optional.empty
+2026.03.29 16:35:45 INFO  Bad symbolic reference. A signature
+refers to CompareOp[Unique $ 2]/T in package <empty> which is no... (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/bloop/2026-03-29/r_Bad symbolic referen..._16-35-45-504.md")
+2026.03.29 16:35:45 INFO  time: compiled root in 0.18s
+Mar 29, 2026 4:35:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8785
+2026.03.29 16:35:50 INFO  compiling root (1 scala source)
+2026.03.29 16:35:50 INFO  time: compiled root in 0.28s
+2026.03.29 16:35:50 INFO  compiling root (1 scala source)
+2026.03.29 16:35:52 INFO  time: compiled root in 0.17s
+2026.03.29 16:36:08 INFO  compiling root (1 scala source)
+2026.03.29 16:36:08 INFO  time: compiled root in 0.12s
+2026.03.29 16:36:13 INFO  compiling root (1 scala source)
+2026.03.29 16:36:13 INFO  time: compiled root in 0.14s
+2026.03.29 16:36:41 INFO  compiling root (1 scala source)
+2026.03.29 16:36:41 INFO  time: compiled root in 0.23s
+2026.03.29 16:39:25 INFO  compiling root (1 scala source)
+2026.03.29 16:39:25 INFO  time: compiled root in 0.26s
+2026.03.29 16:39:26 INFO  compiling root (1 scala source)
+2026.03.29 16:39:26 INFO  time: compiled root in 0.21s
+2026.03.29 16:39:34 INFO  compiling root (1 scala source)
+2026.03.29 16:39:34 INFO  time: compiled root in 0.25s
+2026.03.29 16:39:35 INFO  compiling root (1 scala source)
+2026.03.29 16:39:35 INFO  time: compiled root in 0.17s
+2026.03.29 16:39:39 INFO  compiling root (1 scala source)
+2026.03.29 16:39:39 INFO  time: compiled root in 0.24s
+2026.03.29 16:39:57 INFO  compiling root (1 scala source)
+2026.03.29 16:39:57 INFO  time: compiled root in 0.31s
+error while checking new RecursiveDescent(null: <notype>)
+error while checking val rd = new RecursiveDescent(null: <notype>)
+error while checking {
+  val env: Environment =
+    {
+      case "x" =>
+        5
+      case "y" =>
+        7
+    }
+  println("Expr --> ")
+  val expr = readLine()
+  val rd = new RecursiveDescent(null: <notype>)
+  <empty>
+}
+error while checking def main(args: Array[String]) =
+  {
+    val env: Environment =
+      {
+        case "x" =>
+          5
+        case "y" =>
+          7
+      }
+    println("Expr --> ")
+    val expr = readLine()
+    val rd = new RecursiveDescent(null: <notype>)
+    <empty>
+  }
+error while checking  {
+  type Environment = (String) => Int
+  def main(args: Array[String]) =
+    {
+      val env: Environment =
+        {
+          case "x" =>
+            5
+          case "y" =>
+            7
+        }
+      println("Expr --> ")
+      val expr = readLine()
+      val rd = new RecursiveDescent(null: <notype>)
+      <empty>
+    }
+}
+error while checking module object Main {
+  type Environment = (String) => Int
+  def main(args: Array[String]) =
+    {
+      val env: Environment =
+        {
+          case "x" =>
+            5
+          case "y" =>
+            7
+        }
+      println("Expr --> ")
+      val expr = readLine()
+      val rd = new RecursiveDescent(null: <notype>)
+      <empty>
+    }
+}
+error while checking package <empty> {
+  import scala.util.matching.Regex
+  import scala.collection.mutable.ListBuffer
+  import scala.io.StdIn.*
+  abstract class S {
+    def eval(env: Main.Environment): Int
+  }
+  sealed abstract class SetExpr {}
+  case class SetLiterals(val elems: Set[Int]) extends SetExpr {}
+  case class SetRange(val lo: Int, val hi: Int) extends SetExpr {}
+  case class SetComp(val output: E, val clauses: List[Clause]) extends SetExpr {
+    }
+  sealed abstract class Clause {}
+  case class Generator(val identifier: String, val source: SetExpr) extends
+    Clause {}
+  case class Guard(val l: E, val op: CompareOp, val r: E) extends Clause {}
+  class CompareOp {
+    case val Eq, NEq, Lt, Gt
+  }
+  def evalSet(s: SetExpr, env: Main.Environment): Set[Int] =
+    {
+      s match
+        {
+          case SetLiterals(v) =>
+            v
+          case SetRange(lo, hi) =>
+            val set = scala.collection.mutable.Set[Int]()
+            for i <- lo to hi do
+              {
+                set += i
+              }
+            set.toSet
+          case SetComp(output, clauses) =>
+            var envs = ListBuffer(env)
+            for c <- clauses do
+              {
+                c match
+                  {
+                    case Generator(identifier, source) =>
+                      val values = evalSet(source, env)
+                      var newEnvs = ListBuffer[Main.Environment]()
+                      for e <- envs; v <- values do
+                        {
+                          val newEnv: Main.Environment =
+                            (x: String) => if (x == identifier) v else e(x)
+                          newEnvs += newEnv
+                        }
+                      envs = newEnvs
+                    case Guard(l, op, r) =>
+                      envs =
+                        envs.filter(
+                          {
+                            e =>
+                              {
+                                val left = l.eval(e)
+                                val right = r.eval(e)
+                                op match
+                                  {
+                                    case CompareOp.Eq =>
+                                      left == right
+                                    case CompareOp.NEq =>
+                                      left != right
+                                    case CompareOp.Lt =>
+                                      left < right
+                                    case CompareOp.Gt =>
+                                      left > right
+                                  }
+                              }
+                          }
+                        )
+                  }
+              }
+            val result = scala.collection.mutable.Set[Int]()
+            for e <- envs do
+              {
+                val value = output.eval(e)
+                result += value
+              }
+            result.toSet
+        }
+    }
+  abstract class Terminal extends S {}
+  case class E(val l: T, val right: Option[E2]) extends S {
+    def eval(env: Main.Environment): Int =
+      {
+        val a1: Int = l.eval(env)
+        right match
+          {
+            case Some(r) =>
+              val a2 = r.eval(env)
+              if (r.operator == '+')
+                {
+                  a1 + a2
+                }
+               else
+                {
+                  a1 - a2
+                }
+            case None =>
+              a1
+          }
+      }
+  }
+  case class T(val l: S, val right: Option[T2]) extends S {
+    def eval(env: Main.Environment): Int =
+      {
+        val a1: Int = l.eval(env)
+        right match
+          {
+            case Some(r) =>
+              val a2 = r.eval(env)
+              if (r.operator == '*')
+                {
+                  a1 * a2
+                }
+               else
+                {
+                  a1 % a2
+                }
+            case None =>
+              a1
+          }
+      }
+  }
+  case class T2(val operator: Char, val l: T) extends S {
+    def eval(env: Main.Environment): Int = l.eval(env)
+  }
+  case class E2(val operator: Char, val l: E) extends S {
+    def eval(env: Main.Environment): Int = l.eval(env)
+  }
+  case class Var(val n: String) extends Terminal {
+    def eval(env: Main.Environment): Int = env(n)
+  }
+  case class Const(val v: Int) extends Terminal {
+    def eval(env: Main.Environment): Int = v
+  }
+  class RecursiveDescent(private[this] val input: String) {
+    val constregex: Regex = "^[0-9]+".r
+    val varregex: Regex = "^[A-Za-z]+".r
+    var index = 0
+    def parseS(): S = parseE()
+    def parseSet(): SetExpr =
+      {
+        if (index < input.length && input(index) == '{')
+          {
+            index += 1
+            var result = parseSetBody()
+            if (index < input.length && input(index) == '}')
+              {
+                index += 1
+              }
+            return result
+          }
+         else throw new Exception("Not starting with {} ")
+      }
+    def parseSetBody(): SetExpr =
+      {
+        if (index < input.length && input(index) == '}')
+          {
+            return SetLiterals(Set.empty)
+          }
+        val firstExpr = parseE()
+        if (index < input.length && input(index) == '|')
+          {
+            index += 1
+            val clauses = parseClauses()
+            return SetComp(firstExpr, clauses)
+          }
+        val first = parseF()
+        val firstValue =
+          first match
+            {
+              case Const(v) =>
+                v
+              case _ =>
+                throw new Exception("Expected integer in set")
+            }
+        if
+          (
+            index + 4 < input.length &&
+              input.substring(index, index + 5) == ",...,"
+          )
+
+          {
+            index += 5
+            val second = parseF()
+            val secondValue =
+              second match
+                {
+                  case Const(v) =>
+                    v
+                  case _ =>
+                    throw new Exception("Expected integer in range")
+                }
+            return SetRange(firstValue, secondValue)
+          }
+        val set = scala.collection.mutable.Set[Int]()
+        set.add(firstValue)
+        while (index < input.length && input(index) == ',') do
+          {
+            index += 1
+            val next = parseF()
+            val nextValue =
+              next match
+                {
+                  case Const(v) =>
+                    v
+                  case _ =>
+                    throw new Exception("Expected integer in set")
+                }
+            set.add(nextValue)
+          }
+        SetLiterals(set.toSet)
+      }
+    def parseClause(): Clause =
+      {
+        val startIndex = index
+        val remaining = input.substring(index)
+        val varMatch = varregex.findPrefixOf(remaining)
+        var identifier = ""
+        if (varMatch.isDefined)
+          {
+            identifier = varMatch.get
+            index += identifier.length
+          }
+        if (index < input.length && input.substring(index).startsWith("in"))
+          {
+            index += 2
+            return Generator(identifier, parseSet())
+          }
+         else
+          {
+            index = startIndex
+          }
+        val left = parseE()
+        val op =
+          if (input.substring(index).startsWith("!="))
+            {
+              index += 2
+              CompareOp.NEq
+            }
+           else
+            if (index < input.length && input(index) == '=')
+              {
+                index += 1
+                CompareOp.Eq
+              }
+             else
+              if (index < input.length && input(index) == '<')
+                {
+                  index += 1
+                  CompareOp.Lt
+                }
+               else
+                if (index < input.length && input(index) == '>')
+                  {
+                    index += 1
+                    CompareOp.Gt
+                  }
+                 else
+                  {
+                    throw new Exception("Invalid comparison operator")
+                  }
+        val right = parseE()
+        Guard(left, op, right)
+      }
+    def parseClauses(): List[Clause] =
+      {
+        var list = ListBuffer[Clause]()
+        list += parseClause()
+        while (index < input.length && input(index) == ',') do
+          {
+            index += 1
+            list += parseClause()
+          }
+        return list.toList
+      }
+    def parseE(): E = E(parseT(), parseE2())
+    def parseE2(): Option[E2] =
+      {
+        if (index < input.length && input(index) == '+')
+          {
+            index += 1
+            Some(E2('+', parseE()))
+          }
+         else
+          if (index < input.length && input(index) == '-')
+            {
+              index += 1
+              Some(E2('-', parseE()))
+            }
+           else None
+      }
+    def parseF(): S =
+      {
+        if (index < input.length && input(index) == '(')
+          {
+            index += 1
+            val expr = parseE()
+            index += 1
+            expr
+          }
+         else
+          {
+            val remaining = input.substring(index)
+            val numMatch = constregex.findPrefixOf(remaining)
+            if (numMatch.isDefined)
+              {
+                val numStr = numMatch.get
+                index += numStr.length
+                Const(numStr.toInt)
+              }
+             else
+              {
+                val varMatch = varregex.findPrefixOf(remaining).get
+                index += varMatch.length
+                Var(varMatch)
+              }
+          }
+      }
+    def parseT(): T = T(parseF(), parseT2())
+    def parseT2(): Option[T2] =
+      {
+        if (index < input.length && input(index) == '*')
+          {
+            index += 1
+            Some(T2('*', parseT()))
+          }
+         else
+          if (index < input.length && input(index) == '%')
+            {
+              index += 1
+              Some(T2('%', parseT()))
+            }
+           else None
+      }
+    def parseTerminal(): Terminal =
+      {
+        val currStr = input.substring(index)
+        val consts = constregex.findAllIn(currStr)
+        if (consts.hasNext)
+          {
+            val const: String = consts.next()
+            index += const.length()
+            Const(const.toInt)
+          }
+         else
+          {
+            val vars = varregex.findAllIn(currStr)
+            val varname = vars.next()
+            index += varname.length()
+            Var(varname)
+          }
+      }
+  }
+  module object Main {
+    type Environment = (String) => Int
+    def main(args: Array[String]) =
+      {
+        val env: Environment =
+          {
+            case "x" =>
+              5
+            case "y" =>
+              7
+          }
+        println("Expr --> ")
+        val expr = readLine()
+        val rd = new RecursiveDescent(null: <notype>)
+        <empty>
+      }
+  }
+}
+Mar 29, 2026 4:40:00 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: assertion failed: position error, parent span does not contain child span
+parent      = new RecursiveDescent(null: <notype>) # -1,
+parent span = <8171..8276>,
+child       = null # -1,
+child span  = [8192..8280..8280] (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-29/r_compiler-error_(root)_16-40-00-855.md)
+2026.03.29 16:40:00 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+error while checking new RecursiveDescent(null: <notype>)
+error while checking val rd = new RecursiveDescent(null: <notype>)
+error while checking {
+  val env: Environment =
+    {
+      case "x" =>
+        5
+      case "y" =>
+        7
+    }
+  println("Expr --> ")
+  val expr = readLine()
+  val rd = new RecursiveDescent(null: <notype>)
+  <empty>
+}
+error while checking def main(args: Array[String]) =
+  {
+    val env: Environment =
+      {
+        case "x" =>
+          5
+        case "y" =>
+          7
+      }
+    println("Expr --> ")
+    val expr = readLine()
+    val rd = new RecursiveDescent(null: <notype>)
+    <empty>
+  }
+error while checking  {
+  type Environment = (String) => Int
+  def main(args: Array[String]) =
+    {
+      val env: Environment =
+        {
+          case "x" =>
+            5
+          case "y" =>
+            7
+        }
+      println("Expr --> ")
+      val expr = readLine()
+      val rd = new RecursiveDescent(null: <notype>)
+      <empty>
+    }
+}
+error while checking module object Main {
+  type Environment = (String) => Int
+  def main(args: Array[String]) =
+    {
+      val env: Environment =
+        {
+          case "x" =>
+            5
+          case "y" =>
+            7
+        }
+      println("Expr --> ")
+      val expr = readLine()
+      val rd = new RecursiveDescent(null: <notype>)
+      <empty>
+    }
+}
+error while checking package <empty> {
+  import scala.util.matching.Regex
+  import scala.collection.mutable.ListBuffer
+  import scala.io.StdIn.*
+  abstract class S {
+    def eval(env: Main.Environment): Int
+  }
+  sealed abstract class SetExpr {}
+  case class SetLiterals(val elems: Set[Int]) extends SetExpr {}
+  case class SetRange(val lo: Int, val hi: Int) extends SetExpr {}
+  case class SetComp(val output: E, val clauses: List[Clause]) extends SetExpr {
+    }
+  sealed abstract class Clause {}
+  case class Generator(val identifier: String, val source: SetExpr) extends
+    Clause {}
+  case class Guard(val l: E, val op: CompareOp, val r: E) extends Clause {}
+  class CompareOp {
+    case val Eq, NEq, Lt, Gt
+  }
+  def evalSet(s: SetExpr, env: Main.Environment): Set[Int] =
+    {
+      s match
+        {
+          case SetLiterals(v) =>
+            v
+          case SetRange(lo, hi) =>
+            val set = scala.collection.mutable.Set[Int]()
+            for i <- lo to hi do
+              {
+                set += i
+              }
+            set.toSet
+          case SetComp(output, clauses) =>
+            var envs = ListBuffer(env)
+            for c <- clauses do
+              {
+                c match
+                  {
+                    case Generator(identifier, source) =>
+                      val values = evalSet(source, env)
+                      var newEnvs = ListBuffer[Main.Environment]()
+                      for e <- envs; v <- values do
+                        {
+                          val newEnv: Main.Environment =
+                            (x: String) => if (x == identifier) v else e(x)
+                          newEnvs += newEnv
+                        }
+                      envs = newEnvs
+                    case Guard(l, op, r) =>
+                      envs =
+                        envs.filter(
+                          {
+                            e =>
+                              {
+                                val left = l.eval(e)
+                                val right = r.eval(e)
+                                op match
+                                  {
+                                    case CompareOp.Eq =>
+                                      left == right
+                                    case CompareOp.NEq =>
+                                      left != right
+                                    case CompareOp.Lt =>
+                                      left < right
+                                    case CompareOp.Gt =>
+                                      left > right
+                                  }
+                              }
+                          }
+                        )
+                  }
+              }
+            val result = scala.collection.mutable.Set[Int]()
+            for e <- envs do
+              {
+                val value = output.eval(e)
+                result += value
+              }
+            result.toSet
+        }
+    }
+  abstract class Terminal extends S {}
+  case class E(val l: T, val right: Option[E2]) extends S {
+    def eval(env: Main.Environment): Int =
+      {
+        val a1: Int = l.eval(env)
+        right match
+          {
+            case Some(r) =>
+              val a2 = r.eval(env)
+              if (r.operator == '+')
+                {
+                  a1 + a2
+                }
+               else
+                {
+                  a1 - a2
+                }
+            case None =>
+              a1
+          }
+      }
+  }
+  case class T(val l: S, val right: Option[T2]) extends S {
+    def eval(env: Main.Environment): Int =
+      {
+        val a1: Int = l.eval(env)
+        right match
+          {
+            case Some(r) =>
+              val a2 = r.eval(env)
+              if (r.operator == '*')
+                {
+                  a1 * a2
+                }
+               else
+                {
+                  a1 % a2
+                }
+            case None =>
+              a1
+          }
+      }
+  }
+  case class T2(val operator: Char, val l: T) extends S {
+    def eval(env: Main.Environment): Int = l.eval(env)
+  }
+  case class E2(val operator: Char, val l: E) extends S {
+    def eval(env: Main.Environment): Int = l.eval(env)
+  }
+  case class Var(val n: String) extends Terminal {
+    def eval(env: Main.Environment): Int = env(n)
+  }
+  case class Const(val v: Int) extends Terminal {
+    def eval(env: Main.Environment): Int = v
+  }
+  class RecursiveDescent(private[this] val input: String) {
+    val constregex: Regex = "^[0-9]+".r
+    val varregex: Regex = "^[A-Za-z]+".r
+    var index = 0
+    def parseS(): S = parseE()
+    def parseSet(): SetExpr =
+      {
+        if (index < input.length && input(index) == '{')
+          {
+            index += 1
+            var result = parseSetBody()
+            if (index < input.length && input(index) == '}')
+              {
+                index += 1
+              }
+            return result
+          }
+         else throw new Exception("Not starting with {} ")
+      }
+    def parseSetBody(): SetExpr =
+      {
+        if (index < input.length && input(index) == '}')
+          {
+            return SetLiterals(Set.empty)
+          }
+        val firstExpr = parseE()
+        if (index < input.length && input(index) == '|')
+          {
+            index += 1
+            val clauses = parseClauses()
+            return SetComp(firstExpr, clauses)
+          }
+        val first = parseF()
+        val firstValue =
+          first match
+            {
+              case Const(v) =>
+                v
+              case _ =>
+                throw new Exception("Expected integer in set")
+            }
+        if
+          (
+            index + 4 < input.length &&
+              input.substring(index, index + 5) == ",...,"
+          )
+
+          {
+            index += 5
+            val second = parseF()
+            val secondValue =
+              second match
+                {
+                  case Const(v) =>
+                    v
+                  case _ =>
+                    throw new Exception("Expected integer in range")
+                }
+            return SetRange(firstValue, secondValue)
+          }
+        val set = scala.collection.mutable.Set[Int]()
+        set.add(firstValue)
+        while (index < input.length && input(index) == ',') do
+          {
+            index += 1
+            val next = parseF()
+            val nextValue =
+              next match
+                {
+                  case Const(v) =>
+                    v
+                  case _ =>
+                    throw new Exception("Expected integer in set")
+                }
+            set.add(nextValue)
+          }
+        SetLiterals(set.toSet)
+      }
+    def parseClause(): Clause =
+      {
+        val startIndex = index
+        val remaining = input.substring(index)
+        val varMatch = varregex.findPrefixOf(remaining)
+        var identifier = ""
+        if (varMatch.isDefined)
+          {
+            identifier = varMatch.get
+            index += identifier.length
+          }
+        if (index < input.length && input.substring(index).startsWith("in"))
+          {
+            index += 2
+            return Generator(identifier, parseSet())
+          }
+         else
+          {
+            index = startIndex
+          }
+        val left = parseE()
+        val op =
+          if (input.substring(index).startsWith("!="))
+            {
+              index += 2
+              CompareOp.NEq
+            }
+           else
+            if (index < input.length && input(index) == '=')
+              {
+                index += 1
+                CompareOp.Eq
+              }
+             else
+              if (index < input.length && input(index) == '<')
+                {
+                  index += 1
+                  CompareOp.Lt
+                }
+               else
+                if (index < input.length && input(index) == '>')
+                  {
+                    index += 1
+                    CompareOp.Gt
+                  }
+                 else
+                  {
+                    throw new Exception("Invalid comparison operator")
+                  }
+        val right = parseE()
+        Guard(left, op, right)
+      }
+    def parseClauses(): List[Clause] =
+      {
+        var list = ListBuffer[Clause]()
+        list += parseClause()
+        while (index < input.length && input(index) == ',') do
+          {
+            index += 1
+            list += parseClause()
+          }
+        return list.toList
+      }
+    def parseE(): E = E(parseT(), parseE2())
+    def parseE2(): Option[E2] =
+      {
+        if (index < input.length && input(index) == '+')
+          {
+            index += 1
+            Some(E2('+', parseE()))
+          }
+         else
+          if (index < input.length && input(index) == '-')
+            {
+              index += 1
+              Some(E2('-', parseE()))
+            }
+           else None
+      }
+    def parseF(): S =
+      {
+        if (index < input.length && input(index) == '(')
+          {
+            index += 1
+            val expr = parseE()
+            index += 1
+            expr
+          }
+         else
+          {
+            val remaining = input.substring(index)
+            val numMatch = constregex.findPrefixOf(remaining)
+            if (numMatch.isDefined)
+              {
+                val numStr = numMatch.get
+                index += numStr.length
+                Const(numStr.toInt)
+              }
+             else
+              {
+                val varMatch = varregex.findPrefixOf(remaining).get
+                index += varMatch.length
+                Var(varMatch)
+              }
+          }
+      }
+    def parseT(): T = T(parseF(), parseT2())
+    def parseT2(): Option[T2] =
+      {
+        if (index < input.length && input(index) == '*')
+          {
+            index += 1
+            Some(T2('*', parseT()))
+          }
+         else
+          if (index < input.length && input(index) == '%')
+            {
+              index += 1
+              Some(T2('%', parseT()))
+            }
+           else None
+      }
+    def parseTerminal(): Terminal =
+      {
+        val currStr = input.substring(index)
+        val consts = constregex.findAllIn(currStr)
+        if (consts.hasNext)
+          {
+            val const: String = consts.next()
+            index += const.length()
+            Const(const.toInt)
+          }
+         else
+          {
+            val vars = varregex.findAllIn(currStr)
+            val varname = vars.next()
+            index += varname.length()
+            Var(varname)
+          }
+      }
+  }
+  module object Main {
+    type Environment = (String) => Int
+    def main(args: Array[String]) =
+      {
+        val env: Environment =
+          {
+            case "x" =>
+              5
+            case "y" =>
+              7
+          }
+        println("Expr --> ")
+        val expr = readLine()
+        val rd = new RecursiveDescent(null: <notype>)
+        <empty>
+      }
+  }
+}
+Mar 29, 2026 4:40:01 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: assertion failed: position error, parent span does not contain child span
+parent      = new RecursiveDescent(null: <notype>) # -1,
+parent span = <8171..8275>,
+child       = null # -1,
+child span  = [8192..8279..8279] (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-03-29/r_compiler-error_(root)_16-40-01-155.md)
+2026.03.29 16:40:01 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.03.29 16:40:03 INFO  compiling root (1 scala source)
+2026.03.29 16:40:03 INFO  time: compiled root in 0.25s
+2026.03.29 16:40:52 INFO  compiling root (1 scala source)
+2026.03.29 16:40:52 INFO  time: compiled root in 0.24s
+2026.03.29 16:40:59 INFO  compiling root (1 scala source)
+2026.03.29 16:40:59 INFO  time: compiled root in 0.12s
+2026.03.29 16:41:02 INFO  compiling root (1 scala source)
+2026.03.29 16:41:02 INFO  time: compiled root in 0.12s
+2026.03.29 16:41:03 INFO  compiling root (1 scala source)
+2026.03.29 16:41:03 INFO  time: compiled root in 0.29s
+2026.03.29 16:41:07 INFO  compiling root (1 scala source)
+2026.03.29 16:41:07 INFO  time: compiled root in 0.2s
+2026.03.29 16:41:11 INFO  compiling root (1 scala source)
+2026.03.29 16:41:11 INFO  time: compiled root in 0.4s
+2026.03.29 16:41:26 INFO  compiling root (1 scala source)
+2026.03.29 16:41:26 INFO  time: compiled root in 0.29s
+2026.03.29 16:44:13 INFO  compiling root (1 scala source)
+2026.03.29 16:44:13 INFO  time: compiled root in 0.16s
+2026.03.29 16:44:15 INFO  compiling root (1 scala source)
+2026.03.29 16:44:15 INFO  time: compiled root in 0.26s
+2026.03.29 16:44:24 INFO  compiling root (1 scala source)
+2026.03.29 16:44:24 INFO  time: compiled root in 0.25s
+2026.03.29 16:44:44 INFO  compiling root (1 scala source)
+2026.03.29 16:44:44 INFO  time: compiled root in 0.24s

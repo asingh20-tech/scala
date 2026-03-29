@@ -1,7 +1,7 @@
-package example
 
 import scala.util.matching.Regex
-import scala.collection.mutable.Set
+import scala.collection.mutable.ListBuffer
+import scala.io.StdIn._
 
 // Unambiguous grammar
 // S -> E$
@@ -28,9 +28,60 @@ sealed abstract class Clause
 case class Generator(identifier: String, source: SetExpr) extends Clause
 case class Guard(l: E, op: CompareOp, r: E) extends Clause
 
+
 enum CompareOp:
   case Eq, NEq, Lt, Gt
 
+def evalSet(s: SetExpr, env: Main.Environment): Set[Int] = {
+  s match {
+
+    case SetLiterals(v) => v
+
+    case SetRange(lo, hi) =>
+      val set = scala.collection.mutable.Set[Int]()
+      for (i <- lo to hi) {
+        set += i
+      }
+      set.toSet
+
+    case SetComp(output, clauses) =>
+    var envs = ListBuffer(env)
+    for (c <- clauses) {
+      c match {
+        case Generator(identifier, source) =>
+          val values = evalSet(source, env)
+          var newEnvs = ListBuffer[Main.Environment]()
+          for (e <- envs; v <- values) {
+            val newEnv: Main.Environment = (x: String) =>
+              if (x == identifier) 
+                v 
+                else e(x)
+            newEnvs += newEnv
+          }
+          envs = newEnvs
+        case Guard(l, op, r) =>
+          envs = envs.filter {e =>
+            val left = l.eval(e)
+            val right = r.eval(e)
+
+            op match {
+              case CompareOp.Eq  => left == right
+              case CompareOp.NEq => left != right
+              case CompareOp.Lt  => left < right
+              case CompareOp.Gt  => left > right
+            }
+          } 
+      }
+    }
+    val result = scala.collection.mutable.Set[Int]()
+          for (e <- envs) {
+            val value = output.eval(e)
+            result += value
+          }
+          result.toSet
+    } 
+  
+}
 abstract class Terminal extends S
 case class E(l: T, right: Option[E2]) extends S {
   def eval(env: Main.Environment): Int = {
@@ -90,18 +141,16 @@ class RecursiveDescent(input:String) {
         }  
         return result 
     }
-    else new Exception("Not starting with {} ")
+    else throw new Exception("Not starting with {} ")
     
   }
 
-def parseSetBody(): SetExpr = {
+  def parseSetBody(): SetExpr = {
 
   // Empty set {}
   if (index < input.length && input(index) == '}') {
     return SetLiterals(Set.empty)
   }
-
-  // Parse first expression (IMPORTANT: now use parseE, not parseF)
   val firstExpr = parseE()
 
   // Check for comprehension: '|'
@@ -113,8 +162,9 @@ def parseSetBody(): SetExpr = {
   }
 
   // From here on → literals or range → must be integers
-  val firstValue = firstExpr match {
-    case c: Const => c.v
+  val first = parseF()
+  val firstValue = first match {
+    case Const(v) => v
     case _ => throw new Exception("Expected integer in set")
   }
 
@@ -146,15 +196,55 @@ def parseSetBody(): SetExpr = {
   SetLiterals(set.toSet)
 }
 
-def parseClauses(): Clause = {
-    val first = parseF()
-    val identifier = first match{
-        case Var(identifier) => identifier
-        case _ => throw new Exception("Not a valid Identifier")
+  def parseClause(): Clause = {
+    val startIndex = index
+    val remaining = input.substring(index)
+    val varMatch = varregex.findPrefixOf(remaining)
+    var identifier = ""
+
+    if (varMatch.isDefined) {
+        identifier = varMatch.get
+        index += identifier.length
+    }
+    if (index < input.length && input.substring(index).startsWith("in")){
+        index += 2
+        return Generator(identifier , parseSet())
+    }
+    else {
+        index = startIndex
+    }
+    val left = parseE()
+
+    val op =
+    if (input.substring(index).startsWith("!=")) {
+      index += 2
+      CompareOp.NEq
+    } else if (index < input.length && input(index) == '=') {
+      index += 1 
+      CompareOp.Eq
+    } else if (index < input.length && input(index) == '<') {
+      index += 1 
+      CompareOp.Lt
+    } else if (index < input.length && input(index) == '>') {
+      index += 1 
+      CompareOp.Gt
+    } else {
+      throw new Exception("Invalid comparison operator")
     }
 
-
+    val right = parseE()
+    Guard(left, op, right)
 }
+
+    def parseClauses() : List[Clause] = {
+        var list = ListBuffer[Clause]()
+        list += parseClause()
+        while (index < input.length && input(index) == ',') {
+        index += 1
+        list += parseClause()
+        }
+        return list.toList
+    }
 
   def parseE(): E = E(parseT(), parseE2())
 
@@ -227,15 +317,28 @@ def parseClauses(): Clause = {
   }
 }
 
+
 object Main {
   type Environment = String => Int
 
   def main(args: Array[String]) = {
-    val env: Environment = { case "x" => 5 case "y" => 7 }
+    val env: Environment = {
+      case "x" => 5
+      case "y" => 7
+    }
 
-    val rd = new RecursiveDescent("x+x*7*y")
-    val exp2rd:S = rd.parseE()
-    println(exp2rd)
-    println(exp2rd.eval(env)) 
+    println("Expr --> ")
+    val expr = readLine()
+    val rd = new RecursiveDescent(expr)
+
+    if (expr.trim.startsWith("{")) {
+      val set = rd.parseSet()
+      println(set)
+      println(evalSet(set, env))
+    } else {
+      val exp = rd.parseS()
+      println(exp)
+      println(exp.eval(env))
+    }
   }
 }

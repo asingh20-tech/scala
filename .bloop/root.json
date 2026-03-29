@@ -6,36 +6,44 @@
         "workspaceDir": "/Users/adityarajsingh/scala344",
         "sources": [
             "/Users/adityarajsingh/scala344/src/main/scala",
-            "/Users/adityarajsingh/scala344/src/main/scala-2.13",
-            "/Users/adityarajsingh/scala344/src/main/scala-2",
+            "/Users/adityarajsingh/scala344/src/main/scala-3",
             "/Users/adityarajsingh/scala344/src/main/java",
-            "/Users/adityarajsingh/scala344/target/scala-2.13/src_managed/main"
+            "/Users/adityarajsingh/scala344/target/scala-3.3.1/src_managed/main"
         ],
         "dependencies": [
             
         ],
         "classpath": [
-            "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar"
+            "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1.jar",
+            "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar"
         ],
         "out": "/Users/adityarajsingh/scala344/.bloop/root",
-        "classesDir": "/Users/adityarajsingh/scala344/.bloop/root/scala-2.13/classes",
+        "classesDir": "/Users/adityarajsingh/scala344/.bloop/root/scala-3.3.1/classes",
         "resources": [
             "/Users/adityarajsingh/scala344/src/main/resources",
-            "/Users/adityarajsingh/scala344/target/scala-2.13/resource_managed/main"
+            "/Users/adityarajsingh/scala344/target/scala-3.3.1/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
             "name": "scala-compiler",
-            "version": "2.13.16",
+            "version": "3.3.1",
             "options": [
                 
             ],
             "jars": [
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar",
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.16/scala-compiler-2.13.16.jar",
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.16/scala-reflect-2.13.16.jar",
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.15/java-diff-utils-4.15.jar",
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-jdk8.jar"
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
             ],
             "setup": {
                 "order": "mixed",
@@ -46,7 +54,7 @@
                 "filterLibraryFromClasspath": false
             },
             "bridgeJars": [
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.16/scala2-sbt-bridge-2.13.16.jar"
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.3.1/scala3-sbt-bridge-3.3.1.jar"
             ]
         },
         "java": {
@@ -131,43 +139,44 @@
                 ]
             },
             "classpath": [
-                "/Users/adityarajsingh/scala344/.bloop/root/scala-2.13/classes",
-                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar"
+                "/Users/adityarajsingh/scala344/.bloop/root/scala-3.3.1/classes",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1.jar",
+                "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar"
             ]
         },
         "resolution": {
             "modules": [
                 {
                     "organization": "org.scala-lang",
-                    "name": "scala-library",
-                    "version": "2.13.16",
+                    "name": "scala3-library_3",
+                    "version": "3.3.1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scala-library",
-                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar"
+                            "name": "scala3-library_3",
+                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1.jar"
                         },
                         {
-                            "name": "scala-library",
+                            "name": "scala3-library_3",
                             "classifier": "sources",
-                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar"
+                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
-                    "version": "2.13.16",
-                    "configurations": "optional",
+                    "version": "2.13.10",
+                    "configurations": "default",
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar"
+                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar"
+                            "path": "/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar"
                         }
                     ]
                 }
