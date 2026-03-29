@@ -1,6 +1,7 @@
 package example
 
 import scala.util.matching.Regex
+import scala.collection.mutable.Set
 
 // Unambiguous grammar
 // S -> E$
@@ -18,6 +19,18 @@ import scala.util.matching.Regex
 abstract class S {
   def eval(env: Main.Environment): Int
 }
+sealed abstract class SetExpr
+case class SetLiterals(elems: Set[Int]) extends SetExpr
+case class SetRange(lo: Int, hi: Int) extends SetExpr
+case class SetComp(output: E, clauses: List[Clause]) extends SetExpr
+
+sealed abstract class Clause
+case class Generator(identifier: String, source: SetExpr) extends Clause
+case class Guard(l: E, op: CompareOp, r: E) extends Clause
+
+enum CompareOp:
+  case Eq, NEq, Lt, Gt
+
 abstract class Terminal extends S
 case class E(l: T, right: Option[E2]) extends S {
   def eval(env: Main.Environment): Int = {
@@ -67,6 +80,81 @@ class RecursiveDescent(input:String) {
   var index = 0
 
   def parseS(): S = parseE()
+
+  def parseSet(): SetExpr = {
+    if (index < input.length && input(index) == '{'){
+        index +=1
+        var result = parseSetBody()
+        if (index < input.length && input(index) == '}'){
+            index +=1
+        }  
+        return result 
+    }
+    else new Exception("Not starting with {} ")
+    
+  }
+
+def parseSetBody(): SetExpr = {
+
+  // Empty set {}
+  if (index < input.length && input(index) == '}') {
+    return SetLiterals(Set.empty)
+  }
+
+  // Parse first expression (IMPORTANT: now use parseE, not parseF)
+  val firstExpr = parseE()
+
+  // Check for comprehension: '|'
+  if (index < input.length && input(index) == '|') {
+    index += 1 // skip '|'
+
+    val clauses = parseClauses()
+    return SetComp(firstExpr, clauses)
+  }
+
+  // From here on → literals or range → must be integers
+  val firstValue = firstExpr match {
+    case c: Const => c.v
+    case _ => throw new Exception("Expected integer in set")
+  }
+
+  // Check for range: ",...,"
+  if (index + 4 < input.length && input.substring(index, index + 5) == ",...,") {
+    index += 5
+    val second = parseF()
+    val secondValue = second match {
+      case Const(v) => v
+      case _ => throw new Exception("Expected integer in range")
+    }
+    return SetRange(firstValue, secondValue)
+  }
+
+  // Otherwise → SetLiterals
+  val set = scala.collection.mutable.Set[Int]()
+  set.add(firstValue)
+
+  while (index < input.length && input(index) == ',') {
+    index += 1
+    val next = parseF()
+    val nextValue = next match {
+      case Const(v) => v
+      case _ => throw new Exception("Expected integer in set")
+    }
+    set.add(nextValue)
+  }
+
+  SetLiterals(set.toSet)
+}
+
+def parseClauses(): Clause = {
+    val first = parseF()
+    val identifier = first match{
+        case Var(identifier) => identifier
+        case _ => throw new Exception("Not a valid Identifier")
+    }
+
+
+}
 
   def parseE(): E = E(parseT(), parseE2())
 
