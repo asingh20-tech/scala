@@ -3714,3 +3714,294 @@ child span  = [8192..8279..8279] (full report at: /Users/adityarajsingh/scala344
 2026.03.29 16:44:24 INFO  time: compiled root in 0.25s
 2026.03.29 16:44:44 INFO  compiling root (1 scala source)
 2026.03.29 16:44:44 INFO  time: compiled root in 0.24s
+2026.03.29 16:45:48 INFO  compiling root (1 scala source)
+2026.03.29 16:45:48 INFO  time: compiled root in 0.31s
+2026.03.29 16:45:50 INFO  compiling root (1 scala source)
+2026.03.29 16:45:50 INFO  time: compiled root in 0.26s
+2026.03.29 16:45:56 INFO  compiling root (1 scala source)
+2026.03.29 16:45:56 INFO  time: compiled root in 0.24s
+2026.03.29 16:46:07 INFO  compiling root (1 scala source)
+2026.03.29 16:46:07 INFO  time: compiled root in 0.24s
+2026.03.29 16:46:10 INFO  compiling root (1 scala source)
+2026.03.29 16:46:10 INFO  time: compiled root in 0.24s
+Mar 29, 2026 4:46:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9608
+2026.03.29 16:46:31 INFO  compiling root (1 scala source)
+2026.03.29 16:46:31 INFO  time: compiled root in 0.28s
+Mar 29, 2026 4:46:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9651
+2026.03.29 16:47:03 INFO  compiling root (1 scala source)
+2026.03.29 16:47:03 INFO  time: compiled root in 0.44s
+2026.03.29 16:47:03 INFO  compiling root (1 scala source)
+2026.03.29 16:47:04 INFO  time: compiled root in 0.1s
+2026.03.29 16:47:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.03.29 16:47:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.03.29 16:47:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.03.29 16:47:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.03.29 16:47:09 INFO  compiling root (1 scala source)
+2026.03.29 16:47:09 INFO  time: compiled root in 0.24s
+2026.03.29 16:48:30 INFO  compiling root (1 scala source)
+2026.03.29 16:48:30 INFO  time: compiled root in 0.46s
+2026.03.29 16:48:34 INFO  compiling root (1 scala source)
+2026.03.29 16:48:34 INFO  time: compiled root in 0.12s
+2026.03.29 16:48:35 INFO  compiling root (1 scala source)
+2026.03.29 16:48:35 INFO  time: compiled root in 93ms
+2026.03.29 16:48:38 INFO  compiling root (1 scala source)
+2026.03.29 16:48:38 INFO  time: compiled root in 0.14s
+Mar 29, 2026 4:48:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9895
+2026.03.29 16:48:42 INFO  compiling root (1 scala source)
+2026.03.29 16:48:42 INFO  time: compiled root in 0.23s
+2026.03.29 16:48:45 INFO  compiling root (1 scala source)
+2026.03.29 16:48:45 INFO  time: compiled root in 0.11s
+Mar 29, 2026 4:48:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9973
+2026.03.29 16:48:47 INFO  compiling root (1 scala source)
+2026.03.29 16:48:47 INFO  time: compiled root in 90ms
+2026.03.29 16:48:50 INFO  compiling root (1 scala source)
+2026.03.29 16:48:50 INFO  time: compiled root in 0.24s
+Mar 29, 2026 4:48:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10020
+2026.03.29 16:48:52 INFO  compiling root (1 scala source)
+2026.03.29 16:48:52 INFO  time: compiled root in 0.13s
+2026.03.29 16:48:55 INFO  compiling root (1 scala source)
+2026.03.29 16:48:55 INFO  time: compiled root in 0.31s
+2026.03.29 16:48:57 INFO  compiling root (1 scala source)
+2026.03.29 16:48:57 INFO  time: compiled root in 0.27s
+2026.03.29 16:48:59 INFO  compiling root (1 scala source)
+2026.03.29 16:48:59 INFO  time: compiled root in 0.24s
+Mar 29, 2026 4:49:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10125
+2026.03.29 16:49:07 INFO  compiling root (1 scala source)
+2026.03.29 16:49:07 INFO  time: compiled root in 0.24s
+2026.03.29 16:49:31 INFO  compiling root (1 scala source)
+2026.03.29 16:49:31 INFO  time: compiled root in 0.35s
+2026.03.29 16:49:37 INFO  compiling root (1 scala source)
+2026.03.29 16:49:37 INFO  time: compiled root in 0.42s
+2026.03.29 16:49:42 INFO  compiling root (1 scala source)
+2026.03.29 16:49:42 INFO  time: compiled root in 0.24s
+2026.03.29 16:49:45 INFO  compiling root (1 scala source)
+2026.03.29 16:49:45 INFO  time: compiled root in 0.21s
+2026.03.29 16:50:23 INFO  compiling root (1 scala source)
+2026.03.29 16:50:23 INFO  time: compiled root in 0.2s
+2026.03.29 16:50:27 INFO  compiling root (1 scala source)
+2026.03.29 16:50:27 INFO  time: compiled root in 0.22s
+2026.03.29 16:50:33 INFO  compiling root (1 scala source)
+2026.03.29 16:50:33 INFO  time: compiled root in 0.11s
+2026.03.29 16:50:35 INFO  compiling root (1 scala source)
+2026.03.29 16:50:35 INFO  time: compiled root in 0.19s
+2026.03.29 16:50:39 INFO  compiling root (1 scala source)
+2026.03.29 16:50:39 INFO  time: compiled root in 0.26s
+2026.03.29 16:50:46 INFO  compiling root (1 scala source)
+2026.03.29 16:50:46 INFO  time: compiled root in 0.22s
+2026.03.29 16:55:49 INFO  compiling root (1 scala source)
+2026.03.29 16:55:49 INFO  time: compiled root in 0.25s
+2026.03.29 16:56:15 INFO  compiling root (1 scala source)
+2026.03.29 16:56:15 INFO  time: compiled root in 0.27s
+2026.03.29 16:56:23 INFO  compiling root (1 scala source)
+2026.03.29 16:56:23 INFO  time: compiled root in 0.22s
+Mar 29, 2026 5:01:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10931
+2026.03.29 17:02:11 INFO  compiling root (1 scala source)
+2026.03.29 17:02:11 INFO  time: compiled root in 0.27s
+2026.03.29 17:04:05 INFO  compiling root (1 scala source)
+2026.03.29 17:04:05 INFO  time: compiled root in 0.22s
+2026.03.29 17:04:43 INFO  compiling root (1 scala source)
+2026.03.29 17:04:43 INFO  time: compiled root in 0.3s
+2026.03.29 17:04:48 INFO  compiling root (1 scala source)
+2026.03.29 17:04:48 INFO  time: compiled root in 0.21s
+2026.03.29 17:04:50 INFO  compiling root (1 scala source)
+2026.03.29 17:04:50 INFO  time: compiled root in 0.21s
+2026.03.29 17:06:46 INFO  compiling root (1 scala source)
+2026.03.29 17:06:46 INFO  time: compiled root in 0.25s
+2026.03.29 17:06:49 INFO  compiling root (1 scala source)
+2026.03.29 17:06:49 INFO  time: compiled root in 0.32s
+2026.03.29 17:06:55 INFO  compiling root (1 scala source)
+2026.03.29 17:06:55 INFO  time: compiled root in 0.56s
+2026.03.29 17:06:57 INFO  compiling root (1 scala source)
+2026.03.29 17:06:57 INFO  time: compiled root in 0.32s
+2026.03.29 17:06:59 INFO  compiling root (1 scala source)
+2026.03.29 17:06:59 INFO  time: compiled root in 0.21s
+2026.03.29 17:07:31 INFO  compiling root (1 scala source)
+2026.03.29 17:07:31 INFO  time: compiled root in 0.12s
+2026.03.29 17:07:40 INFO  compiling root (1 scala source)
+2026.03.29 17:07:40 INFO  time: compiled root in 0.2s
+2026.03.29 17:07:51 INFO  compiling root (1 scala source)
+2026.03.29 17:07:51 INFO  time: compiled root in 0.25s
+2026.03.29 17:08:46 INFO  compiling root (1 scala source)
+2026.03.29 17:08:46 INFO  time: compiled root in 0.26s
+2026.03.29 17:08:52 INFO  compiling root (1 scala source)
+2026.03.29 17:08:52 INFO  time: compiled root in 0.23s
+2026.03.29 17:11:49 INFO  compiling root (1 scala source)
+2026.03.29 17:11:49 INFO  time: compiled root in 0.24s
+2026.03.29 17:11:54 INFO  compiling root (1 scala source)
+2026.03.29 17:11:54 INFO  time: compiled root in 0.26s
+2026.03.29 17:11:57 INFO  compiling root (1 scala source)
+2026.03.29 17:11:57 INFO  time: compiled root in 0.19s
+Mar 29, 2026 5:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala?%7B%22path%22%3A%22%2FUsers%2Fadityarajsingh%2Fscala344%2Fsrc%2Fmain%2Fscala%2Fexample%2FMainProject.scala%22%2C%22ref%22%3A%229bfdea5c46dab364c348795addf6aa8c1bbd25f3%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.29 17:16:16 INFO  compiling root (1 scala source)
+2026.03.29 17:16:16 INFO  time: compiled root in 0.29s
+2026.03.29 17:16:19 INFO  compiling root (1 scala source)
+2026.03.29 17:16:19 INFO  time: compiled root in 0.22s
+2026.03.29 17:16:20 INFO  compiling root (1 scala source)
+2026.03.29 17:16:20 INFO  time: compiled root in 0.16s
+2026.03.29 17:22:14 INFO  compiling root (1 scala source)
+2026.03.29 17:22:14 INFO  time: compiled root in 0.26s
+2026.03.29 17:25:38 INFO  compiling root (1 scala source)
+2026.03.29 17:25:38 INFO  time: compiled root in 0.22s
+2026.03.29 17:28:29 INFO  compiling root (1 scala source)
+2026.03.29 17:28:29 INFO  time: compiled root in 0.27s
+2026.03.29 17:29:58 INFO  compiling root (1 scala source)
+2026.03.29 17:29:58 INFO  time: compiled root in 0.34s
+2026.03.29 17:31:34 INFO  compiling root (1 scala source)
+2026.03.29 17:31:34 INFO  time: compiled root in 99ms
+2026.03.29 17:38:47 INFO  compiling root (1 scala source)
+2026.03.29 17:38:47 INFO  time: compiled root in 0.29s
+2026.03.29 17:39:14 INFO  compiling root (1 scala source)
+2026.03.29 17:39:14 INFO  time: compiled root in 0.27s
+2026.03.29 17:39:17 INFO  compiling root (1 scala source)
+2026.03.29 17:39:17 INFO  time: compiled root in 0.3s
+2026.03.29 17:40:44 INFO  compiling root (1 scala source)
+2026.03.29 17:40:44 INFO  time: compiled root in 0.23s
+2026.03.29 17:46:06 INFO  compiling root (1 scala source)
+2026.03.29 17:46:06 INFO  time: compiled root in 0.11s
+2026.03.29 17:46:12 INFO  compiling root (1 scala source)
+2026.03.29 17:46:12 INFO  time: compiled root in 0.22s
+2026.03.29 17:46:14 INFO  compiling root (1 scala source)
+2026.03.29 17:46:14 INFO  time: compiled root in 0.2s
+2026.03.29 17:46:16 INFO  compiling root (1 scala source)
+2026.03.29 17:46:16 INFO  time: compiled root in 0.21s
+2026.03.29 17:46:20 INFO  compiling root (1 scala source)
+2026.03.29 17:46:20 INFO  time: compiled root in 0.21s
+2026.03.29 17:46:32 INFO  compiling root (1 scala source)
+2026.03.29 17:46:32 INFO  time: compiled root in 0.21s
+Exception in thread "pool-9-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2026.03.29 17:46:34 INFO  compiling root (1 scala source)
+2026.03.29 17:46:34 INFO  time: compiled root in 0.21s
+2026.03.29 17:47:46 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.29 17:48:08 INFO  compiling root (1 scala source)
+2026.03.29 17:48:08 INFO  time: compiled root in 0.26s
+2026.03.29 17:51:52 INFO  compiling root (1 scala source)
+2026.03.29 17:51:52 INFO  time: compiled root in 0.26s
+2026.03.29 17:51:59 INFO  compiling root (1 scala source)
+2026.03.29 17:51:59 INFO  time: compiled root in 0.25s
+2026.03.29 17:53:36 INFO  compiling root (1 scala source)
+2026.03.29 17:53:36 INFO  time: compiled root in 0.3s
+2026.03.29 17:54:11 INFO  compiling root (1 scala source)
+2026.03.29 17:54:11 INFO  time: compiled root in 0.3s
+2026.03.29 17:54:25 INFO  compiling root (1 scala source)
+2026.03.29 17:54:25 INFO  time: compiled root in 0.26s
+Mar 29, 2026 5:54:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12993
+2026.03.29 17:54:29 INFO  compiling root (1 scala source)
+2026.03.29 17:54:29 INFO  time: compiled root in 0.3s
+2026.03.29 19:47:11 INFO  compiling root (1 scala source)
+2026.03.29 19:47:11 INFO  time: compiled root in 0.42s
+2026.03.29 19:47:14 INFO  compiling root (1 scala source)
+2026.03.29 19:47:14 INFO  time: compiled root in 0.21s
+2026.03.29 19:47:18 INFO  compiling root (1 scala source)
+2026.03.29 19:47:18 INFO  time: compiled root in 0.26s
+2026.03.29 19:47:21 INFO  compiling root (1 scala source)
+2026.03.29 19:47:21 INFO  time: compiled root in 0.2s
+2026.03.29 19:53:15 INFO  compiling root (1 scala source)
+2026.03.29 19:53:15 INFO  time: compiled root in 0.28s
+2026.03.29 19:53:16 INFO  compiling root (1 scala source)
+2026.03.29 19:53:16 INFO  time: compiled root in 0.21s
+Mar 29, 2026 7:55:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 29, 2026 7:55:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala?%7B%22path%22%3A%22%2FUsers%2Fadityarajsingh%2Fscala344%2Fsrc%2Fmain%2Fscala%2Fexample%2FMainProject.scala%22%2C%22ref%22%3A%2282fe0ca8c08aa55f18e32489dd60bfcea1a8d92b%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.29 20:28:08 INFO  Shutting down server
+2026.03.29 20:28:08 INFO  Memory monitor stopped
+2026.03.29 20:28:08 INFO  shutting down Metals
+2026.03.29 20:28:08 INFO  Shut down connection with build server.
+2026.03.29 20:28:08 INFO  Shut down connection with build server.
+2026.03.29 20:28:08 INFO  Exiting server
+2026.03.29 20:28:52 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.29 20:28:52 INFO  Memory monitor started
+2026.03.29 20:28:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.29 20:28:52 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 20:28:53 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.29 20:28:53 INFO  Attempting to connect to the build server...
+2026.03.29 20:28:53 INFO  Found a Bloop server running
+2026.03.29 20:28:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 20:28:54 INFO  Attempting to connect to the build server...
+2026.03.29 20:28:54 INFO  Found a Bloop server running
+2026.03.29 20:28:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.29 20:28:54 INFO  time: Connected to build server in 0.34s
+2026.03.29 20:28:54 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.29 20:28:54 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2026.03.29 20:28:54 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+- src/test/scala
+2026.03.29 20:28:57 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.29 20:28:57 INFO  time: indexed workspace in 3.39s
+2026.03.29 20:28:57 INFO  compiling root-test (1 scala source)
+2026.03.29 20:28:57 INFO  time: compiled root-test in 0.18s

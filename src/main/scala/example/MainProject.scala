@@ -1,7 +1,8 @@
-
 import scala.util.matching.Regex
 import scala.collection.mutable.ListBuffer
 import scala.io.StdIn._
+import scala.collection.mutable
+import scala.util.control.Breaks._
 
 // Unambiguous grammar
 // S -> E$
@@ -49,13 +50,10 @@ def evalSet(s: SetExpr, env: Main.Environment): Set[Int] = {
     for (c <- clauses) {
       c match {
         case Generator(identifier, source) =>
-          val values = evalSet(source, env)
           var newEnvs = ListBuffer[Main.Environment]()
-          for (e <- envs; v <- values) {
+          for (e <- envs; v <- evalSet(source, e)) {
             val newEnv: Main.Environment = (x: String) =>
-              if (x == identifier) 
-                v 
-                else e(x)
+              if (x == identifier) v else e(x)
             newEnvs += newEnv
           }
           envs = newEnvs
@@ -130,12 +128,18 @@ class RecursiveDescent(input:String) {
 
   var index = 0
 
+  def skipWhitespace(): Unit = {
+    while (index < input.length && input(index).isWhitespace) index += 1
+  }
+
   def parseS(): S = parseE()
 
   def parseSet(): SetExpr = {
+    skipWhitespace()
     if (index < input.length && input(index) == '{'){
         index +=1
         var result = parseSetBody()
+        skipWhitespace()
         if (index < input.length && input(index) == '}'){
             index +=1
         }  
@@ -146,57 +150,64 @@ class RecursiveDescent(input:String) {
   }
 
   def parseSetBody(): SetExpr = {
-
-  // Empty set {}
-  if (index < input.length && input(index) == '}') {
-    return SetLiterals(Set.empty)
-  }
-  val firstExpr = parseE()
-
-  // Check for comprehension: '|'
-  if (index < input.length && input(index) == '|') {
-    index += 1 // skip '|'
-
-    val clauses = parseClauses()
-    return SetComp(firstExpr, clauses)
-  }
-
-  // From here on → literals or range → must be integers
-  val first = parseF()
-  val firstValue = first match {
-    case Const(v) => v
-    case _ => throw new Exception("Expected integer in set")
-  }
-
-  // Check for range: ",...,"
-  if (index + 4 < input.length && input.substring(index, index + 5) == ",...,") {
-    index += 5
-    val second = parseF()
-    val secondValue = second match {
-      case Const(v) => v
-      case _ => throw new Exception("Expected integer in range")
+    skipWhitespace()
+    if (index < input.length && input(index) == '}') {
+      return SetLiterals(Set.empty)
     }
-    return SetRange(firstValue, secondValue)
-  }
 
-  // Otherwise → SetLiterals
-  val set = scala.collection.mutable.Set[Int]()
-  set.add(firstValue)
+    val startIndex = index
+    val expr = parseE()
+    skipWhitespace() 
 
-  while (index < input.length && input(index) == ',') {
-    index += 1
-    val next = parseF()
-    val nextValue = next match {
+    if (index < input.length && input(index) == '|') {
+      index += 1
+      skipWhitespace()
+      val clauses = parseClauses()
+      return SetComp(expr, clauses)
+    }
+
+    
+    index = startIndex
+
+    
+    val first = parseF()
+    val firstValue = first match {
       case Const(v) => v
       case _ => throw new Exception("Expected integer in set")
     }
-    set.add(nextValue)
+
+    skipWhitespace()
+    if (index + 4 < input.length && input.substring(index, index + 5) == ",...,") {
+      index += 5
+      val second = parseF()
+      val secondValue = second match {
+        case Const(v) => v
+        case _ => throw new Exception("Expected integer in range")
+      }
+      return SetRange(firstValue, secondValue)
+    }
+
+    val set = scala.collection.mutable.Set[Int]()
+    set.add(firstValue)
+
+    skipWhitespace()
+    while (index < input.length && input(index) == ',') {
+      index += 1
+      skipWhitespace()
+      val next = parseF()
+      val nextValue = next match {
+        case Const(v) => v
+        case _ => throw new Exception("Expected integer in set")
+      }
+      set.add(nextValue)
+      skipWhitespace()
+    }
+
+    SetLiterals(set.toSet)
   }
 
-  SetLiterals(set.toSet)
-}
-
   def parseClause(): Clause = {
+    skipWhitespace()
     val startIndex = index
     val remaining = input.substring(index)
     val varMatch = varregex.findPrefixOf(remaining)
@@ -206,14 +217,17 @@ class RecursiveDescent(input:String) {
         identifier = varMatch.get
         index += identifier.length
     }
+    skipWhitespace()
     if (index < input.length && input.substring(index).startsWith("in")){
         index += 2
+        skipWhitespace()
         return Generator(identifier , parseSet())
     }
     else {
         index = startIndex
     }
     val left = parseE()
+    skipWhitespace()
 
     val op =
     if (input.substring(index).startsWith("!=")) {
@@ -232,6 +246,7 @@ class RecursiveDescent(input:String) {
       throw new Exception("Invalid comparison operator")
     }
 
+    skipWhitespace()
     val right = parseE()
     Guard(left, op, right)
 }
@@ -239,66 +254,84 @@ class RecursiveDescent(input:String) {
     def parseClauses() : List[Clause] = {
         var list = ListBuffer[Clause]()
         list += parseClause()
+        skipWhitespace()
         while (index < input.length && input(index) == ',') {
-        index += 1
-        list += parseClause()
+          index += 1
+          skipWhitespace()
+          list += parseClause()
+          skipWhitespace()
         }
         return list.toList
     }
 
-  def parseE(): E = E(parseT(), parseE2())
+  def parseE(): E = {
+    skipWhitespace()
+    E(parseT(), parseE2())
+  }
 
   def parseE2(): Option[E2] = {
+    skipWhitespace()
     if (index < input.length && input(index) == '+'){
-      index+=1; // Advance past +
+      index+=1; 
       Some(E2('+',parseE()))
     }
     else if (index < input.length && input(index) == '-'){
-      index+=1; // Advance past -
+      index+=1; 
       Some(E2('-',parseE()))
     }
     else None
   }
+
   def parseF(): S = {
-  if (index < input.length && input(index) == '(') {
-    index += 1 
-    val expr = parseE()
-    index += 1 
-    expr
-  } 
-  else {
-    val remaining = input.substring(index)
-    val numMatch = constregex.findPrefixOf(remaining)
-    if (numMatch.isDefined) {
-      val numStr = numMatch.get
-      index += numStr.length
-      Const(numStr.toInt)
+    skipWhitespace()
+    if (index < input.length && input(index) == '(') {
+      index += 1
+      val expr = parseE()
+      skipWhitespace()
+      index += 1
+      expr
     } 
     else {
-      val varMatch = varregex.findPrefixOf(remaining).get
-      index += varMatch.length
-      Var(varMatch)
+      val remaining = input.substring(index)
+
+      val numMatch = constregex.findPrefixOf(remaining)
+      if (numMatch.isDefined) {
+        val numStr = numMatch.get
+        index += numStr.length
+        return Const(numStr.toInt)
+      } 
+      else {
+        val varMatch = varregex.findPrefixOf(remaining)
+        if (varMatch.isDefined) {
+          val v = varMatch.get
+          index += v.length
+          return Var(v)
+        } else {
+          throw new Exception("Expected variable or number")
+        }
+      }
     }
   }
-}
 
-  
-  def parseT(): T = T(parseF(),parseT2())
+  def parseT(): T = {
+    skipWhitespace()
+    T(parseF(),parseT2())
+  }
 
   def parseT2() : Option[T2]= {
+    skipWhitespace()
     if (index < input.length && input(index) == '*'){
-      index+=1; // Advance past *
+      index+=1;
       Some(T2('*',parseT()))
     }
     else if (index < input.length && input(index) == '%'){
-      index+=1; // Advance past %
+      index+=1; 
       Some(T2('%',parseT()))
     }
     else None
   }
 
   def parseTerminal(): Terminal = {
-    // Get the unparsed part of the string.
     val currStr = input.substring(index)
 
     // Get either the const or var which is there.
@@ -326,19 +359,26 @@ object Main {
       case "x" => 5
       case "y" => 7
     }
-
-    println("Expr --> ")
-    val expr = readLine()
-    val rd = new RecursiveDescent(expr)
-
-    if (expr.trim.startsWith("{")) {
-      val set = rd.parseSet()
-      println(set)
-      println(evalSet(set, env))
-    } else {
-      val exp = rd.parseS()
-      println(exp)
-      println(exp.eval(env))
+    var running = true
+    while (running) {
+      println("==========================")
+      print("Expr --> ")
+      val expr = readLine()
+      if (expr.trim.startsWith("{")) {
+        val rd = new RecursiveDescent(expr)
+        val set = rd.parseSet()
+        println(set)
+        println(evalSet(set, env).toList.sorted)
+      } else if (expr == "exit"){
+        println("Bye")
+        running = false
+      }
+      else {
+        val rd = new RecursiveDescent(expr)
+        val exp = rd.parseS()
+        println(exp)
+        println(exp.eval(env))
+      }
     }
   }
 }
