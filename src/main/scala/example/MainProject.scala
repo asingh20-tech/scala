@@ -3,6 +3,7 @@ import scala.collection.mutable.ListBuffer
 import scala.io.StdIn._
 import scala.collection.mutable
 import scala.util.control.Breaks._
+import Console._
 
 // Unambiguous grammar
 // S -> E$
@@ -99,12 +100,16 @@ case class T(l: S, right: Option[T2]) extends S {
   def eval(env: Main.Environment): Int = {
     val a1: Int = l.eval(env)
     right match {
-      case Some(r) => val a2 = r.eval(env)
-        if (r.operator == '*') {
-          a1 * a2
-        } else {
-          a1 % a2
+      case Some(r) => 
+        val a2 = r.eval(env)
+        r.operator match {
+          case '*' => a1 * a2
+          case '%' => if (a2 == 0) 
+            0 
+            else a1 % a2 
+          case _   => a1
         }
+
       case None => a1
     }
   }
@@ -129,7 +134,8 @@ class RecursiveDescent(input:String) {
   var index = 0
 
   def skipWhitespace(): Unit = {
-    while (index < input.length && input(index).isWhitespace) index += 1
+    while (index < input.length && input(index).isWhitespace) 
+    index += 1
   }
 
   def parseS(): S = parseE()
@@ -165,11 +171,8 @@ class RecursiveDescent(input:String) {
       val clauses = parseClauses()
       return SetComp(expr, clauses)
     }
-
-    
     index = startIndex
 
-    
     val first = parseF()
     val firstValue = first match {
       case Const(v) => v
@@ -348,11 +351,31 @@ class RecursiveDescent(input:String) {
       Var(varname)
     }
   }
-}
+    
+  }
+  
+
 
 
 object Main {
   type Environment = String => Int
+  def prettyPrint(s : String , e : Main.Environment): Unit = {
+      if (s.trim.startsWith("{")) {
+          val rd = new RecursiveDescent(s)
+          val set = rd.parseSet()
+          print("SET --->")
+          println(set)
+          print("Evaluated Set --->")
+          println(evalSet(set, e).toList.sorted)
+        } else {
+          val rd = new RecursiveDescent(s)
+          val exp = rd.parseS()
+          print("Arithmetic --> ")
+          println(exp)
+          print("Simplified --> ")
+          println(exp.eval(e))
+        }
+        }
 
   def main(args: Array[String]) = {
     val env: Environment = {
@@ -361,24 +384,18 @@ object Main {
     }
     var running = true
     while (running) {
-      println("==========================")
-      print("Expr --> ")
+      println()
+      println(s"${BOLD}${GREEN}==========================${RESET}")
+      println()
+      print(s"${BOLD}Expr --> ${RESET}")
       val expr = readLine()
-      if (expr.trim.startsWith("{")) {
-        val rd = new RecursiveDescent(expr)
-        val set = rd.parseSet()
-        println(set)
-        println(evalSet(set, env).toList.sorted)
-      } else if (expr == "exit"){
-        println("Bye")
+      if (expr == "exit"){
+        println(s"${BOLD}${BLUE}Bye !${RESET}")
         running = false
       }
       else {
-        val rd = new RecursiveDescent(expr)
-        val exp = rd.parseS()
-        println(exp)
-        println(exp.eval(env))
-      }
+          prettyPrint(expr, env)
+        }
     }
   }
 }
