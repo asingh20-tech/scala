@@ -4,6 +4,7 @@ import scala.io.StdIn._
 import scala.collection.mutable
 import scala.util.control.Breaks._
 import Console._
+import javax.crypto.KeyGenerator
 
 // Unambiguous grammar
 // S -> E$
@@ -53,8 +54,11 @@ def evalSet(s: SetExpr, env: Main.Environment): Set[Int] = {
         case Generator(identifier, source) =>
           var newEnvs = ListBuffer[Main.Environment]()
           for (e <- envs; v <- evalSet(source, e)) {
-            val newEnv: Main.Environment = (x: String) =>
-              if (x == identifier) v else e(x)
+            val newEnv: Main.Environment = 
+              (x: String) =>
+                  if (x == identifier) 
+                  v 
+                  else e(x)
             newEnvs += newEnv
           }
           envs = newEnvs
@@ -81,6 +85,28 @@ def evalSet(s: SetExpr, env: Main.Environment): Set[Int] = {
     } 
   
 }
+def symanticAnalyser (s : SetComp) : String = {
+  val definedVars = scala.collection.mutable.Set[String]()
+  for ( c <- s.clauses){
+    c match {
+      case Generator(identifier, source) => 
+        if (identifier != null){
+          definedVars += identifier
+        }
+        else 
+          throw new Exception ("No Identifier Being defined")
+          
+
+      case Guard(l, op, r) => 
+        case l(t,e)
+
+    }
+  }
+}
+def check (s : E , t : scala.collection.mutable.Set[String]) : 
+
+
+
 abstract class Terminal extends S
 case class E(l: T, right: Option[E2]) extends S {
   def eval(env: Main.Environment): Int = {
@@ -353,10 +379,6 @@ class RecursiveDescent(input:String) {
   }
     
   }
-  
-
-
-
 object Main {
   type Environment = String => Int
   def prettyPrint(s : String , e : Main.Environment): Unit = {

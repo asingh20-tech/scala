@@ -4690,3 +4690,962 @@ WARNING: Unmatched cancel notification for request id 5645
 2026.03.31 10:57:16 INFO  compiling root-test (1 scala source)
 2026.03.31 10:57:16 INFO  time: compiled root in 0.17s
 2026.03.31 10:57:16 INFO  time: compiled root-test in 40ms
+Mar 31, 2026 11:51:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6267
+2026.03.31 11:55:25 INFO  compiling root (1 scala source)
+2026.03.31 11:55:25 INFO  compiling root-test (1 scala source)
+2026.03.31 11:55:25 INFO  time: compiled root in 0.27s
+2026.03.31 11:55:25 INFO  time: compiled root-test in 46ms
+2026.03.31 11:55:26 INFO  compiling root (1 scala source)
+2026.03.31 11:55:26 INFO  compiling root-test (1 scala source)
+2026.03.31 11:55:26 INFO  time: compiled root in 0.18s
+2026.03.31 11:55:26 INFO  time: compiled root-test in 40ms
+2026.03.31 11:55:28 INFO  compiling root (1 scala source)
+2026.03.31 11:55:28 INFO  compiling root-test (1 scala source)
+2026.03.31 11:55:28 INFO  time: compiled root in 0.2s
+2026.03.31 11:55:28 INFO  time: compiled root-test in 43ms
+2026.03.31 11:57:19 INFO  compiling root (1 scala source)
+2026.03.31 11:57:19 INFO  compiling root-test (1 scala source)
+2026.03.31 11:57:19 INFO  time: compiled root in 0.42s
+2026.03.31 11:57:19 INFO  time: compiled root-test in 48ms
+2026.03.31 11:57:25 INFO  compiling root (1 scala source)
+2026.03.31 11:57:25 INFO  compiling root-test (1 scala source)
+2026.03.31 11:57:25 INFO  time: compiled root in 0.29s
+2026.03.31 11:57:25 INFO  time: compiled root-test in 48ms
+Mar 31, 2026 1:05:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6730
+2026.03.31 14:20:47 INFO  Shutting down server
+2026.03.31 14:20:47 INFO  Memory monitor stopped
+2026.03.31 14:20:47 INFO  shutting down Metals
+2026.03.31 14:20:47 INFO  Shut down connection with build server.
+2026.03.31 14:20:47 INFO  Shut down connection with build server.
+2026.03.31 14:20:47 INFO  Exiting server
+2026.03.31 14:50:22 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.03.31 14:50:22 INFO  Memory monitor started
+2026.03.31 14:50:22 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 14:50:22 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 14:50:24 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 14:50:24 INFO  Attempting to connect to the build server...
+2026.03.31 14:50:24 INFO  Found a Bloop server running
+2026.03.31 14:50:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.31 14:50:24 INFO  Attempting to connect to the build server...
+2026.03.31 14:50:24 INFO  Found a Bloop server running
+2026.03.31 14:50:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.03.31 14:50:24 INFO  time: Connected to build server in 0.52s
+2026.03.31 14:50:24 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.31 14:50:24 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2026.03.31 14:50:25 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+- src/test/scala
+2026.03.31 14:50:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 14:50:27 INFO  time: indexed workspace in 3.28s
+2026.03.31 14:50:28 INFO  compiling root-test (1 scala source)
+2026.03.31 14:50:28 INFO  time: compiled root-test in 0.47s
+2026.03.31 14:51:07 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+2026.03.31 14:51:08 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/Hello.scala
+Mar 31, 2026 7:53:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 264
+2026.04.01 10:12:57 INFO  compiling root (1 scala source)
+2026.04.01 10:12:57 INFO  time: compiled root in 0.52s
+2026.04.01 10:12:59 INFO  compiling root (1 scala source)
+2026.04.01 10:12:59 INFO  time: compiled root in 0.53s
+2026.04.01 10:13:07 INFO  compiling root-test (1 scala source)
+2026.04.01 10:13:07 INFO  time: compiled root-test in 88ms
+2026.04.01 10:56:01 INFO  compiling root (1 scala source)
+2026.04.01 10:56:01 INFO  time: compiled root in 0.26s
+2026.04.01 10:56:03 INFO  compiling root-test (1 scala source)
+2026.04.01 10:56:03 INFO  time: compiled root-test in 0.16s
+2026.04.01 11:06:39 INFO  compiling root (1 scala source)
+2026.04.01 11:06:39 INFO  compiling root-test (1 scala source)
+2026.04.01 11:06:39 INFO  time: compiled root in 0.87s
+2026.04.01 11:06:39 INFO  time: compiled root-test in 61ms
+2026.04.01 16:22:25 INFO  Shutting down server
+2026.04.01 16:22:25 INFO  Memory monitor stopped
+2026.04.01 16:22:25 INFO  shutting down Metals
+2026.04.01 16:22:25 INFO  Shut down connection with build server.
+2026.04.01 16:22:25 INFO  Shut down connection with build server.
+2026.04.01 16:22:25 INFO  Exiting server
+2026.04.01 20:07:05 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.04.01 20:07:05 INFO  Memory monitor started
+2026.04.01 20:07:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:07:05 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:06 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:06 INFO  Attempting to connect to the build server...
+2026.04.01 20:07:06 INFO  Found a Bloop server running
+2026.04.01 20:07:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.01 20:07:06 INFO  Attempting to connect to the build server...
+2026.04.01 20:07:06 INFO  Found a Bloop server running
+2026.04.01 20:07:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.01 20:07:06 INFO  time: Connected to build server in 0.32s
+2026.04.01 20:07:06 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.01 20:07:07 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2026.04.01 20:07:06 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+- src/test/scala
+2026.04.01 20:07:09 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:07:09 INFO  time: indexed workspace in 2.97s
+2026.04.01 20:07:10 INFO  compiling root-test (1 scala source)
+2026.04.01 20:07:10 INFO  time: compiled root-test in 0.4s
+2026.04.01 20:07:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:07:45 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:45 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:45 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+Apr 01, 2026 8:07:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.04.01 20:07:45 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:45 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:45 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:45 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:07:45 INFO  Running List(/Users/adityarajsingh/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/bin/java, -cp, /Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.12.3/cli_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0/case-app_3-2.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.25-M23/coursier-launcher_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.25-M23/coursier-proxy-setup-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_3/0.4.4/publish_3-0.4.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.1/jimfs-1.3.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.38.8/jsoniter-scala-core_3-2.38.8.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_3/0.18.2/metaconfig-typesafe-config_3-0.18.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.5/python-native-libs_3-0.2.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_3/0.2.1/scala-packager_3-0.2.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.13/cli_3-0.2.13.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_3/3.11.0/core_3-3.11.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scalafix-interfaces/0.14.5/scalafix-interfaces-0.14.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.9.1/scala3-graal_3-1.9.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal-processor_3/1.9.1/scala3-graal-processor_3-1.9.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.7/scala3-library_3-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.12.3/build-module_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.12.3/config_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.12.3/specification-level_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.3-M5/sourcecode_3-0.4.3-M5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0/case-app-annotations_3-2.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0/case-app-util_3-2.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.18/scala-library-2.13.18.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.25-M23/coursier-cache_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.25-M23/coursier-core_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-core_3/0.18.2/metaconfig-core_3-0.18.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.14.0/scala-collection-compat_3-2.14.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.27.3/jib-core-0.27.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.11.8/os-lib_3-0.11.8.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.83/bcpg-jdk18on-1.83.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcutil-jdk18on/1.83/bcutil-jdk18on-1.83.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.13/shared_3-0.2.13.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_3/1.7.11/core_3-1.7.11.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_3/1.3.22/core_3-1.3.22.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_3/1.3.22/ws_3-1.3.22.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.28/interface-1.0.28.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.9/java-class-name_3-0.1.9.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13/4.15.2/semanticdb-shared_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.10/test-runner_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.5/pprint_3-0.9.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_3/1.5.0/scalajs-env-nodejs_3-1.5.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.20.2/scalajs-sbt-test-adapter_2.13-1.20.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.3/zip-input-stream-0.1.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.12.3/options_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.12.3/directives_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.12.3/scala-cli-bsp-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.12.3/test-runner_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.12.3/tasty-lib_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.6/windows-ansi-0.0.6.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/cache-util/2.1.25-M23/cache-util-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-paths/2.1.25-M23/coursier-paths-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.25-M23/coursier-util_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/versions_2.13/0.5.1/versions_2.13-0.5.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.4.0/scala-xml_2.13-2.4.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-pprint_3/0.18.2/metaconfig-pprint_3-0.18.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.4/paiges-core_3-0.4.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.18/scala-reflect-2.13.18.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.42.2/google-http-client-1.42.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.42.2/google-http-client-apache-v2-1.42.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.10.0/google-auth-library-oauth2-http-1.10.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.15.2/jackson-datatype-jsr310-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.1/geny_3-1.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-zip/0.11.8/os-zip-0.11.8.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.83/bcprov-jdk18on-1.83.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.25.0/jline-terminal-jni-3.25.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.25.0/jline-native-3.25.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.7/scala3-compiler_3-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.15.2/scalameta_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.15/scalap-2.13.15.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.10/tools_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.1/fansi_3-0.5.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_3/1.5.0/scalajs-js-envs_3-1.5.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.3.3/bloop-config_2.13-2.3.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.12.3/core_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.4/using_directives-1.1.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.12.3/build-macros_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/is-terminal/0.1.2/is-terminal-0.1.2.jar:/Users/adityarajsingh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/adityarajsingh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.9/auto-value-annotations-1.9.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/1.10.0/google-auth-library-credentials-1.10.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-gson/1.42.2/google-http-client-gson-1.42.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.20.0/commons-codec-1.20.0.jar:/Users/adityarajsingh/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.7/scala3-interfaces-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.7/tasty-core_3-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.8.0-scala-1/scala-asm-9.8.0-scala-1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.7/compiler-interface-1.10.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.15.2/parsers_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.15/scala-compiler-2.13.15.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.10/nir_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.10/util_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_3/1.2.0/scalajs-logging_3-1.2.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-rifle_2.13/2.0.19/bloop-rifle_2.13-2.0.19.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.25-M23/coursier-jvm_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.3.2/dependency_3-0.3.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/7.5.0.202512021534-r/org.eclipse.jgit-7.5.0.202512021534-r.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.1/scalajs-env-jsdom-nodejs_2.13-1.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/adityarajsingh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.27.2/grpc-context-1.27.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.10.7/util-interface-1.10.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.15.2/trees_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.13/0.0.12/libdaemon_2.13-0.0.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.25-M23/coursier_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-archive-cache_2.13/2.1.25-M23/coursier-archive-cache_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.25-M23/coursier-env_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-exec/2.1.25-M23/coursier-exec-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.15.2/common_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/io_2.13/4.15.2/io_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.10.1/plexus-archiver-4.10.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/tika/tika-core/3.2.3/tika-core-3.2.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.7-4/zstd-jni-1.5.7-4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.2/plexus-utils-4.0.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.5.1/plexus-io-3.5.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/airlift/aircompressor/0.27/aircompressor-0.27.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.10/xz-1.10.jar:/Users/adityarajsingh/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar, scala.cli.ScalaCli, bsp, --workspace, /var/folders/6n/g8_y8hq52fj2_wdy5cf669z00000gn/T/metals-scala-cli14971990039172793088, --semantic-db-source-root, /Users/adityarajsingh/Downloads, /Users/adityarajsingh/Downloads/set_evaluator.scala)
+2026.04.01 20:07:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/Downloads/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.01 20:07:48 INFO  time: code lens generation in 1.96s
+2026.04.01 20:07:49 INFO  Connected to Scala CLI server v1.12.3
+2026.04.01 20:07:50 INFO  compiling metals-scala-cli14971990039172793088_e9ebed4fe9-ce2a0a3daf (1 scala source)
+2026.04.01 20:07:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:07:52 INFO  time: compiled metals-scala-cli14971990039172793088_e9ebed4fe9-ce2a0a3daf in 2.3s
+2026.04.01 20:07:52 INFO  compiling metals-scala-cli14971990039172793088_e9ebed4fe9-ce2a0a3daf (1 scala source)
+2026.04.01 20:07:52 INFO  time: indexed workspace in 2.84s
+2026.04.01 20:07:53 INFO  time: compiled metals-scala-cli14971990039172793088_e9ebed4fe9-ce2a0a3daf in 1.09s
+2026.04.01 20:07:53 INFO  compiling metals-scala-cli14971990039172793088_e9ebed4fe9-ce2a0a3daf (1 scala source)
+2026.04.01 20:07:54 INFO  time: compiled metals-scala-cli14971990039172793088_e9ebed4fe9-ce2a0a3daf in 0.86s
+2026.04.01 20:07:54 INFO  Scala CLI started for /Users/adityarajsingh/Downloads/set_evaluator.scala
+2026.04.01 20:08:32 INFO  Shutting down server
+2026.04.01 20:08:32 INFO  Memory monitor stopped
+2026.04.01 20:08:32 INFO  shutting down Metals
+2026.04.01 20:08:32 INFO  Shut down connection with build server.
+2026.04.01 20:08:32 INFO  Shut down connection with build server.
+2026.04.01 20:08:32 INFO  Exiting server
+2026.04.01 20:09:00 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.112.0.
+2026.04.01 20:09:00 INFO  Memory monitor started
+2026.04.01 20:09:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:09:00 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+2026.04.01 20:09:00 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:09:00 INFO  no build target found for /Users/adityarajsingh/Downloads/set_evaluator.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.01 20:09:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:09:01 INFO  Attempting to connect to the build server...
+2026.04.01 20:09:01 INFO  Found a Bloop server running
+2026.04.01 20:09:01 INFO  Running List(/Users/adityarajsingh/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/bin/java, -cp, /Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.12.3/cli_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0/case-app_3-2.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.25-M23/coursier-launcher_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.25-M23/coursier-proxy-setup-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_3/0.4.4/publish_3-0.4.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.1/jimfs-1.3.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.38.8/jsoniter-scala-core_3-2.38.8.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_3/0.18.2/metaconfig-typesafe-config_3-0.18.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.5/python-native-libs_3-0.2.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_3/0.2.1/scala-packager_3-0.2.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.13/cli_3-0.2.13.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_3/3.11.0/core_3-3.11.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scalafix-interfaces/0.14.5/scalafix-interfaces-0.14.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.9.1/scala3-graal_3-1.9.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal-processor_3/1.9.1/scala3-graal-processor_3-1.9.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.7/scala3-library_3-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.12.3/build-module_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.12.3/config_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.12.3/specification-level_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.3-M5/sourcecode_3-0.4.3-M5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0/case-app-annotations_3-2.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0/case-app-util_3-2.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.18/scala-library-2.13.18.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.25-M23/coursier-cache_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.25-M23/coursier-core_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-core_3/0.18.2/metaconfig-core_3-0.18.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.14.0/scala-collection-compat_3-2.14.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.27.3/jib-core-0.27.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.11.8/os-lib_3-0.11.8.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.83/bcpg-jdk18on-1.83.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcutil-jdk18on/1.83/bcutil-jdk18on-1.83.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.13/shared_3-0.2.13.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_3/1.7.11/core_3-1.7.11.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_3/1.3.22/core_3-1.3.22.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_3/1.3.22/ws_3-1.3.22.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.28/interface-1.0.28.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.9/java-class-name_3-0.1.9.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13/4.15.2/semanticdb-shared_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.10/test-runner_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.5/pprint_3-0.9.5.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_3/1.5.0/scalajs-env-nodejs_3-1.5.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.20.2/scalajs-sbt-test-adapter_2.13-1.20.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.3/zip-input-stream-0.1.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.12.3/options_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.12.3/directives_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.12.3/scala-cli-bsp-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.12.3/test-runner_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.12.3/tasty-lib_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.6/windows-ansi-0.0.6.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/cache-util/2.1.25-M23/cache-util-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-paths/2.1.25-M23/coursier-paths-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.25-M23/coursier-util_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/versions_2.13/0.5.1/versions_2.13-0.5.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.4.0/scala-xml_2.13-2.4.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-pprint_3/0.18.2/metaconfig-pprint_3-0.18.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.4/paiges-core_3-0.4.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.18/scala-reflect-2.13.18.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.42.2/google-http-client-1.42.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.42.2/google-http-client-apache-v2-1.42.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.10.0/google-auth-library-oauth2-http-1.10.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.15.2/jackson-datatype-jsr310-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.1/geny_3-1.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-zip/0.11.8/os-zip-0.11.8.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.83/bcprov-jdk18on-1.83.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.25.0/jline-terminal-jni-3.25.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.25.0/jline-native-3.25.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.7/scala3-compiler_3-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.15.2/scalameta_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.15/scalap-2.13.15.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.10/tools_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.1/fansi_3-0.5.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_3/1.5.0/scalajs-js-envs_3-1.5.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.3.3/bloop-config_2.13-2.3.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.12.3/core_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.4/using_directives-1.1.4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.12.3/build-macros_3-1.12.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/is-terminal/0.1.2/is-terminal-0.1.2.jar:/Users/adityarajsingh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/adityarajsingh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.9/auto-value-annotations-1.9.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/1.10.0/google-auth-library-credentials-1.10.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-gson/1.42.2/google-http-client-gson-1.42.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.20.0/commons-codec-1.20.0.jar:/Users/adityarajsingh/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.7/scala3-interfaces-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.7/tasty-core_3-3.3.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.8.0-scala-1/scala-asm-9.8.0-scala-1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.7/compiler-interface-1.10.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.15.2/parsers_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.15/scala-compiler-2.13.15.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.10/nir_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.10/util_3-0.5.10.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_3/1.2.0/scalajs-logging_3-1.2.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-rifle_2.13/2.0.19/bloop-rifle_2.13-2.0.19.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.25-M23/coursier-jvm_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.3.2/dependency_3-0.3.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/7.5.0.202512021534-r/org.eclipse.jgit-7.5.0.202512021534-r.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.1/scalajs-env-jsdom-nodejs_2.13-1.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/Users/adityarajsingh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.27.2/grpc-context-1.27.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.10.7/util-interface-1.10.7.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.15.2/trees_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.13/0.0.12/libdaemon_2.13-0.0.12.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.25-M23/coursier_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-archive-cache_2.13/2.1.25-M23/coursier-archive-cache_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.25-M23/coursier-env_2.13-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-exec/2.1.25-M23/coursier-exec-2.1.25-M23.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.15.2/common_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/io_2.13/4.15.2/io_2.13-4.15.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.10.1/plexus-archiver-4.10.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/tika/tika-core/3.2.3/tika-core-3.2.3.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.7-4/zstd-jni-1.5.7-4.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.2/plexus-utils-4.0.2.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.5.1/plexus-io-3.5.1.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/airlift/aircompressor/0.27/aircompressor-0.27.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.10/xz-1.10.jar:/Users/adityarajsingh/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/Users/adityarajsingh/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar, scala.cli.ScalaCli, bsp, --workspace, /var/folders/6n/g8_y8hq52fj2_wdy5cf669z00000gn/T/metals-scala-cli560016116738443069, --semantic-db-source-root, /Users/adityarajsingh/Downloads, /Users/adityarajsingh/Downloads/set_evaluator.scala)
+2026.04.01 20:09:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/Downloads/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.01 20:09:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.01 20:09:01 INFO  Attempting to connect to the build server...
+2026.04.01 20:09:01 INFO  Found a Bloop server running
+2026.04.01 20:09:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.01 20:09:01 INFO  time: Connected to build server in 0.33s
+2026.04.01 20:09:02 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.01 20:09:02 INFO  time: Imported build in 0.13s
+2026.04.01 20:09:02 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2026.04.01 20:09:02 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+- src/test/scala
+2026.04.01 20:09:04 INFO  time: code lens generation in 2.61s
+2026.04.01 20:09:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:09:05 INFO  Connected to Scala CLI server v1.12.3
+2026.04.01 20:09:05 INFO  compiling metals-scala-cli560016116738443069_e9ebed4fe9-ce2a0a3daf (1 scala source)
+2026.04.01 20:09:05 INFO  time: indexed workspace in 3.74s
+2026.04.01 20:09:06 WARN  no build target for: /Users/adityarajsingh/Downloads/set_evaluator.scala
+2026.04.01 20:09:06 INFO  time: compiled metals-scala-cli560016116738443069_e9ebed4fe9-ce2a0a3daf in 1.3s
+2026.04.01 20:09:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.01 20:09:06 INFO  compiling metals-scala-cli560016116738443069_e9ebed4fe9-ce2a0a3daf (1 scala source)
+2026.04.01 20:09:06 INFO  time: compiled metals-scala-cli560016116738443069_e9ebed4fe9-ce2a0a3daf in 0.8s
+2026.04.01 20:09:06 INFO  time: indexed workspace in 2.6s
+2026.04.01 20:09:08 INFO  compiling metals-scala-cli560016116738443069_e9ebed4fe9-ce2a0a3daf (1 scala source)
+2026.04.01 20:09:08 INFO  time: compiled metals-scala-cli560016116738443069_e9ebed4fe9-ce2a0a3daf in 0.6s
+2026.04.01 20:09:08 INFO  Scala CLI started for /Users/adityarajsingh/Downloads/set_evaluator.scala
+2026.04.01 20:09:10 INFO  Shut down connection with build server.
+Apr 02, 2026 3:49:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1135
+2026.04.02 15:50:03 INFO  compiling root (1 scala source)
+2026.04.02 15:50:05 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.04.02 15:50:05 INFO  expected identifier; obtained abstract (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-04-02/r_scala-toplevel-mtags_15-50-05-171.md")
+2026.04.02 15:50:05 INFO  time: compiled root in 2.08s
+2026.04.02 15:50:05 INFO  compiling root (1 scala source)
+2026.04.02 15:50:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:05 INFO  time: compiled root in 0.63s
+2026.04.02 15:50:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:08 INFO  compiling root (1 scala source)
+2026.04.02 15:50:08 INFO  time: compiled root in 0.3s
+2026.04.02 15:50:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:11 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:14 INFO  compiling root (1 scala source)
+2026.04.02 15:50:14 INFO  time: compiled root in 0.18s
+2026.04.02 15:50:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:16 INFO  compiling root (1 scala source)
+2026.04.02 15:50:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:16 INFO  time: compiled root in 0.19s
+2026.04.02 15:50:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:18 INFO  compiling root (1 scala source)
+2026.04.02 15:50:18 INFO  time: compiled root in 0.19s
+2026.04.02 15:50:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:19 INFO  compiling root (1 scala source)
+2026.04.02 15:50:19 INFO  time: compiled root in 0.17s
+2026.04.02 15:50:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:25 INFO  compiling root (1 scala source)
+2026.04.02 15:50:25 INFO  time: compiled root in 0.14s
+2026.04.02 15:50:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:31 INFO  compiling root (1 scala source)
+2026.04.02 15:50:31 INFO  time: compiled root in 0.15s
+2026.04.02 15:50:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:34 INFO  compiling root (1 scala source)
+2026.04.02 15:50:34 INFO  time: compiled root in 0.12s
+2026.04.02 15:50:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:35 INFO  compiling root (1 scala source)
+2026.04.02 15:50:35 INFO  time: compiled root in 0.13s
+2026.04.02 15:50:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:50:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:03 INFO  compiling root (1 scala source)
+2026.04.02 15:51:03 INFO  time: compiled root in 0.27s
+2026.04.02 15:51:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:26 INFO  compiling root (1 scala source)
+2026.04.02 15:51:26 INFO  time: compiled root in 0.16s
+2026.04.02 15:51:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:28 INFO  compiling root (1 scala source)
+2026.04.02 15:51:28 INFO  time: compiled root in 0.12s
+2026.04.02 15:51:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:29 INFO  compiling root (1 scala source)
+2026.04.02 15:51:29 INFO  time: compiled root in 0.1s
+2026.04.02 15:51:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:35 INFO  compiling root (1 scala source)
+2026.04.02 15:51:35 INFO  time: compiled root in 0.12s
+2026.04.02 15:51:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:38 INFO  compiling root (1 scala source)
+2026.04.02 15:51:38 INFO  time: compiled root in 0.13s
+2026.04.02 15:51:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:39 INFO  compiling root (1 scala source)
+2026.04.02 15:51:39 INFO  time: compiled root in 0.2s
+2026.04.02 15:51:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:41 INFO  compiling root (1 scala source)
+2026.04.02 15:51:41 INFO  time: compiled root in 0.17s
+2026.04.02 15:51:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:46 INFO  compiling root (1 scala source)
+2026.04.02 15:51:46 INFO  time: compiled root in 0.22s
+2026.04.02 15:51:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:51:47 INFO  compiling root (1 scala source)
+2026.04.02 15:51:47 INFO  time: compiled root in 0.17s
+2026.04.02 15:51:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:07 INFO  compiling root (1 scala source)
+2026.04.02 15:52:07 INFO  time: compiled root in 0.22s
+2026.04.02 15:52:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:20 INFO  compiling root (1 scala source)
+2026.04.02 15:52:20 INFO  time: compiled root in 0.22s
+2026.04.02 15:52:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:23 INFO  compiling root (1 scala source)
+2026.04.02 15:52:23 INFO  time: compiled root in 0.22s
+2026.04.02 15:52:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:24 INFO  compiling root (1 scala source)
+2026.04.02 15:52:24 INFO  time: compiled root in 0.17s
+2026.04.02 15:52:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:27 INFO  compiling root (1 scala source)
+2026.04.02 15:52:27 INFO  time: compiled root in 0.37s
+2026.04.02 15:52:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:37 INFO  compiling root (1 scala source)
+2026.04.02 15:52:37 INFO  time: compiled root in 0.22s
+2026.04.02 15:52:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:40 INFO  compiling root (1 scala source)
+2026.04.02 15:52:40 INFO  time: compiled root in 0.2s
+2026.04.02 15:52:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:42 INFO  compiling root (1 scala source)
+2026.04.02 15:52:42 INFO  time: compiled root in 0.15s
+2026.04.02 15:52:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:43 INFO  compiling root (1 scala source)
+2026.04.02 15:52:43 INFO  time: compiled root in 0.19s
+2026.04.02 15:52:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:52:54 INFO  compiling root (1 scala source)
+2026.04.02 15:52:54 INFO  time: compiled root in 0.21s
+2026.04.02 15:52:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:27 INFO  compiling root (1 scala source)
+2026.04.02 15:53:27 INFO  time: compiled root in 0.23s
+2026.04.02 15:53:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:39 INFO  compiling root (1 scala source)
+2026.04.02 15:53:39 INFO  time: compiled root in 0.22s
+2026.04.02 15:53:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:56 INFO  compiling root (1 scala source)
+2026.04.02 15:53:56 INFO  time: compiled root in 0.2s
+2026.04.02 15:53:56 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:53:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:02 INFO  compiling root (1 scala source)
+2026.04.02 15:54:02 INFO  time: compiled root in 0.24s
+2026.04.02 15:54:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:09 INFO  compiling root (1 scala source)
+2026.04.02 15:54:09 INFO  time: compiled root in 0.23s
+2026.04.02 15:54:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:54:13 INFO  compiling root (1 scala source)
+2026.04.02 15:54:13 INFO  time: compiled root in 0.16s
+2026.04.02 15:54:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:55:11 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:15 INFO  compiling root (1 scala source)
+2026.04.02 15:56:15 INFO  time: compiled root in 0.13s
+2026.04.02 15:56:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:16 INFO  compiling root (1 scala source)
+2026.04.02 15:56:16 INFO  time: compiled root in 83ms
+2026.04.02 15:56:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:19 INFO  compiling root (1 scala source)
+2026.04.02 15:56:19 INFO  time: compiled root in 0.1s
+2026.04.02 15:56:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:23 INFO  compiling root (1 scala source)
+2026.04.02 15:56:23 INFO  time: compiled root in 0.14s
+2026.04.02 15:56:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:24 INFO  compiling root (1 scala source)
+2026.04.02 15:56:24 INFO  time: compiled root in 76ms
+2026.04.02 15:56:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:28 INFO  compiling root (1 scala source)
+2026.04.02 15:56:28 INFO  time: compiled root in 0.18s
+2026.04.02 15:56:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 3:56:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2442
+2026.04.02 15:56:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:40 INFO  compiling root (1 scala source)
+2026.04.02 15:56:40 INFO  time: compiled root in 0.14s
+2026.04.02 15:56:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:46 INFO  compiling root (1 scala source)
+2026.04.02 15:56:46 INFO  time: compiled root in 0.3s
+2026.04.02 15:56:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:49 INFO  compiling root (1 scala source)
+2026.04.02 15:56:49 INFO  time: compiled root in 0.15s
+2026.04.02 15:56:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:56:55 INFO  compiling root (1 scala source)
+2026.04.02 15:56:55 INFO  time: compiled root in 0.2s
+2026.04.02 15:56:56 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:03 INFO  compiling root (1 scala source)
+2026.04.02 15:57:03 INFO  time: compiled root in 0.14s
+2026.04.02 15:57:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:06 INFO  compiling root (1 scala source)
+2026.04.02 15:57:06 INFO  time: compiled root in 0.11s
+2026.04.02 15:57:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:07 INFO  compiling root (1 scala source)
+2026.04.02 15:57:07 INFO  time: compiled root in 0.19s
+2026.04.02 15:57:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:11 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:12 INFO  compiling root (1 scala source)
+2026.04.02 15:57:12 INFO  time: compiled root in 0.17s
+2026.04.02 15:57:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 3:57:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2681
+2026.04.02 15:57:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:15 INFO  compiling root (1 scala source)
+2026.04.02 15:57:15 INFO  time: compiled root in 0.15s
+2026.04.02 15:57:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:17 INFO  compiling root (1 scala source)
+2026.04.02 15:57:17 INFO  time: compiled root in 0.17s
+2026.04.02 15:57:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:21 INFO  compiling root (1 scala source)
+2026.04.02 15:57:21 INFO  time: compiled root in 0.11s
+2026.04.02 15:57:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:24 INFO  compiling root (1 scala source)
+2026.04.02 15:57:24 INFO  time: compiled root in 99ms
+2026.04.02 15:57:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 15:57:26 INFO  compiling root (1 scala source)
+2026.04.02 15:57:26 INFO  time: compiled root in 0.16s
+2026.04.02 15:57:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:02:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:02:57 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:02:58 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:02:59 INFO  compiling root (1 scala source)
+2026.04.02 16:02:59 INFO  time: compiled root in 0.23s
+2026.04.02 16:02:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:02 INFO  compiling root (1 scala source)
+2026.04.02 16:03:02 INFO  time: compiled root in 0.11s
+2026.04.02 16:03:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:04 INFO  compiling root (1 scala source)
+2026.04.02 16:03:04 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:07 INFO  compiling root (1 scala source)
+2026.04.02 16:03:07 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:36 INFO  compiling root (1 scala source)
+2026.04.02 16:03:36 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:40 INFO  compiling root (1 scala source)
+2026.04.02 16:03:40 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:42 INFO  compiling root (1 scala source)
+2026.04.02 16:03:42 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:46 INFO  compiling root (1 scala source)
+2026.04.02 16:03:46 INFO  time: compiled root in 0.17s
+2026.04.02 16:03:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:49 INFO  compiling root (1 scala source)
+2026.04.02 16:03:49 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:49 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:03:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3104
+2026.04.02 16:03:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:54 INFO  compiling root (1 scala source)
+2026.04.02 16:03:54 INFO  time: compiled root in 0.15s
+2026.04.02 16:03:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:03:59 INFO  compiling root (1 scala source)
+2026.04.02 16:03:59 INFO  time: compiled root in 0.16s
+2026.04.02 16:04:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:10 INFO  compiling root (1 scala source)
+2026.04.02 16:04:10 INFO  time: compiled root in 0.16s
+2026.04.02 16:04:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:16 INFO  compiling root (1 scala source)
+2026.04.02 16:04:16 INFO  time: compiled root in 0.16s
+2026.04.02 16:04:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:19 INFO  compiling root (1 scala source)
+2026.04.02 16:04:19 INFO  time: compiled root in 0.14s
+2026.04.02 16:04:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:22 INFO  compiling root (1 scala source)
+2026.04.02 16:04:22 INFO  time: compiled root in 0.15s
+2026.04.02 16:04:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:27 INFO  compiling root (1 scala source)
+2026.04.02 16:04:27 INFO  time: compiled root in 0.17s
+Apr 02, 2026 4:04:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3255
+2026.04.02 16:04:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:30 INFO  compiling root (1 scala source)
+2026.04.02 16:04:30 INFO  time: compiled root in 0.14s
+2026.04.02 16:04:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:32 INFO  compiling root (1 scala source)
+2026.04.02 16:04:32 INFO  time: compiled root in 0.2s
+2026.04.02 16:04:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:35 INFO  compiling root (1 scala source)
+2026.04.02 16:04:35 INFO  time: compiled root in 0.13s
+2026.04.02 16:04:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:38 INFO  compiling root (1 scala source)
+2026.04.02 16:04:38 INFO  time: compiled root in 0.19s
+2026.04.02 16:04:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:04:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3373
+2026.04.02 16:04:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:49 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:50 INFO  compiling root (1 scala source)
+2026.04.02 16:04:50 INFO  time: compiled root in 0.18s
+2026.04.02 16:04:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:04:51 INFO  compiling root (1 scala source)
+2026.04.02 16:04:51 INFO  time: compiled root in 0.16s
+2026.04.02 16:04:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:01 INFO  compiling root (1 scala source)
+2026.04.02 16:05:01 INFO  time: compiled root in 0.11s
+2026.04.02 16:05:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:44 INFO  compiling root (1 scala source)
+2026.04.02 16:05:44 INFO  time: compiled root in 0.17s
+2026.04.02 16:05:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:48 INFO  compiling root (1 scala source)
+2026.04.02 16:05:48 INFO  time: compiled root in 0.16s
+2026.04.02 16:05:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:05:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3576
+2026.04.02 16:05:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:51 INFO  compiling root (1 scala source)
+2026.04.02 16:05:51 INFO  time: compiled root in 0.17s
+2026.04.02 16:05:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:54 INFO  compiling root (1 scala source)
+2026.04.02 16:05:54 INFO  time: compiled root in 0.17s
+2026.04.02 16:05:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:56 INFO  compiling root (1 scala source)
+2026.04.02 16:05:56 INFO  time: compiled root in 98ms
+2026.04.02 16:05:56 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:57 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:58 INFO  compiling root (1 scala source)
+2026.04.02 16:05:58 INFO  time: compiled root in 0.15s
+2026.04.02 16:05:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:05:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:06:00 INFO  compiling root (1 scala source)
+2026.04.02 16:06:00 INFO  time: compiled root in 0.17s
+2026.04.02 16:06:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:06:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:06:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:05 INFO  compiling root (1 scala source)
+2026.04.02 16:07:05 INFO  time: compiled root in 0.22s
+2026.04.02 16:07:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:06 INFO  compiling root (1 scala source)
+2026.04.02 16:07:06 INFO  time: compiled root in 0.15s
+2026.04.02 16:07:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:07 INFO  compiling root (1 scala source)
+2026.04.02 16:07:07 INFO  time: compiled root in 0.21s
+2026.04.02 16:07:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:08 INFO  compiling root (1 scala source)
+2026.04.02 16:07:08 INFO  time: compiled root in 0.17s
+2026.04.02 16:07:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:10 INFO  compiling root (1 scala source)
+2026.04.02 16:07:10 INFO  time: compiled root in 0.17s
+2026.04.02 16:07:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:07:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:42 INFO  compiling root (1 scala source)
+2026.04.02 16:12:42 INFO  time: compiled root in 0.2s
+2026.04.02 16:12:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:49 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:50 INFO  compiling root (1 scala source)
+2026.04.02 16:12:50 INFO  time: compiled root in 0.17s
+2026.04.02 16:12:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:12:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3844
+2026.04.02 16:12:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:12:54 INFO  compiling root (1 scala source)
+2026.04.02 16:12:54 INFO  time: compiled root in 0.14s
+2026.04.02 16:12:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:13 INFO  compiling root (1 scala source)
+2026.04.02 16:13:13 INFO  time: compiled root in 0.2s
+2026.04.02 16:13:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:16 INFO  compiling root (1 scala source)
+2026.04.02 16:13:16 INFO  time: compiled root in 0.15s
+2026.04.02 16:13:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:19 INFO  compiling root (1 scala source)
+2026.04.02 16:13:19 INFO  time: compiled root in 0.14s
+2026.04.02 16:13:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:25 INFO  compiling root (1 scala source)
+2026.04.02 16:13:25 INFO  time: compiled root in 0.21s
+2026.04.02 16:13:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:29 INFO  compiling root (1 scala source)
+2026.04.02 16:13:29 INFO  time: compiled root in 0.17s
+2026.04.02 16:13:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:32 INFO  compiling root (1 scala source)
+2026.04.02 16:13:32 INFO  time: compiled root in 0.16s
+2026.04.02 16:13:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:41 INFO  compiling root (1 scala source)
+2026.04.02 16:13:41 INFO  time: compiled root in 0.16s
+2026.04.02 16:13:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:44 INFO  compiling root (1 scala source)
+2026.04.02 16:13:44 INFO  time: compiled root in 0.17s
+2026.04.02 16:13:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:48 INFO  compiling root (1 scala source)
+2026.04.02 16:13:48 INFO  time: compiled root in 0.18s
+2026.04.02 16:13:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:54 INFO  compiling root (1 scala source)
+2026.04.02 16:13:54 INFO  time: compiled root in 0.15s
+2026.04.02 16:13:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:56 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:13:57 INFO  compiling root (1 scala source)
+2026.04.02 16:13:57 INFO  time: compiled root in 0.15s
+2026.04.02 16:13:58 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:33 INFO  compiling root (1 scala source)
+2026.04.02 16:14:33 INFO  time: compiled root in 0.19s
+2026.04.02 16:14:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:14:39 INFO  compiling root (1 scala source)
+2026.04.02 16:14:39 INFO  time: compiled root in 0.17s
+2026.04.02 16:14:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:15 INFO  compiling root (1 scala source)
+2026.04.02 16:15:15 INFO  time: compiled root in 0.16s
+2026.04.02 16:15:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:17 INFO  compiling root (1 scala source)
+2026.04.02 16:15:17 INFO  time: compiled root in 0.15s
+2026.04.02 16:15:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:20 INFO  compiling root (1 scala source)
+2026.04.02 16:15:20 INFO  time: compiled root in 0.15s
+2026.04.02 16:15:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:25 INFO  compiling root (1 scala source)
+2026.04.02 16:15:25 INFO  time: compiled root in 0.17s
+2026.04.02 16:15:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:49 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:50 INFO  compiling root (1 scala source)
+2026.04.02 16:15:50 INFO  time: compiled root in 0.22s
+2026.04.02 16:15:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:56 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:57 INFO  compiling root (1 scala source)
+2026.04.02 16:15:57 INFO  time: compiled root in 0.15s
+2026.04.02 16:15:57 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:58 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:15:59 INFO  compiling root (1 scala source)
+2026.04.02 16:15:59 INFO  time: compiled root in 0.14s
+2026.04.02 16:16:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:01 INFO  compiling root (1 scala source)
+2026.04.02 16:16:01 INFO  time: compiled root in 0.15s
+2026.04.02 16:16:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:06 INFO  compiling root (1 scala source)
+2026.04.02 16:16:06 INFO  time: compiled root in 0.17s
+2026.04.02 16:16:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:14 INFO  compiling root (1 scala source)
+2026.04.02 16:16:14 INFO  time: compiled root in 0.19s
+2026.04.02 16:16:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:17 INFO  compiling root (1 scala source)
+2026.04.02 16:16:17 INFO  time: compiled root in 0.15s
+2026.04.02 16:16:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:16:18 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: NoDenotation.owner (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-04-02/r_compiler-error_(root)_16-16-18-777.md)
+2026.04.02 16:16:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:19 INFO  compiling root (1 scala source)
+2026.04.02 16:16:19 INFO  time: compiled root in 0.16s
+2026.04.02 16:16:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:27 INFO  compiling root (1 scala source)
+Apr 02, 2026 4:16:27 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: NoDenotation.owner (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-04-02/r_compiler-error_(root)_16-16-27-669.md)
+2026.04.02 16:16:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:27 INFO  time: compiled root in 0.21s
+2026.04.02 16:16:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:27 INFO  compiling root (1 scala source)
+2026.04.02 16:16:28 INFO  time: compiled root in 0.13s
+2026.04.02 16:16:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:30 INFO  compiling root (1 scala source)
+2026.04.02 16:16:30 INFO  time: compiled root in 0.16s
+2026.04.02 16:16:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:35 INFO  compiling root (1 scala source)
+2026.04.02 16:16:35 INFO  time: compiled root in 0.2s
+2026.04.02 16:16:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:16:36 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: NoDenotation.owner (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-04-02/r_compiler-error_(root)_16-16-36-880.md)
+2026.04.02 16:16:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:37 INFO  compiling root (1 scala source)
+2026.04.02 16:16:37 INFO  time: compiled root in 0.17s
+2026.04.02 16:16:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:41 INFO  compiling root (1 scala source)
+2026.04.02 16:16:41 INFO  time: compiled root in 0.17s
+2026.04.02 16:16:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:16:43 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: NoDenotation.owner (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-04-02/r_compiler-error_(root)_16-16-43-335.md)
+2026.04.02 16:16:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:16:44 INFO  compiling root (1 scala source)
+2026.04.02 16:16:44 INFO  time: compiled root in 0.21s
+2026.04.02 16:16:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:49 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:49 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:56 INFO  compiling root (1 scala source)
+2026.04.02 16:17:56 INFO  time: compiled root in 0.13s
+2026.04.02 16:17:57 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:17:58 INFO  compiling root (1 scala source)
+2026.04.02 16:17:58 INFO  time: compiled root in 81ms
+2026.04.02 16:17:58 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:09 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.04.02 16:21:09 INFO  expected identifier; obtained abstract (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-04-02/r_scala-toplevel-mtags_16-21-09-107.md")
+2026.04.02 16:21:09 INFO  compiling root (1 scala source)
+2026.04.02 16:21:09 INFO  time: compiled root in 0.21s
+2026.04.02 16:21:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:21:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4802
+2026.04.02 16:21:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:17 INFO  compiling root (1 scala source)
+2026.04.02 16:21:17 INFO  time: compiled root in 0.12s
+2026.04.02 16:21:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:19 INFO  compiling root (1 scala source)
+2026.04.02 16:21:19 INFO  time: compiled root in 0.14s
+2026.04.02 16:21:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:23 INFO  compiling root (1 scala source)
+2026.04.02 16:21:23 INFO  time: compiled root in 0.12s
+2026.04.02 16:21:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:27 INFO  compiling root (1 scala source)
+2026.04.02 16:21:27 INFO  time: compiled root in 0.24s
+2026.04.02 16:21:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:21:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:42 INFO  compiling root (1 scala source)
+2026.04.02 16:23:42 INFO  time: compiled root in 0.25s
+2026.04.02 16:23:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:52 INFO  compiling root (1 scala source)
+2026.04.02 16:23:52 INFO  time: compiled root in 0.24s
+2026.04.02 16:23:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:55 INFO  compiling root (1 scala source)
+2026.04.02 16:23:55 INFO  time: compiled root in 0.19s
+2026.04.02 16:23:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:58 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:23:59 INFO  compiling root (1 scala source)
+2026.04.02 16:23:59 INFO  time: compiled root in 0.19s
+2026.04.02 16:23:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:03 INFO  compiling root (1 scala source)
+2026.04.02 16:24:03 INFO  time: compiled root in 0.24s
+2026.04.02 16:24:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:05 INFO  compiling root (1 scala source)
+2026.04.02 16:24:05 INFO  time: compiled root in 0.23s
+2026.04.02 16:24:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:24:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5069
+2026.04.02 16:24:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:19 INFO  compiling root (1 scala source)
+2026.04.02 16:24:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:19 INFO  time: compiled root in 0.32s
+2026.04.02 16:24:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:19 INFO  compiling root (1 scala source)
+2026.04.02 16:24:20 INFO  time: compiled root in 0.19s
+2026.04.02 16:24:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:22 INFO  compiling root (1 scala source)
+2026.04.02 16:24:22 INFO  time: compiled root in 0.33s
+2026.04.02 16:24:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:24 INFO  compiling root (1 scala source)
+2026.04.02 16:24:24 INFO  time: compiled root in 0.23s
+2026.04.02 16:24:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:24:26 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: NoDenotation.owner (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-04-02/r_compiler-error_(root)_16-24-26-078.md)
+2026.04.02 16:24:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:26 INFO  compiling root (1 scala source)
+2026.04.02 16:24:26 INFO  time: compiled root in 0.33s
+2026.04.02 16:24:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:28 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:30 INFO  compiling root (1 scala source)
+2026.04.02 16:24:30 INFO  time: compiled root in 0.23s
+2026.04.02 16:24:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:33 INFO  compiling root (1 scala source)
+2026.04.02 16:24:33 INFO  time: compiled root in 0.27s
+2026.04.02 16:24:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:36 INFO  compiling root (1 scala source)
+2026.04.02 16:24:36 INFO  time: compiled root in 0.21s
+2026.04.02 16:24:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:24:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
