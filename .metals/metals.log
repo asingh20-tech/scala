@@ -5649,3 +5649,309 @@ SEVERE: java.lang.AssertionError: NoDenotation.owner (full report at: /Users/adi
 2026.04.02 16:24:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
 2026.04.02 16:24:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
 2026.04.02 16:24:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:25:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5295
+2026.04.02 16:25:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:49 INFO  compiling root (1 scala source)
+2026.04.02 16:25:49 INFO  time: compiled root in 0.14s
+2026.04.02 16:25:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:50 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:52 INFO  compiling root (1 scala source)
+2026.04.02 16:25:52 INFO  time: compiled root in 0.17s
+2026.04.02 16:25:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:25:59 INFO  compiling root (1 scala source)
+2026.04.02 16:25:59 INFO  time: compiled root in 0.1s
+2026.04.02 16:26:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:26:01 INFO  compiling root (1 scala source)
+2026.04.02 16:26:01 INFO  time: compiled root in 69ms
+2026.04.02 16:26:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:26:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:26:04 INFO  compiling root (1 scala source)
+2026.04.02 16:26:04 INFO  time: compiled root in 0.12s
+2026.04.02 16:26:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:28:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:29:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:29:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:16 INFO  compiling root (1 scala source)
+2026.04.02 16:31:16 INFO  time: compiled root in 0.19s
+2026.04.02 16:31:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:22 INFO  compiling root (1 scala source)
+2026.04.02 16:31:22 INFO  time: compiled root in 0.1s
+2026.04.02 16:31:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:23 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:28 INFO  compiling root (1 scala source)
+2026.04.02 16:31:28 INFO  time: compiled root in 0.13s
+2026.04.02 16:31:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:30 INFO  compiling root (1 scala source)
+2026.04.02 16:31:30 INFO  time: compiled root in 0.1s
+2026.04.02 16:31:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:32 INFO  compiling root (1 scala source)
+2026.04.02 16:31:32 INFO  time: compiled root in 90ms
+2026.04.02 16:31:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:39 INFO  compiling root (1 scala source)
+2026.04.02 16:31:39 INFO  time: compiled root in 92ms
+2026.04.02 16:31:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:44 INFO  compiling root (1 scala source)
+2026.04.02 16:31:44 INFO  time: compiled root in 85ms
+2026.04.02 16:31:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:46 INFO  compiling root (1 scala source)
+2026.04.02 16:31:46 INFO  time: compiled root in 0.12s
+2026.04.02 16:31:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:48 INFO  compiling root (1 scala source)
+2026.04.02 16:31:48 INFO  time: compiled root in 85ms
+2026.04.02 16:31:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:55 INFO  compiling root (1 scala source)
+2026.04.02 16:31:55 INFO  time: compiled root in 0.12s
+2026.04.02 16:31:55 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:31:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:02 INFO  compiling root (1 scala source)
+2026.04.02 16:32:02 INFO  time: compiled root in 0.13s
+2026.04.02 16:32:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:07 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:09 INFO  compiling root (1 scala source)
+2026.04.02 16:32:09 INFO  time: compiled root in 0.17s
+2026.04.02 16:32:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:15 INFO  compiling root (1 scala source)
+2026.04.02 16:32:15 INFO  time: compiled root in 0.14s
+2026.04.02 16:32:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:20 INFO  compiling root (1 scala source)
+2026.04.02 16:32:20 INFO  time: compiled root in 0.1s
+2026.04.02 16:32:21 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:25 INFO  compiling root (1 scala source)
+2026.04.02 16:32:25 INFO  time: compiled root in 0.22s
+2026.04.02 16:32:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:27 INFO  compiling root (1 scala source)
+2026.04.02 16:32:27 INFO  time: compiled root in 0.2s
+2026.04.02 16:32:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:38 INFO  compiling root (1 scala source)
+2026.04.02 16:32:38 INFO  time: compiled root in 0.18s
+2026.04.02 16:32:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:43 INFO  compiling root (1 scala source)
+2026.04.02 16:32:43 INFO  time: compiled root in 0.16s
+2026.04.02 16:32:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:46 INFO  compiling root (1 scala source)
+2026.04.02 16:32:46 INFO  time: compiled root in 0.11s
+2026.04.02 16:32:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:48 INFO  compiling root (1 scala source)
+2026.04.02 16:32:48 INFO  time: compiled root in 0.17s
+2026.04.02 16:32:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:53 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:32:53 INFO  compiling root (1 scala source)
+2026.04.02 16:32:53 INFO  time: compiled root in 0.2s
+2026.04.02 16:32:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:02 INFO  compiling root (1 scala source)
+2026.04.02 16:33:02 INFO  time: compiled root in 0.22s
+2026.04.02 16:33:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:13 INFO  compiling root (1 scala source)
+2026.04.02 16:33:13 INFO  time: compiled root in 0.23s
+2026.04.02 16:33:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:17 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:18 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:19 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:20 INFO  compiling root (1 scala source)
+2026.04.02 16:33:20 INFO  time: compiled root in 0.28s
+2026.04.02 16:33:20 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:23 INFO  compiling root (1 scala source)
+2026.04.02 16:33:23 INFO  time: compiled root in 0.17s
+2026.04.02 16:33:24 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:25 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:27 INFO  compiling root (1 scala source)
+2026.04.02 16:33:27 INFO  time: compiled root in 0.21s
+2026.04.02 16:33:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:32 INFO  compiling root (1 scala source)
+2026.04.02 16:33:32 INFO  time: compiled root in 0.18s
+2026.04.02 16:33:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:36 INFO  compiling root (1 scala source)
+2026.04.02 16:33:36 INFO  time: compiled root in 0.19s
+2026.04.02 16:33:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:38 INFO  compiling root (1 scala source)
+2026.04.02 16:33:38 INFO  time: compiled root in 0.17s
+2026.04.02 16:33:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:33:43 INFO  compiling root (1 scala source)
+2026.04.02 16:33:43 INFO  time: compiled root in 0.18s
+2026.04.02 16:33:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:22 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:26 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:27 INFO  compiling root (1 scala source)
+2026.04.02 16:36:27 INFO  time: compiled root in 0.19s
+2026.04.02 16:36:27 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:32 INFO  compiling root (1 scala source)
+2026.04.02 16:36:32 INFO  time: compiled root in 0.11s
+2026.04.02 16:36:33 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:36 INFO  compiling root (1 scala source)
+2026.04.02 16:36:36 INFO  time: compiled root in 0.13s
+2026.04.02 16:36:36 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:56 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:57 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:36:58 INFO  compiling root (1 scala source)
+2026.04.02 16:36:58 INFO  time: compiled root in 0.18s
+2026.04.02 16:36:59 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:00 INFO  compiling root (1 scala source)
+2026.04.02 16:37:00 INFO  time: compiled root in 0.18s
+2026.04.02 16:37:00 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:02 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:03 INFO  compiling root (1 scala source)
+2026.04.02 16:37:03 INFO  time: compiled root in 0.15s
+2026.04.02 16:37:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:05 INFO  compiling root (1 scala source)
+2026.04.02 16:37:05 INFO  time: compiled root in 0.15s
+2026.04.02 16:37:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:10 INFO  compiling root (1 scala source)
+2026.04.02 16:37:10 INFO  time: compiled root in 0.19s
+2026.04.02 16:37:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:15 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:16 INFO  compiling root (1 scala source)
+2026.04.02 16:37:16 INFO  time: compiled root in 0.17s
+2026.04.02 16:37:16 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:29 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:30 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:31 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:32 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:33 INFO  compiling root (1 scala source)
+2026.04.02 16:37:33 INFO  time: compiled root in 0.12s
+2026.04.02 16:37:34 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:35 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 02, 2026 4:37:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6478
+2026.04.02 16:37:37 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:38 INFO  compiling root (1 scala source)
+2026.04.02 16:37:38 INFO  time: compiled root in 0.17s
+2026.04.02 16:37:38 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:39 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:40 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:41 INFO  compiling root (1 scala source)
+2026.04.02 16:37:41 INFO  time: compiled root in 0.1s
+2026.04.02 16:37:41 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:42 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:43 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:44 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:45 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:46 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:47 INFO  compiling root (1 scala source)
+2026.04.02 16:37:47 INFO  time: compiled root in 0.2s
+2026.04.02 16:37:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:47 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:48 INFO  compiling root (1 scala source)
+2026.04.02 16:37:48 INFO  time: compiled root in 84ms
+2026.04.02 16:37:48 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:51 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:52 INFO  compiling root (1 scala source)
+2026.04.02 16:37:52 INFO  time: compiled root in 0.11s
+2026.04.02 16:37:52 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:54 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:37:55 INFO  compiling root (1 scala source)
+2026.04.02 16:37:55 INFO  time: compiled root in 0.1s
+2026.04.02 16:38:01 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:03 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:04 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:05 INFO  compiling root (1 scala source)
+2026.04.02 16:38:05 INFO  time: compiled root in 0.13s
+2026.04.02 16:38:05 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:06 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:08 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:09 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:10 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:12 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:13 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.02 16:38:14 INFO  compiling root (1 scala source)
+2026.04.02 16:38:14 INFO  time: compiled root in 0.14s
+2026.04.02 16:38:14 WARN  Could not load snapshot text for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala

@@ -103,7 +103,16 @@ def symanticAnalyser (s : SetComp) : String = {
     }
   }
 }
-def check (s : E , t : scala.collection.mutable.Set[String]) : 
+def check (s : S , t : scala.collection.mutable.Set[String]) : Unit = {
+  s match {
+    case Var(n) => 
+      if (!t.contains(n)){
+        throw new Exception 
+      }
+
+
+  }
+}
 
 
 
