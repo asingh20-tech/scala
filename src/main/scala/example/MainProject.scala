@@ -85,7 +85,7 @@ def evalSet(s: SetExpr, env: Main.Environment): Set[Int] = {
     } 
   
 }
-def symanticAnalyser (s : SetComp) : String = {
+def symanticAnalyser (s : SetComp) : Unit = {
   val definedVars = scala.collection.mutable.Set[String]()
   for ( c <- s.clauses){
     c match {
@@ -95,22 +95,38 @@ def symanticAnalyser (s : SetComp) : String = {
         }
         else 
           throw new Exception ("No Identifier Being defined")
-          
 
       case Guard(l, op, r) => 
-        case l(t,e)
-
+        check(l,definedVars)
+        check(r,definedVars)
     }
+    
   }
+  check(s.output,definedVars)
 }
+
 def check (s : S , t : scala.collection.mutable.Set[String]) : Unit = {
   s match {
     case Var(n) => 
       if (!t.contains(n)){
-        throw new Exception 
+        throw new Exception (s"Dont have $n")
+      }
+    case Const(n) => 
+    
+    case E(l, right) => 
+      check(l,t)  
+      right match {
+        case Some(r) => check(r.l,t)
+        case _ => 
       }
 
-
+    case T(l, right) => 
+      check(l,t) 
+      right match {
+        case Some(r) => check(r.l,t)
+        case _ =>  
+      }
+      
   }
 }
 
@@ -396,6 +412,10 @@ object Main {
           val set = rd.parseSet()
           print("SET --->")
           println(set)
+          set match {
+              case s: SetComp => symanticAnalyser(s)
+              case _ => 
+            }
           print("Evaluated Set --->")
           println(evalSet(set, e).toList.sorted)
         } else {
