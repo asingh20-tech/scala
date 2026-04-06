@@ -21,15 +21,61 @@ import javax.crypto.KeyGenerator
 
 abstract class S {
   def eval(env: Main.Environment): Int
+  def prettyPrint(): String
 }
-sealed abstract class SetExpr
-case class SetLiterals(elems: Set[Int]) extends SetExpr
-case class SetRange(lo: Int, hi: Int) extends SetExpr
-case class SetComp(output: E, clauses: List[Clause]) extends SetExpr
+sealed abstract class SetExpr{
+  def prettyPrint():String
+}
+case class SetLiterals(elems: Set[Int]) extends SetExpr{
+  def prettyPrint(): String = {
+    elems.mkString("{", ",", "}")
+  }
+}
+case class SetRange(lo: Int, hi: Int) extends SetExpr {
+  def prettyPrint(): String = {
+    s"{$lo,...,$hi}"
+  }
+}
+case class SetComp(output: E, clauses: List[Clause]) extends SetExpr{
+  def prettyPrint(): String = {
+    var result = "{"
+    result += output.prettyPrint()
+    result += " | "
+    var first = true
+    for (c <- clauses) {
+      if (!first) {
+        result += ", "
+      }
+      c match {
+        case g: Generator => result += g.prettyPrint()
+        case gd: Guard => result += gd.prettyPrint()
+      }
+      first = false
+    }
+    result += "}"
+    result
+  }
+}
 
-sealed abstract class Clause
-case class Generator(identifier: String, source: SetExpr) extends Clause
-case class Guard(l: E, op: CompareOp, r: E) extends Clause
+sealed abstract class Clause{
+  def prettyPrint(): String
+}
+case class Generator(identifier: String, source: SetExpr) extends Clause {
+  def prettyPrint(): String = {
+    s"$identifier in ${source.prettyPrint()}"
+  }
+}
+case class Guard(l: E, op: CompareOp, r: E) extends Clause{
+  def prettyPrint(): String = {
+    val opStr = op match {
+      case CompareOp.Eq  => "="
+      case CompareOp.NEq => "!="
+      case CompareOp.Lt  => "<"
+      case CompareOp.Gt  => ">"
+    }
+    s"${l.prettyPrint()} $opStr ${r.prettyPrint()}"
+  }
+}
 
 
 enum CompareOp:
@@ -90,6 +136,11 @@ def symanticAnalyser (s : SetComp) : Unit = {
   for ( c <- s.clauses){
     c match {
       case Generator(identifier, source) => 
+        source match{
+          case s: SetComp => symanticAnalyser(s)
+          case SetLiterals(_) => 
+          case SetRange(_,_) =>
+        }
         if (identifier != null){
           definedVars += identifier
         }
@@ -126,11 +177,8 @@ def check (s : S , t : scala.collection.mutable.Set[String]) : Unit = {
         case Some(r) => check(r.l,t)
         case _ =>  
       }
-      
   }
 }
-
-
 
 abstract class Terminal extends S
 case class E(l: T, right: Option[E2]) extends S {
@@ -146,7 +194,18 @@ case class E(l: T, right: Option[E2]) extends S {
       case None => a1
     }
   }
+
+
+  def prettyPrint(): String = {
+  val left = l.prettyPrint()
+  right match {
+    case Some(r) => s"$left ${r.prettyPrint()}"
+    case None => left
+  }
 }
+}
+
+
 case class T(l: S, right: Option[T2]) extends S {
   def eval(env: Main.Environment): Int = {
     val a1: Int = l.eval(env)
@@ -164,18 +223,33 @@ case class T(l: S, right: Option[T2]) extends S {
       case None => a1
     }
   }
+  def prettyPrint(): String = {
+  val left = l.prettyPrint()
+  right match {
+    case Some(r) => s"$left ${r.prettyPrint()}"
+    case None => left
+  }
+}
 }
 case class T2(operator : Char , l : T) extends S{
   def eval(env: Main.Environment): Int = l.eval(env)
+  def prettyPrint(): String = {
+  s"$operator ${l.prettyPrint()}"
+}
 }
 case class E2(operator :Char,l: E) extends S {
   def eval(env: Main.Environment): Int = l.eval(env)
+  def prettyPrint(): String = {
+  s"$operator ${l.prettyPrint()}"
+}
 }
 case class Var(n: String) extends Terminal {
   def eval(env: Main.Environment): Int = env(n)
+  def prettyPrint(): String = n
 }
 case class Const(v: Int) extends Terminal {
   def eval(env: Main.Environment): Int = v
+  def prettyPrint(): String = v.toString
 }
 
 class RecursiveDescent(input:String) {
@@ -411,7 +485,8 @@ object Main {
           val rd = new RecursiveDescent(s)
           val set = rd.parseSet()
           print("SET --->")
-          println(set)
+          println(set.prettyPrint())
+          
           set match {
               case s: SetComp => symanticAnalyser(s)
               case _ => 
@@ -422,7 +497,7 @@ object Main {
           val rd = new RecursiveDescent(s)
           val exp = rd.parseS()
           print("Arithmetic --> ")
-          println(exp)
+          println(exp.prettyPrint())
           print("Simplified --> ")
           println(exp.eval(e))
         }

@@ -6495,3 +6495,409 @@ Apr 03, 2026 10:15:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 10361
 Apr 03, 2026 10:15:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.04.03 22:21:01 INFO  Shutting down server
+2026.04.03 22:21:01 INFO  Memory monitor stopped
+2026.04.03 22:21:01 INFO  shutting down Metals
+2026.04.03 22:21:01 INFO  Shut down connection with build server.
+2026.04.03 22:21:01 INFO  Shut down connection with build server.
+2026.04.03 22:21:01 INFO  Exiting server
+2026.04.04 18:05:03 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.114.0.
+2026.04.04 18:05:03 INFO  Memory monitor started
+2026.04.04 18:05:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.04 18:05:04 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.04 18:05:04 INFO  Attempting to connect to the build server...
+2026.04.04 18:05:04 INFO  Found a Bloop server running
+Apr 04, 2026 6:05:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.04 18:05:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.04 18:05:04 INFO  Attempting to connect to the build server...
+2026.04.04 18:05:04 INFO  Found a Bloop server running
+2026.04.04 18:05:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.04 18:05:04 INFO  time: Connected to build server in 0.51s
+2026.04.04 18:05:04 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.04 18:05:04 INFO  time: Imported build in 0.15s
+2026.04.04 18:05:04 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2026.04.04 18:05:06 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+- src/test/scala
+2026.04.04 18:05:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.04 18:05:08 INFO  time: indexed workspace in 4.52s
+2026.04.04 18:05:09 INFO  compiling root-test (1 scala source)
+2026.04.04 18:05:09 INFO  time: compiled root-test in 0.63s
+java.lang.AssertionError: assertion failed while typechecking /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+Apr 04, 2026 6:05:11 PM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: assertion failed (full report at: /Users/adityarajsingh/scala344/.metals/.reports/metals-full/2026-04-04/r_compiler-error_(root)_18-05-11-968.md)
+2026.04.04 18:05:11 WARN  Could not find semantic tokens for: file:///Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala
+2026.04.04 18:06:04 INFO  compiling root (1 scala source)
+2026.04.04 18:06:04 INFO  time: compiled root in 0.45s
+2026.04.04 18:06:15 INFO  compiling root (1 scala source)
+2026.04.04 18:06:15 INFO  time: compiled root in 0.26s
+2026.04.04 18:06:19 INFO  compiling root (1 scala source)
+2026.04.04 18:06:19 INFO  time: compiled root in 0.13s
+2026.04.04 18:06:21 INFO  compiling root (1 scala source)
+2026.04.04 18:06:21 INFO  time: compiled root in 0.17s
+2026.04.04 18:06:27 INFO  compiling root (1 scala source)
+2026.04.04 18:06:27 INFO  time: compiled root in 0.2s
+2026.04.04 18:06:30 INFO  compiling root (1 scala source)
+2026.04.04 18:06:30 INFO  time: compiled root in 0.23s
+2026.04.04 18:06:32 INFO  compiling root (1 scala source)
+2026.04.04 18:06:32 INFO  time: compiled root in 0.16s
+2026.04.04 18:06:33 INFO  compiling root (1 scala source)
+2026.04.04 18:06:33 INFO  time: compiled root in 0.26s
+2026.04.04 18:06:48 INFO  compiling root (1 scala source)
+2026.04.04 18:06:48 INFO  time: compiled root in 0.16s
+2026.04.04 18:06:52 INFO  compiling root (1 scala source)
+2026.04.04 18:06:52 INFO  time: compiled root in 0.23s
+2026.04.04 18:07:04 INFO  compiling root (1 scala source)
+2026.04.04 18:07:04 INFO  time: compiled root in 0.15s
+2026.04.04 18:07:07 INFO  compiling root (1 scala source)
+2026.04.04 18:07:07 INFO  compiling root-test (1 scala source)
+2026.04.04 18:07:07 INFO  time: compiled root in 0.81s
+2026.04.04 18:07:07 INFO  time: compiled root-test in 65ms
+2026.04.04 18:07:11 INFO  compiling root (1 scala source)
+2026.04.04 18:07:11 INFO  compiling root-test (1 scala source)
+2026.04.04 18:07:11 INFO  time: compiled root in 0.57s
+2026.04.04 18:07:11 INFO  time: compiled root-test in 0.11s
+2026.04.04 18:07:13 INFO  compiling root (1 scala source)
+2026.04.04 18:07:13 INFO  time: compiled root in 99ms
+2026.04.04 18:07:15 INFO  compiling root (1 scala source)
+2026.04.04 18:07:15 INFO  time: compiled root in 0.1s
+2026.04.04 18:07:18 INFO  compiling root (1 scala source)
+2026.04.04 18:07:18 INFO  time: compiled root in 0.27s
+2026.04.04 18:58:39 INFO  compiling root (1 scala source)
+2026.04.04 18:58:39 INFO  compiling root-test (1 scala source)
+2026.04.04 18:58:39 INFO  time: compiled root in 0.54s
+2026.04.04 18:58:39 INFO  time: compiled root-test in 87ms
+2026.04.04 18:58:43 INFO  compiling root (1 scala source)
+2026.04.04 18:58:43 INFO  compiling root-test (1 scala source)
+2026.04.04 18:58:43 INFO  time: compiled root in 0.34s
+2026.04.04 18:58:43 INFO  time: compiled root-test in 79ms
+2026.04.04 18:58:44 INFO  compiling root (1 scala source)
+2026.04.04 18:58:44 INFO  compiling root-test (1 scala source)
+2026.04.04 18:58:44 INFO  time: compiled root in 0.3s
+2026.04.04 18:58:44 INFO  time: compiled root-test in 73ms
+2026.04.04 18:58:48 INFO  compiling root (1 scala source)
+2026.04.04 18:58:48 INFO  time: compiled root in 0.13s
+2026.04.04 18:58:49 INFO  compiling root (1 scala source)
+2026.04.04 18:58:49 INFO  time: compiled root in 98ms
+2026.04.04 18:58:52 INFO  compiling root (1 scala source)
+2026.04.04 18:58:52 INFO  time: compiled root in 99ms
+2026.04.04 18:58:54 INFO  compiling root (1 scala source)
+2026.04.04 18:58:54 INFO  time: compiled root in 0.14s
+2026.04.04 18:58:58 INFO  compiling root (1 scala source)
+2026.04.04 18:58:58 INFO  time: compiled root in 0.12s
+2026.04.04 18:59:00 INFO  compiling root (1 scala source)
+2026.04.04 18:59:00 INFO  time: compiled root in 0.11s
+2026.04.04 18:59:04 INFO  compiling root (1 scala source)
+2026.04.04 18:59:04 INFO  time: compiled root in 0.12s
+2026.04.04 18:59:06 INFO  compiling root (1 scala source)
+2026.04.04 18:59:06 INFO  compiling root-test (1 scala source)
+2026.04.04 18:59:06 INFO  time: compiled root in 0.27s
+2026.04.04 18:59:06 INFO  time: compiled root-test in 60ms
+2026.04.04 18:59:13 INFO  compiling root (1 scala source)
+2026.04.04 18:59:13 INFO  time: compiled root in 0.14s
+2026.04.04 18:59:14 INFO  compiling root (1 scala source)
+2026.04.04 18:59:14 INFO  time: compiled root in 0.14s
+2026.04.04 18:59:19 INFO  compiling root (1 scala source)
+2026.04.04 18:59:19 INFO  time: compiled root in 0.17s
+2026.04.04 18:59:21 INFO  compiling root (1 scala source)
+2026.04.04 18:59:21 INFO  time: compiled root in 0.12s
+2026.04.04 18:59:24 INFO  compiling root (1 scala source)
+2026.04.04 18:59:24 INFO  compiling root-test (1 scala source)
+2026.04.04 18:59:24 INFO  time: compiled root in 0.31s
+2026.04.04 18:59:24 INFO  time: compiled root-test in 65ms
+2026.04.04 18:59:28 INFO  compiling root (1 scala source)
+2026.04.04 18:59:28 INFO  time: compiled root in 0.13s
+2026.04.04 18:59:32 INFO  compiling root (1 scala source)
+2026.04.04 18:59:32 INFO  time: compiled root in 0.3s
+2026.04.04 18:59:36 INFO  compiling root (1 scala source)
+2026.04.04 18:59:36 INFO  compiling root-test (1 scala source)
+2026.04.04 18:59:36 INFO  time: compiled root in 0.44s
+2026.04.04 18:59:36 INFO  time: compiled root-test in 82ms
+2026.04.04 19:06:45 INFO  compiling root (1 scala source)
+2026.04.04 19:06:45 INFO  time: compiled root in 0.14s
+2026.04.04 19:06:47 INFO  compiling root (1 scala source)
+2026.04.04 19:06:47 INFO  compiling root-test (1 scala source)
+2026.04.04 19:06:47 INFO  time: compiled root in 0.29s
+2026.04.04 19:06:47 INFO  time: compiled root-test in 53ms
+2026.04.04 19:06:48 INFO  compiling root (1 scala source)
+2026.04.04 19:06:48 INFO  compiling root-test (1 scala source)
+2026.04.04 19:06:48 INFO  time: compiled root in 0.21s
+2026.04.04 19:06:48 INFO  time: compiled root-test in 52ms
+2026.04.04 19:06:51 INFO  compiling root (1 scala source)
+2026.04.04 19:06:51 INFO  time: compiled root in 0.13s
+2026.04.04 19:06:55 INFO  compiling root (1 scala source)
+2026.04.04 19:06:55 INFO  time: compiled root in 0.11s
+2026.04.04 19:06:57 INFO  compiling root (1 scala source)
+2026.04.04 19:06:57 INFO  time: compiled root in 0.12s
+Apr 04, 2026 7:06:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1172
+2026.04.04 19:06:58 INFO  compiling root (1 scala source)
+2026.04.04 19:06:58 INFO  time: compiled root in 0.12s
+2026.04.04 19:07:01 INFO  compiling root (1 scala source)
+2026.04.04 19:07:01 INFO  time: compiled root in 95ms
+2026.04.04 19:07:05 INFO  compiling root (1 scala source)
+2026.04.04 19:07:05 INFO  time: compiled root in 0.13s
+2026.04.04 19:07:08 INFO  compiling root (1 scala source)
+2026.04.04 19:07:08 INFO  compiling root-test (1 scala source)
+2026.04.04 19:07:08 INFO  time: compiled root in 0.28s
+2026.04.04 19:07:08 INFO  time: compiled root-test in 55ms
+2026.04.04 19:10:11 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.04.04 19:10:11 INFO  expected identifier; obtained rbrace (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-04-04/r_scala-toplevel-mtags_19-10-11-128.md")
+2026.04.04 19:10:11 INFO  compiling root (1 scala source)
+2026.04.04 19:10:11 INFO  time: compiled root in 0.12s
+2026.04.04 19:10:13 INFO  compiling root (1 scala source)
+2026.04.04 19:10:13 INFO  time: compiled root in 0.12s
+2026.04.04 19:10:15 INFO  compiling root (1 scala source)
+2026.04.04 19:10:15 INFO  time: compiled root in 0.11s
+Apr 04, 2026 7:10:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1386
+2026.04.04 19:10:18 INFO  compiling root (1 scala source)
+2026.04.04 19:10:18 INFO  time: compiled root in 94ms
+2026.04.04 19:10:21 INFO  compiling root (1 scala source)
+2026.04.04 19:10:21 INFO  time: compiled root in 0.17s
+Apr 04, 2026 7:10:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1431
+2026.04.04 19:10:34 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.04.04 19:10:34 INFO  expected identifier; obtained rbrace (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-04-04/r_scala-toplevel-mtags_19-10-34-438.md")
+2026.04.04 19:10:34 INFO  compiling root (1 scala source)
+2026.04.04 19:10:34 INFO  time: compiled root in 0.12s
+2026.04.04 19:10:36 INFO  compiling root (1 scala source)
+2026.04.04 19:10:36 INFO  time: compiled root in 0.14s
+2026.04.04 19:10:41 INFO  compiling root (1 scala source)
+2026.04.04 19:10:41 INFO  time: compiled root in 0.14s
+2026.04.04 19:10:43 INFO  compiling root (1 scala source)
+2026.04.04 19:10:43 INFO  time: compiled root in 0.15s
+2026.04.04 19:10:52 INFO  compiling root (1 scala source)
+2026.04.04 19:10:52 INFO  time: compiled root in 0.17s
+2026.04.04 19:10:54 INFO  compiling root (1 scala source)
+2026.04.04 19:10:54 INFO  time: compiled root in 0.16s
+2026.04.04 19:11:03 INFO  compiling root (1 scala source)
+2026.04.04 19:11:03 INFO  time: compiled root in 0.19s
+2026.04.04 19:11:07 INFO  compiling root (1 scala source)
+2026.04.04 19:11:07 INFO  time: compiled root in 0.13s
+2026.04.04 19:11:11 INFO  compiling root (1 scala source)
+2026.04.04 19:11:11 INFO  time: compiled root in 0.15s
+2026.04.04 19:11:15 INFO  compiling root (1 scala source)
+2026.04.04 19:11:15 INFO  compiling root-test (1 scala source)
+2026.04.04 19:11:15 INFO  time: compiled root in 0.25s
+2026.04.04 19:11:15 INFO  time: compiled root-test in 50ms
+2026.04.04 19:11:58 INFO  compiling root (1 scala source)
+2026.04.04 19:11:58 INFO  compiling root-test (1 scala source)
+2026.04.04 19:11:58 INFO  time: compiled root in 0.25s
+2026.04.04 19:11:58 INFO  time: compiled root-test in 47ms
+2026.04.04 19:12:16 INFO  compiling root (1 scala source)
+2026.04.04 19:12:16 INFO  time: compiled root in 0.14s
+2026.04.04 19:12:17 INFO  compiling root (1 scala source)
+2026.04.04 19:12:17 INFO  time: compiled root in 94ms
+2026.04.04 19:12:20 INFO  compiling root (1 scala source)
+2026.04.04 19:12:20 INFO  compiling root-test (1 scala source)
+2026.04.04 19:12:20 INFO  time: compiled root in 0.2s
+2026.04.04 19:12:20 INFO  time: compiled root-test in 56ms
+2026.04.04 19:12:31 INFO  compiling root (1 scala source)
+2026.04.04 19:12:31 INFO  compiling root-test (1 scala source)
+2026.04.04 19:12:31 INFO  time: compiled root in 0.22s
+2026.04.04 19:12:31 INFO  time: compiled root-test in 53ms
+2026.04.04 19:12:32 INFO  compiling root (1 scala source)
+2026.04.04 19:12:32 INFO  compiling root-test (1 scala source)
+2026.04.04 19:12:32 INFO  time: compiled root in 0.18s
+2026.04.04 19:12:32 INFO  time: compiled root-test in 48ms
+2026.04.04 19:12:35 INFO  compiling root (1 scala source)
+2026.04.04 19:12:35 INFO  compiling root-test (1 scala source)
+2026.04.04 19:12:35 INFO  time: compiled root in 0.22s
+2026.04.04 19:12:35 INFO  time: compiled root-test in 44ms
+2026.04.04 19:19:04 INFO  compiling root (1 scala source)
+2026.04.04 19:19:04 INFO  time: compiled root in 0.18s
+2026.04.04 19:19:20 INFO  compiling root (1 scala source)
+2026.04.04 19:19:20 INFO  time: compiled root in 0.17s
+2026.04.04 19:19:30 INFO  compiling root (1 scala source)
+2026.04.04 19:19:30 INFO  time: compiled root in 0.18s
+2026.04.04 19:19:41 INFO  compiling root (1 scala source)
+2026.04.04 19:19:41 INFO  time: compiled root in 0.16s
+2026.04.04 19:19:50 INFO  compiling root (1 scala source)
+2026.04.04 19:19:50 INFO  time: compiled root in 0.15s
+2026.04.04 19:20:14 INFO  compiling root (1 scala source)
+2026.04.04 19:20:14 INFO  time: compiled root in 0.16s
+2026.04.04 19:20:33 INFO  compiling root (1 scala source)
+2026.04.04 19:20:33 INFO  compiling root-test (1 scala source)
+2026.04.04 19:20:33 INFO  time: compiled root in 0.27s
+2026.04.04 19:20:33 INFO  time: compiled root-test in 44ms
+2026.04.04 19:22:44 INFO  compiling root (1 scala source)
+2026.04.04 19:22:44 INFO  compiling root-test (1 scala source)
+2026.04.04 19:22:44 INFO  time: compiled root in 0.24s
+2026.04.04 19:22:44 INFO  time: compiled root-test in 46ms
+2026.04.04 19:24:01 INFO  compiling root (1 scala source)
+2026.04.04 19:24:01 INFO  time: compiled root in 0.12s
+2026.04.04 19:24:06 INFO  compiling root (1 scala source)
+2026.04.04 19:24:06 INFO  time: compiled root in 0.14s
+2026.04.04 19:24:10 INFO  compiling root (1 scala source)
+2026.04.04 19:24:10 INFO  time: compiled root in 0.24s
+2026.04.04 19:24:12 INFO  compiling root (1 scala source)
+2026.04.04 19:24:12 INFO  time: compiled root in 0.17s
+2026.04.04 19:24:19 INFO  compiling root (1 scala source)
+2026.04.04 19:24:19 INFO  time: compiled root in 0.22s
+2026.04.04 19:24:23 INFO  compiling root (1 scala source)
+2026.04.04 19:24:23 INFO  compiling root-test (1 scala source)
+2026.04.04 19:24:23 INFO  time: compiled root in 0.3s
+2026.04.04 19:24:23 INFO  time: compiled root-test in 80ms
+2026.04.04 19:31:38 INFO  compiling root (1 scala source)
+2026.04.04 19:31:38 INFO  compiling root-test (1 scala source)
+2026.04.04 19:31:38 INFO  time: compiled root in 0.32s
+2026.04.04 19:31:38 INFO  time: compiled root-test in 54ms
+2026.04.04 19:31:42 INFO  compiling root (1 scala source)
+2026.04.04 19:31:42 INFO  compiling root-test (1 scala source)
+2026.04.04 19:31:42 INFO  time: compiled root in 0.27s
+2026.04.04 19:31:42 INFO  time: compiled root-test in 75ms
+2026.04.04 19:32:05 INFO  compiling root (1 scala source)
+2026.04.04 19:32:05 INFO  compiling root-test (1 scala source)
+2026.04.04 19:32:05 INFO  time: compiled root in 0.32s
+2026.04.04 19:32:05 INFO  time: compiled root-test in 69ms
+2026.04.04 19:36:34 INFO  compiling root (1 scala source)
+2026.04.04 19:36:34 INFO  compiling root-test (1 scala source)
+2026.04.04 19:36:34 INFO  time: compiled root in 0.3s
+2026.04.04 19:36:34 INFO  time: compiled root-test in 64ms
+2026.04.04 19:36:47 INFO  compiling root (1 scala source)
+2026.04.04 19:36:47 INFO  compiling root-test (1 scala source)
+2026.04.04 19:36:47 INFO  time: compiled root in 0.25s
+2026.04.04 19:36:47 INFO  time: compiled root-test in 68ms
+2026.04.04 19:36:50 INFO  compiling root (1 scala source)
+2026.04.04 19:36:50 INFO  compiling root-test (1 scala source)
+2026.04.04 19:36:50 INFO  time: compiled root in 0.27s
+2026.04.04 19:36:50 INFO  time: compiled root-test in 71ms
+2026.04.04 19:40:44 INFO  compiling root (1 scala source)
+2026.04.04 19:40:44 INFO  compiling root-test (1 scala source)
+2026.04.04 19:40:44 INFO  time: compiled root in 0.24s
+2026.04.04 19:40:44 INFO  time: compiled root-test in 53ms
+2026.04.04 19:40:48 INFO  compiling root (1 scala source)
+2026.04.04 19:40:48 INFO  compiling root-test (1 scala source)
+2026.04.04 19:40:48 INFO  time: compiled root in 0.2s
+2026.04.04 19:40:48 INFO  time: compiled root-test in 53ms
+2026.04.04 19:40:50 INFO  compiling root (1 scala source)
+2026.04.04 19:40:50 INFO  compiling root-test (1 scala source)
+2026.04.04 19:40:50 INFO  time: compiled root in 0.21s
+2026.04.04 19:40:50 INFO  time: compiled root-test in 48ms
+2026.04.04 19:40:53 INFO  compiling root (1 scala source)
+2026.04.04 19:40:53 INFO  compiling root-test (1 scala source)
+2026.04.04 19:40:53 INFO  time: compiled root in 0.24s
+2026.04.04 19:40:53 INFO  time: compiled root-test in 90ms
+2026.04.04 19:41:17 INFO  compiling root (1 scala source)
+2026.04.04 19:41:17 INFO  compiling root-test (1 scala source)
+2026.04.04 19:41:17 INFO  time: compiled root in 0.3s
+2026.04.04 19:41:17 INFO  time: compiled root-test in 62ms
+2026.04.04 19:41:20 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.04.04 19:41:20 INFO  expected identifier; obtained rbrace (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-04-04/r_scala-toplevel-mtags_19-41-20-068.md")
+2026.04.04 19:41:20 INFO  compiling root (1 scala source)
+2026.04.04 19:41:20 INFO  time: compiled root in 95ms
+Apr 04, 2026 7:41:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4353
+2026.04.04 19:41:24 INFO  compiling root (1 scala source)
+2026.04.04 19:41:24 INFO  time: compiled root in 0.13s
+2026.04.04 19:41:29 INFO  compiling root (1 scala source)
+2026.04.04 19:41:29 INFO  time: compiled root in 0.21s
+2026.04.04 19:43:25 INFO  compiling root (1 scala source)
+2026.04.04 19:43:25 INFO  time: compiled root in 0.14s
+2026.04.04 19:44:24 INFO  compiling root (1 scala source)
+2026.04.04 19:44:24 INFO  time: compiled root in 0.18s
+2026.04.04 19:44:35 INFO  compiling root (1 scala source)
+2026.04.04 19:44:35 INFO  time: compiled root in 0.14s
+2026.04.04 19:44:45 INFO  Created report: Optional[file:///Users/adityarajsingh/scala344/file:/Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala]
+2026.04.04 19:44:45 INFO  expected identifier; obtained rbrace (full report at: "/Users/adityarajsingh/scala344/.metals/.reports/metals/2026-04-04/r_scala-toplevel-mtags_19-44-45-828.md")
+2026.04.04 19:44:45 INFO  compiling root (1 scala source)
+2026.04.04 19:44:45 INFO  time: compiled root in 0.13s
+2026.04.04 19:44:47 INFO  compiling root (1 scala source)
+2026.04.04 19:44:47 INFO  time: compiled root in 0.12s
+Apr 04, 2026 7:44:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4579
+2026.04.04 19:44:50 INFO  compiling root (1 scala source)
+2026.04.04 19:44:50 INFO  time: compiled root in 97ms
+2026.04.04 19:44:51 INFO  compiling root (1 scala source)
+2026.04.04 19:44:51 INFO  time: compiled root in 0.13s
+2026.04.04 19:44:56 INFO  compiling root (1 scala source)
+2026.04.04 19:44:56 INFO  time: compiled root in 0.17s
+2026.04.04 19:52:57 INFO  compiling root (1 scala source)
+2026.04.04 19:52:57 INFO  time: compiled root in 0.16s
+2026.04.06 10:15:59 INFO  compiling root (1 scala source)
+2026.04.06 10:16:00 INFO  time: compiled root in 1.23s
+2026.04.06 10:20:04 INFO  compiling root (1 scala source)
+2026.04.06 10:20:06 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:06 INFO  time: compiled root in 1.59s
+2026.04.06 10:20:06 INFO  time: compiled root-test in 0.16s
+2026.04.06 10:20:08 INFO  compiling root (1 scala source)
+2026.04.06 10:20:08 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:08 INFO  time: compiled root in 0.64s
+2026.04.06 10:20:08 INFO  time: compiled root-test in 92ms
+2026.04.06 10:20:10 INFO  compiling root (1 scala source)
+2026.04.06 10:20:10 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:10 INFO  time: compiled root in 0.56s
+2026.04.06 10:20:10 INFO  time: compiled root-test in 86ms
+2026.04.06 10:20:12 INFO  compiling root (1 scala source)
+2026.04.06 10:20:12 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:12 INFO  time: compiled root in 0.41s
+2026.04.06 10:20:12 INFO  time: compiled root-test in 75ms
+2026.04.06 10:20:14 INFO  compiling root (1 scala source)
+2026.04.06 10:20:14 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:14 INFO  time: compiled root in 0.56s
+2026.04.06 10:20:14 INFO  time: compiled root-test in 69ms
+2026.04.06 10:20:16 INFO  compiling root (1 scala source)
+2026.04.06 10:20:16 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:16 INFO  time: compiled root in 0.36s
+2026.04.06 10:20:16 INFO  time: compiled root-test in 74ms
+2026.04.06 10:20:45 INFO  compiling root (1 scala source)
+2026.04.06 10:20:45 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:45 INFO  time: compiled root in 0.36s
+2026.04.06 10:20:45 INFO  time: compiled root-test in 71ms
+2026.04.06 10:20:52 INFO  compiling root (1 scala source)
+2026.04.06 10:20:52 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:52 INFO  time: compiled root in 0.39s
+2026.04.06 10:20:52 INFO  time: compiled root-test in 62ms
+2026.04.06 10:20:55 INFO  compiling root (1 scala source)
+2026.04.06 10:20:55 INFO  compiling root-test (1 scala source)
+2026.04.06 10:20:55 INFO  time: compiled root in 0.26s
+2026.04.06 10:20:55 INFO  time: compiled root-test in 51ms
+Apr 06, 2026 10:23:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5465
+2026.04.06 10:24:59 INFO  compiling root (1 scala source)
+2026.04.06 10:24:59 INFO  time: compiled root in 0.17s
+2026.04.06 10:25:02 INFO  compiling root (1 scala source)
+2026.04.06 10:25:02 INFO  compiling root-test (1 scala source)
+2026.04.06 10:25:02 INFO  time: compiled root in 0.28s
+2026.04.06 10:25:02 INFO  time: compiled root-test in 49ms
+2026.04.06 10:45:40 INFO  compiling root (1 scala source)
+2026.04.06 10:45:40 INFO  compiling root-test (1 scala source)
+2026.04.06 10:45:40 INFO  time: compiled root in 0.33s
+2026.04.06 10:45:40 INFO  time: compiled root-test in 51ms
+Apr 06, 2026 10:54:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6696
+Apr 06, 2026 10:58:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6930
+2026.04.06 14:12:10 INFO  Shutting down server
+2026.04.06 14:12:10 INFO  Memory monitor stopped
+2026.04.06 14:12:10 INFO  shutting down Metals
+2026.04.06 14:12:10 INFO  Shut down connection with build server.
+2026.04.06 14:12:10 INFO  Shut down connection with build server.
+2026.04.06 14:12:10 INFO  Exiting server
+2026.04.06 14:42:19 INFO  Started: Metals version 1.6.6 in folders '/Users/adityarajsingh/scala344' for client Visual Studio Code 1.114.0.
+2026.04.06 14:42:19 INFO  Memory monitor started
+2026.04.06 14:42:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.06 14:42:19 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 06, 2026 2:42:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.06 14:42:21 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.06 14:42:21 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.06 14:42:21 INFO  Attempting to connect to the build server...
+2026.04.06 14:42:21 INFO  Found a Bloop server running
+2026.04.06 14:42:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.06 14:42:21 INFO  Attempting to connect to the build server...
+2026.04.06 14:42:21 INFO  Found a Bloop server running
+Apr 06, 2026 2:42:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 06, 2026 2:42:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Apr 06, 2026 2:42:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.04.06 14:42:21 INFO  no build target found for /Users/adityarajsingh/scala344/src/main/scala/example/MainProject.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.06 14:42:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/adityarajsingh/scala344/project/.metals/bsp.trace.json or /Users/adityarajsingh/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.04.06 14:42:21 INFO  time: Connected to build server in 0.4s
+2026.04.06 14:42:21 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.06 14:42:21 INFO  time: Imported build in 0.11s
+2026.04.06 14:42:21 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
